@@ -271,9 +271,9 @@ void,void,module,Magento_Authorizenet
 "Authorize Only","Authorize Only",module,Magento_Authorizenet
 "Authorize and Capture","Authorize and Capture",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Unable to get transaction details. Try again later.",module,Magento_Authorizenet
-"Credit Card Type","Credit Card Type",module,Magento_Authorizenet
-"Credit Card Number","Credit Card Number",module,Magento_Authorizenet
-"Expiration Date","Expiration Date",module,Magento_Authorizenet
+"Credit Card Type",Kreditkorttype,module,Magento_Authorizenet
+"Credit Card Number",Kreditkortnummer,module,Magento_Authorizenet
+"Expiration Date",Udløbsdato,module,Magento_Authorizenet
 "Card Verification Number","Card Verification Number",module,Magento_Authorizenet
 "Fraud Detection","Fraud Detection",module,Magento_Authorizenet
 "FDS Filter Action","FDS Filter Action",module,Magento_Authorizenet
@@ -281,7 +281,7 @@ void,void,module,Magento_Authorizenet
 "Card Code Response","Card Code Response",module,Magento_Authorizenet
 "CAVV Response","CAVV Response",module,Magento_Authorizenet
 "Fraud Filters","Fraud Filters",module,Magento_Authorizenet
-"Place Order","Place Order",module,Magento_Authorizenet
+"Place Order","Afgiv ordre",module,Magento_Authorizenet
 "Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
 Enabled,Enabled,module,Magento_Authorizenet
 "Payment Action","Payment Action",module,Magento_Authorizenet
@@ -293,12 +293,12 @@ Title,Title,module,Magento_Authorizenet
 "Test Mode","Test Mode",module,Magento_Authorizenet
 "Gateway URL","Gateway URL",module,Magento_Authorizenet
 "Transaction Details URL","Transaction Details URL",module,Magento_Authorizenet
-"Accepted Currency","Accepted Currency",module,Magento_Authorizenet
-Debug,Debug,module,Magento_Authorizenet
-"Email Customer","Email Customer",module,Magento_Authorizenet
+"Accepted Currency","Accepteret valuta",module,Magento_Authorizenet
+Debug,Fejlsøgning,module,Magento_Authorizenet
+"Email Customer","E-mail til kunde",module,Magento_Authorizenet
 "Merchant's Email","Merchant's Email",module,Magento_Authorizenet
-"Credit Card Types","Credit Card Types",module,Magento_Authorizenet
-"Credit Card Verification","Credit Card Verification",module,Magento_Authorizenet
+"Credit Card Types",Kreditkorttyper,module,Magento_Authorizenet
+"Credit Card Verification","Kreditkort verifikation",module,Magento_Authorizenet
 "Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Authorizenet
 "Payment from Specific Countries","Payment from Specific Countries",module,Magento_Authorizenet
 "Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
@@ -1167,34 +1167,34 @@ Cancel,Annuller,module,Magento_Bundle
 "Input Type","Input type",module,Magento_Bundle
 Drop-down,Drop-down,module,Magento_Bundle
 "Radio Buttons",Knapper,module,Magento_Bundle
-Checkbox,Checkbox,module,Magento_Bundle
-"Multiple Select","Multiple Select",module,Magento_Bundle
-Required,Required,module,Magento_Bundle
+Checkbox,Afkrydsningsfelt,module,Magento_Bundle
+"Multiple Select","Marker flere",module,Magento_Bundle
+Required,Påkrævet,module,Magento_Bundle
 "Is Default","Is Default",module,Magento_Bundle
-Name,Name,module,Magento_Bundle
-"Default Quantity","Default Quantity",module,Magento_Bundle
-"User Defined","User Defined",module,Magento_Bundle
-"Price Type","Price Type",module,Magento_Bundle
+Name,Navn,module,Magento_Bundle
+"Default Quantity","Standard mængde",module,Magento_Bundle
+"User Defined",Brugerdefineret,module,Magento_Bundle
+"Price Type",Pristype,module,Magento_Bundle
 None,Ingen,module,Magento_Bundle
-Quantity:,Quantity:,module,Magento_Bundle
-"Choose a selection...","Choose a selection...",module,Magento_Bundle
+Quantity:,Antal:,module,Magento_Bundle
+"Choose a selection...","Vælg et udvalg...",module,Magento_Bundle
 "Ship Bundle Items","Ship Bundle Items",module,Magento_Bundle
-Position,Position,module,Magento_Bundle
-"There are no products in this option.","There are no products in this option.",module,Magento_Bundle
-Default,Default,module,Magento_Bundle
-Ordered,Ordered,module,Magento_Bundle
-Invoiced,Invoiced,module,Magento_Bundle
-Shipped,Shipped,module,Magento_Bundle
-Refunded,Refunded,module,Magento_Bundle
-Canceled,Canceled,module,Magento_Bundle
-"As low as","As low as",module,Magento_Bundle
-"Regular Price","Regular Price",module,Magento_Bundle
-From,From,module,Magento_Bundle
-To,To,module,Magento_Bundle
+Position,Placering,module,Magento_Bundle
+"There are no products in this option.","Der er ingen produkter i denne indstilling.",module,Magento_Bundle
+Default,Standard,module,Magento_Bundle
+Ordered,Bestilt,module,Magento_Bundle
+Invoiced,Faktureret,module,Magento_Bundle
+Shipped,Afsendt,module,Magento_Bundle
+Refunded,Refunderet,module,Magento_Bundle
+Canceled,Annulleret,module,Magento_Bundle
+"As low as","Så lavt som",module,Magento_Bundle
+"Regular Price",Normalpris,module,Magento_Bundle
+From,Fra,module,Magento_Bundle
+To,Til,module,Magento_Bundle
 "Buy %1 with %2 discount each","Buy %1 with %2 discount each",module,Magento_Bundle
-"Go back to product details","Go back to product details",module,Magento_Bundle
-"Customize and Add to Cart","Customize and Add to Cart",module,Magento_Bundle
-"* Required Fields","* Required Fields",module,Magento_Bundle
+"Go back to product details","Tilbage til produktdetaljer",module,Magento_Bundle
+"Customize and Add to Cart","Tilpas og tilføj til indkøbskurv",module,Magento_Bundle
+"* Required Fields","* Påkrævede felter",module,Magento_Bundle
 "Your Customization","Your Customization",module,Magento_Bundle
 Availability,Availability,module,Magento_Bundle
 "In stock","In stock",module,Magento_Bundle
