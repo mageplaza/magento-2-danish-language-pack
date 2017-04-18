@@ -36,7 +36,7 @@ Install the Danish language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-danish-language-pack:dev-master
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy da-dk
+php bin/magento setup:static-content:deploy da_DK
 
 ```
 
@@ -46,7 +46,7 @@ php bin/magento setup:static-content:deploy da-dk
 ```
 composer update mageplaza/magento-2-danish-language-pack:dev-master
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy da-dk
+php bin/magento setup:static-content:deploy da_DK
 
 ```
 
@@ -130,12 +130,15 @@ Contribute to this language at https://crowdin.com/project/magento-2/da
 - Magento v2.0.9
 - Magento v2.0.10
 - Magento v2.0.11
+- Magento v2.0.12
+- Magento v2.0.13
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
 - Magento v2.1.3
 - Magento v2.1.4
 - Magento v2.1.5
+- Magento v2.1.6
 
 
 
