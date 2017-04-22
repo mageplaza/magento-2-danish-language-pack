@@ -2725,6 +2725,7 @@ Payment,Betaling,module,Magento_Checkout
 "Not yet calculated","Endnu ikke beregnet",module,Magento_Checkout
 "We received your order!","Vi har modtaget din bestilling!",module,Magento_Checkout
 "Thank you for your purchase!","Tak for dit køb!",module,Magento_Checkout
+"Go to Checkout","Gå til kassen",module,Magento_Checkout
 "Terms and Conditions","Vilkår og betingelser",module,Magento_CheckoutAgreements
 "Add New Condition","Tilføj ny betingelse",module,Magento_CheckoutAgreements
 "Save Condition","Gem tilstand",module,Magento_CheckoutAgreements
