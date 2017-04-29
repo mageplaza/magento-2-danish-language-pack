@@ -2726,6 +2726,9 @@ Payment,Betaling,module,Magento_Checkout
 "We received your order!","Vi har modtaget din bestilling!",module,Magento_Checkout
 "Thank you for your purchase!","Tak for dit køb!",module,Magento_Checkout
 "Go to Checkout","Gå til kassen",module,Magento_Checkout
+"View and edit cart","Se og rediger kurv",module,Magento_Checkout
+"Item in Cart","Vare i indkøbskurv",module,Magento_Checkout
+"Items in Cart","Varer i indkøbskurv",module,Magento_Checkout
 "Terms and Conditions","Vilkår og betingelser",module,Magento_CheckoutAgreements
 "Add New Condition","Tilføj ny betingelse",module,Magento_CheckoutAgreements
 "Save Condition","Gem tilstand",module,Magento_CheckoutAgreements
@@ -6309,6 +6312,7 @@ Partners,Partnere,module,Magento_Marketplace
 "Read More","Read More",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Synkronisér,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Synkroniserer...,module,Magento_MediaStorage
@@ -12591,9 +12595,9 @@ Footer,Sidefod,theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Placeret på <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Opdaterer til din %store_name bestilling",theme,frontend/Magento/luma
 "Your %store_name order has shipped","Din %store_name bestilling er blevet afsendt",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Din forsendelse bekræftelse er nedenfor. Endnu en gang tak for din ordre.",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Din forsendelsesbekræftelse er nedenfor. Endnu en gang tak for din ordre.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Din forsendelse #%shipment_id for ordre #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Opdaterer til din %store_name forsendelse",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Opdater til din %store_name forsendelse",theme,frontend/Magento/luma
 "Account Dashboard",Betjeningspanel,theme,frontend/Magento/luma
 "Address Book",Adressebog,theme,frontend/Magento/luma
 "Account Information",Kontooplysninger,theme,frontend/Magento/luma
