@@ -309,7 +309,7 @@ Error,Fejl,module,Magento_AsynchronousOperations
 "Order saving error: %1","Bestillingsfejl ikke gemt: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Vælg venligst betalingsmetode.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Vi kan ikke behandle din ordre i øjeblikket, prøv igen senere.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","Der opstod en fejl på serveren. Prøv at placere ordren igen.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Kreditkort: xxxx-%1",module,Magento_Authorizenet
 "amount %1","beløb %1",module,Magento_Authorizenet
 failed.,"noget gik galt.",module,Magento_Authorizenet
@@ -2184,10 +2184,10 @@ Edit,Rediger,module,Magento_CatalogEvent
 "Invalid stock id: %1. Only default stock with id %2 allowed","Ugyldigt stock-id: %1. Kun standard lager med id %2 tilladt",module,Magento_CatalogInventory
 "Invalid stock item id: %1. Should be null or numeric value greater than 0","Ugyldig lagervare id: %1. Skal være null eller numerisk værdi større end 0",module,Magento_CatalogInventory
 "Invalid stock item id: %1. Assigned stock item id is %2","Ugyldig lagervare id: %1. Tildelte lagervare id er %2",module,Magento_CatalogInventory
-"The stock item for Product is not valid.","The stock item for Product is not valid.",module,Magento_CatalogInventory
+"The stock item for Product is not valid.","Lagervare til Produktet er ikke gyldigt.",module,Magento_CatalogInventory
 "This product is out of stock.","Denne vare er udsolgt.",module,Magento_CatalogInventory
 "Some of the products are out of stock.","Nogle af produkterne er ikke på lager.",module,Magento_CatalogInventory
-"The stock item for Product in option is not valid.","The stock item for Product in option is not valid.",module,Magento_CatalogInventory
+"The stock item for Product in option is not valid.","Lagervare for produktet i indstilling er ikke gyldig.",module,Magento_CatalogInventory
 "Undefined product type","Udefineret produkttype",module,Magento_CatalogInventory
 "%1 is not a correct comparison method.","%1 er ikke en korrekt sammenligningsmetode.",module,Magento_CatalogInventory
 "No Backorders","Ingen restordrer",module,Magento_CatalogInventory
@@ -2293,39 +2293,39 @@ Reset,Nulstil,module,Magento_CatalogRule
 "Save and Continue Edit","Gem og fortsæt redigering",module,Magento_CatalogRule
 Save,Gem,module,Magento_CatalogRule
 "Catalog Price Rule","Catalog Price Rule",module,Magento_CatalogRule
-"Add New Rule","Add New Rule",module,Magento_CatalogRule
-"Apply Rules","Apply Rules",module,Magento_CatalogRule
-Conditions,Conditions,module,Magento_CatalogRule
+"Add New Rule","Tilføj ny regel",module,Magento_CatalogRule
+"Apply Rules","Anvende regler",module,Magento_CatalogRule
+Conditions,Betingelser,module,Magento_CatalogRule
 "Conditions (don't add conditions if rule is applied to all products)","Conditions (don't add conditions if rule is applied to all products)",module,Magento_CatalogRule
 ID,ID,module,Magento_CatalogRule
 Type,Type,module,Magento_CatalogRule
-"Attribute Set","Attribute Set",module,Magento_CatalogRule
+"Attribute Set",Attributssæt,module,Magento_CatalogRule
 SKU,SKU,module,Magento_CatalogRule
-Product,Product,module,Magento_CatalogRule
-Promotions,Promotions,module,Magento_CatalogRule
-"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.",module,Magento_CatalogRule
+Product,Produkt,module,Magento_CatalogRule
+Promotions,Kampagner,module,Magento_CatalogRule
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Vi fandt opdaterede regler, der ikke er anvendt. Klik på ""Anvend regler"" for at opdatere dit katalog.",module,Magento_CatalogRule
 "We can't apply the rules.","We can't apply the rules.",module,Magento_CatalogRule
-"You deleted the rule.","You deleted the rule.",module,Magento_CatalogRule
+"You deleted the rule.","Du har slettet reglen.",module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.","We can't delete this rule right now. Please review the log and try again.",module,Magento_CatalogRule
 "We can't find a rule to delete.","We can't find a rule to delete.",module,Magento_CatalogRule
-"This rule no longer exists.","This rule no longer exists.",module,Magento_CatalogRule
-"New Catalog Price Rule","New Catalog Price Rule",module,Magento_CatalogRule
-"Edit Rule","Edit Rule",module,Magento_CatalogRule
-"New Rule","New Rule",module,Magento_CatalogRule
-Catalog,Catalog,module,Magento_CatalogRule
-"You saved the rule.","You saved the rule.",module,Magento_CatalogRule
+"This rule no longer exists.","Denne regel eksisterer ikke længere.",module,Magento_CatalogRule
+"New Catalog Price Rule","Nyt katalog Pris Regel",module,Magento_CatalogRule
+"Edit Rule","Rediger regel",module,Magento_CatalogRule
+"New Rule","Ny regel",module,Magento_CatalogRule
+Catalog,Katalog,module,Magento_CatalogRule
+"You saved the rule.","Du har gemte reglen.",module,Magento_CatalogRule
 "Something went wrong while saving the rule data. Please review the error log.","Something went wrong while saving the rule data. Please review the error log.",module,Magento_CatalogRule
-Promo,Promo,module,Magento_CatalogRule
-"Unable to save rule %1","Unable to save rule %1",module,Magento_CatalogRule
+Promo,Kampagne,module,Magento_CatalogRule
+"Unable to save rule %1","Kunne ikke gemme reglen %1",module,Magento_CatalogRule
 "Rule with specified ID ""%1"" not found.","Rule with specified ID ""%1"" not found.",module,Magento_CatalogRule
-"Unable to remove rule %1","Unable to remove rule %1",module,Magento_CatalogRule
-"Could not rebuild index for empty products array","Could not rebuild index for empty products array",module,Magento_CatalogRule
+"Unable to remove rule %1","Ikke i stand til at fjerne reglen %1",module,Magento_CatalogRule
+"Could not rebuild index for empty products array","Kunne ikke genopbygge indekset af tomme produkter",module,Magento_CatalogRule
 "We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_CatalogRule
 "Catalog rule indexing failed. See details in exception log.","Catalog rule indexing failed. See details in exception log.",module,Magento_CatalogRule
 "Percentage discount should be between 0 and 100.","Percentage discount should be between 0 and 100.",module,Magento_CatalogRule
-"Discount value should be 0 or greater.","Discount value should be 0 or greater.",module,Magento_CatalogRule
-"Unknown action.","Unknown action.",module,Magento_CatalogRule
-"Update the Product","Update the Product",module,Magento_CatalogRule
+"Discount value should be 0 or greater.","Rabat værdien skal være 0 eller større.",module,Magento_CatalogRule
+"Unknown action.","Ukendt handling.",module,Magento_CatalogRule
+"Update the Product","Opdater produktet",module,Magento_CatalogRule
 "Rule price","Rule price",module,Magento_CatalogRule
 "To Fixed Value","To Fixed Value",module,Magento_CatalogRule
 "To Percentage","To Percentage",module,Magento_CatalogRule
@@ -2337,18 +2337,18 @@ Promo,Promo,module,Magento_CatalogRule
 "Adjust final price to this percentage","Adjust final price to this percentage",module,Magento_CatalogRule
 "Adjust final price to discount value","Adjust final price to discount value",module,Magento_CatalogRule
 "Conditions Combination","Conditions Combination",module,Magento_CatalogRule
-"Product Attribute","Product Attribute",module,Magento_CatalogRule
+"Product Attribute","Produkt attribut",module,Magento_CatalogRule
 "Updated rules applied.","Updated rules applied.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","You disabled %1 Catalog Price Rules based on ""%2"" attribute.",module,Magento_CatalogRule
 "Catalog Rule Product","Catalog Rule Product",module,Magento_CatalogRule
 "Indexed rule/product association","Indexed rule/product association",module,Magento_CatalogRule
 "Catalog Product Rule","Catalog Product Rule",module,Magento_CatalogRule
 "Indexed product/rule association","Indexed product/rule association",module,Magento_CatalogRule
-Rule,Rule,module,Magento_CatalogRule
+Rule,Regel,module,Magento_CatalogRule
 Start,Start,module,Magento_CatalogRule
 End,End,module,Magento_CatalogRule
 Status,Status,module,Magento_CatalogRule
-Active,Active,module,Magento_CatalogRule
+Active,Aktiv,module,Magento_CatalogRule
 Inactive,Inactive,module,Magento_CatalogRule
 "Web Site","Web Site",module,Magento_CatalogRule
 Back,Back,module,Magento_CatalogRule
@@ -2362,15 +2362,15 @@ No,No,module,Magento_CatalogRule
 ID,ID,module,Magento_CatalogRuleStaging
 Rule,Regel,module,Magento_CatalogRuleStaging
 Priority,Prioritet,module,Magento_CatalogRuleStaging
-"Web Site","Web Site",module,Magento_CatalogRuleStaging
+"Web Site",Hjemmeside,module,Magento_CatalogRuleStaging
 Action,Action,module,Magento_CatalogRuleStaging
-Edit,Edit,module,Magento_CatalogRuleStaging
-"Scheduled Changes","Scheduled Changes",module,Magento_CatalogRuleStaging
+Edit,Rediger,module,Magento_CatalogRuleStaging
+"Scheduled Changes","Planlagte ændringer",module,Magento_CatalogRuleStaging
 Name,Name,module,Magento_CatalogRuleStaging
 Description,Description,module,Magento_CatalogRuleStaging
-"Update Information","Update Information",module,Magento_CatalogRuleStaging
+"Update Information","Opdatere oplysninger",module,Magento_CatalogRuleStaging
 "Remove Catalog Price Rule from Update","Remove Catalog Price Rule from Update",module,Magento_CatalogRuleStaging
-"Update Name","Update Name",module,Magento_CatalogRuleStaging
+"Update Name","Opdatere navn",module,Magento_CatalogRuleStaging
 "Start Date","Start Date",module,Magento_CatalogRuleStaging
 "End Date","End Date",module,Magento_CatalogRuleStaging
 "Rule Information","Rule Information",module,Magento_CatalogRuleStaging
@@ -2380,9 +2380,9 @@ Conditions,Conditions,module,Magento_CatalogRuleStaging
 Actions,Actions,module,Magento_CatalogRuleStaging
 Yes,Yes,module,Magento_CatalogRuleStaging
 No,No,module,Magento_CatalogRuleStaging
-"Save as a New Update","Save as a New Update",module,Magento_CatalogRuleStaging
-"Move to Another Update","Move to Another Update",module,Magento_CatalogRuleStaging
-"Delete the Update","Delete the Update",module,Magento_CatalogRuleStaging
+"Save as a New Update","Gem som en ny opdatering",module,Magento_CatalogRuleStaging
+"Move to Another Update","Flytte til en anden opdatering",module,Magento_CatalogRuleStaging
+"Delete the Update","Slet opdateringen",module,Magento_CatalogRuleStaging
 "The catalog price rule will be removed from the update and all scheduled changes will be lost.","The catalog price rule will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
 20,20,module,Magento_CatalogRuleStaging
 30,30,module,Magento_CatalogRuleStaging
@@ -2390,10 +2390,10 @@ No,No,module,Magento_CatalogRuleStaging
 100,100,module,Magento_CatalogRuleStaging
 200,200,module,Magento_CatalogRuleStaging
 "Start Time","Start Time",module,Magento_CatalogRuleStaging
-"End Time","End Time",module,Magento_CatalogRuleStaging
-Websites,Websites,module,Magento_CatalogRuleStaging
-"Catalog Price Rules","Catalog Price Rules",module,Magento_CatalogRuleStaging
-"Remove Catalog Price Rule from Campaign","Remove Catalog Price Rule from Campaign",module,Magento_CatalogRuleStaging
+"End Time",Sluttid,module,Magento_CatalogRuleStaging
+Websites,Hjemmesider,module,Magento_CatalogRuleStaging
+"Catalog Price Rules","Katalog pris regler",module,Magento_CatalogRuleStaging
+"Remove Catalog Price Rule from Campaign","Fjern butik pris regel fra kampagnen",module,Magento_CatalogRuleStaging
 Home,Hjem,module,Magento_CatalogSearch
 "Go to Home Page","Gå til startsiden",module,Magento_CatalogSearch
 "Catalog Advanced Search","Katalog avanceret søgning",module,Magento_CatalogSearch
@@ -4352,19 +4352,19 @@ Debug,Debug,module,Magento_Cybersource
 "Leave empty for access from any location.","Leave empty for access from any location.",module,Magento_Developer
 "Log to File","Log to File",module,Magento_Developer
 "Not available in production mode.","Not available in production mode.",module,Magento_Developer
-"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.",module,Magento_Dhl
-"Wrong Content Type","Wrong Content Type",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Vælg dette for at tillade DHL til at optimere forsendelsesomkostninger ved at opdele rækkefølgen, hvis det overstiger %1 %2.",module,Magento_Dhl
+"Wrong Content Type","Forkert indholdstype",module,Magento_Dhl
 Pounds,Pounds,module,Magento_Dhl
-Kilograms,Kilograms,module,Magento_Dhl
-Inches,Inches,module,Magento_Dhl
-Centimeters,Centimeters,module,Magento_Dhl
-inch,inch,module,Magento_Dhl
+Kilograms,Kg,module,Magento_Dhl
+Inches,Tommer,module,Magento_Dhl
+Centimeters,Centimeter,module,Magento_Dhl
+inch,tommer,module,Magento_Dhl
 cm,cm,module,Magento_Dhl
-Height,Height,module,Magento_Dhl
-Depth,Depth,module,Magento_Dhl
-Width,Width,module,Magento_Dhl
+Height,Højde,module,Magento_Dhl
+Depth,Dybde,module,Magento_Dhl
+Width,Bredde,module,Magento_Dhl
 Regular,Regular,module,Magento_Dhl
-Specific,Specific,module,Magento_Dhl
+Specific,Specifikke,module,Magento_Dhl
 "Easy shop","Easy shop",module,Magento_Dhl
 Sprintline,Sprintline,module,Magento_Dhl
 Secureline,Secureline,module,Magento_Dhl
@@ -4398,11 +4398,11 @@ DHL,DHL,module,Magento_Dhl
 "Cannot identify weight unit for %1","Cannot identify weight unit for %1",module,Magento_Dhl
 "There is no items in this order","There is no items in this order",module,Magento_Dhl
 "Please specify origin country.","Please specify origin country.",module,Magento_Dhl
-Documents,Documents,module,Magento_Dhl
+Documents,Dokumenter,module,Magento_Dhl
 "Non Documents","Non Documents",module,Magento_Dhl
-"Height, width and length should be equal or greater than %1","Height, width and length should be equal or greater than %1",module,Magento_Dhl
-"Wrong Region","Wrong Region",module,Magento_Dhl
-"Unable to retrieve tracking","Unable to retrieve tracking",module,Magento_Dhl
+"Height, width and length should be equal or greater than %1","Højde, bredde og længde skal være lig med eller større end %1",module,Magento_Dhl
+"Wrong Region","Forkert Region",module,Magento_Dhl
+"Unable to retrieve tracking","Kunne ikke hente tracking",module,Magento_Dhl
 "Response is in the wrong format","Response is in the wrong format",module,Magento_Dhl
 "No packages for request","No packages for request",module,Magento_Dhl
 "Unable to retrieve shipping label","Unable to retrieve shipping label",module,Magento_Dhl
@@ -4420,20 +4420,20 @@ Password,Password,module,Magento_Dhl
 "Calculate Handling Fee","Calculate Handling Fee",module,Magento_Dhl
 "Handling Applied","Handling Applied",module,Magento_Dhl
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.",module,Magento_Dhl
-"Handling Fee","Handling Fee",module,Magento_Dhl
-"Divide Order Weight","Divide Order Weight",module,Magento_Dhl
-"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
+"Handling Fee",Ekspeditionsgebyr,module,Magento_Dhl
+"Divide Order Weight","Opdele ordre vægt",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Vælg dette for at tillade DHL at optimere fragtomkostninger ved at opdele ordren, hvis den overstiger 70 kg.",module,Magento_Dhl
 "Weight Unit","Weight Unit",module,Magento_Dhl
-Size,Size,module,Magento_Dhl
-"Allowed Methods","Allowed Methods",module,Magento_Dhl
-"Displayed Error Message","Displayed Error Message",module,Magento_Dhl
-"Free Method","Free Method",module,Magento_Dhl
+Size,Størrelse,module,Magento_Dhl
+"Allowed Methods","Tilladte metoder",module,Magento_Dhl
+"Displayed Error Message","Vises fejlmeddelelsen",module,Magento_Dhl
+"Free Method","Gratis metode",module,Magento_Dhl
 "Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Dhl
 "Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Dhl
 "Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Dhl
 "Ship to Specific Countries","Ship to Specific Countries",module,Magento_Dhl
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
-"Sort Order","Sort Order",module,Magento_Dhl
+"Sort Order","Sort order",module,Magento_Dhl
 Debug,Debug,module,Magento_Dhl
 State/Province,Stat/provins,module,Magento_Directory
 "--Please Select--",--Vælg--,module,Magento_Directory
@@ -4487,18 +4487,18 @@ Service,Service,module,Magento_Directory
 "Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Doc
 "Invalid Document \n%1","Invalid Document \n%1",module,Magento_Doc
 "Downloadable Information","Downloadable Information",module,Magento_Downloadable
-"Add New Link","Add New Link",module,Magento_Downloadable
+"Add New Link","Tilføj nyt Link",module,Magento_Downloadable
 "Upload Files","Upload filer",module,Magento_Downloadable
-"All Files","All Files",module,Magento_Downloadable
-Unlimited,Unlimited,module,Magento_Downloadable
-"Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
+"All Files","Alle Filer",module,Magento_Downloadable
+Unlimited,Ubegrænset,module,Magento_Downloadable
+"Something went wrong while getting the requested content.","Noget gik galt under hentning af det ønskede indhold.",module,Magento_Downloadable
 "My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
-"We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
+"We can't find the link you requested.","Vi kan ikke finde det link, du har anmodet om.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
-"The link has expired.","The link has expired.",module,Magento_Downloadable
-"The link is not available.","The link is not available.",module,Magento_Downloadable
-"Sorry, there was an error getting requested content. Please contact the store owner.","Sorry, there was an error getting requested content. Please contact the store owner.",module,Magento_Downloadable
+"The link has expired.","Linket er udløbet.",module,Magento_Downloadable
+"The link is not available.","Linket er ikke tilgængelig.",module,Magento_Downloadable
+"Sorry, there was an error getting requested content. Please contact the store owner.","Der opstod en fejl under hentning af ønskede indhold. Kontakt venligst butiksejeren.",module,Magento_Downloadable
 "Please set resource file and link type.","Please set resource file and link type.",module,Magento_Downloadable
 "Invalid download link type.","Invalid download link type.",module,Magento_Downloadable
 "Something went wrong while saving the file(s).","Something went wrong while saving the file(s).",module,Magento_Downloadable
@@ -4528,19 +4528,19 @@ Unlimited,Unlimited,module,Magento_Downloadable
 "There is no downloadable sample with provided ID.","There is no downloadable sample with provided ID.",module,Magento_Downloadable
 "Provided downloadable sample is not related to given product.","Provided downloadable sample is not related to given product.",module,Magento_Downloadable
 "Cannot delete sample with id %1","Cannot delete sample with id %1",module,Magento_Downloadable
-Yes,Yes,module,Magento_Downloadable
-No,No,module,Magento_Downloadable
+Yes,Ja,module,Magento_Downloadable
+No,Nej,module,Magento_Downloadable
 "Use config","Use config",module,Magento_Downloadable
-"Upload File","Upload File",module,Magento_Downloadable
+"Upload File","Upload fil",module,Magento_Downloadable
 URL,URL,module,Magento_Downloadable
-attachment,attachment,module,Magento_Downloadable
+attachment,"vedhæftet fil",module,Magento_Downloadable
 inline,inline,module,Magento_Downloadable
-Pending,Pending,module,Magento_Downloadable
-Invoiced,Invoiced,module,Magento_Downloadable
+Pending,Afventer,module,Magento_Downloadable
+Invoiced,Faktureret,module,Magento_Downloadable
 "To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
 "Is this downloadable Product?","Is this downloadable Product?",module,Magento_Downloadable
 Links,Links,module,Magento_Downloadable
-Title,Title,module,Magento_Downloadable
+Title,Titel,module,Magento_Downloadable
 "Links can be purchased separately","Links can be purchased separately",module,Magento_Downloadable
 "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
 "Add Link","Add Link",module,Magento_Downloadable
@@ -4566,34 +4566,34 @@ U,U,module,Magento_Downloadable
 "Select all","Select all",module,Magento_Downloadable
 "Unselect all","Unselect all",module,Magento_Downloadable
 Availability,Availability,module,Magento_Downloadable
-"In stock","In stock",module,Magento_Downloadable
-"Out of stock","Out of stock",module,Magento_Downloadable
+"In stock","På lager",module,Magento_Downloadable
+"Out of stock","Ikke på lager",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
 "Downloadable Products","Downloadable Products",module,Magento_Downloadable
 "Order #","Order #",module,Magento_Downloadable
-Date,Date,module,Magento_Downloadable
+Date,Dato,module,Magento_Downloadable
 Status,Status,module,Magento_Downloadable
-"Remaining Downloads","Remaining Downloads",module,Magento_Downloadable
-"View Order","View Order",module,Magento_Downloadable
+"Remaining Downloads","Resterende Downloads",module,Magento_Downloadable
+"View Order","Se ordre",module,Magento_Downloadable
 "Start Download","Start Download",module,Magento_Downloadable
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet.",module,Magento_Downloadable
-Back,Back,module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Du har ikke købt nogen downloades produkter endnu.",module,Magento_Downloadable
+Back,Tilbage,module,Magento_Downloadable
 download,download,module,Magento_Downloadable
-"Gift Message","Gift Message",module,Magento_Downloadable
-From:,From:,module,Magento_Downloadable
-To:,To:,module,Magento_Downloadable
-Message:,Message:,module,Magento_Downloadable
-"Product Name","Product Name",module,Magento_Downloadable
-Qty,Qty,module,Magento_Downloadable
-Subtotal,Subtotal,module,Magento_Downloadable
-"Discount Amount","Discount Amount",module,Magento_Downloadable
+"Gift Message",Gavebesked,module,Magento_Downloadable
+From:,Fra:,module,Magento_Downloadable
+To:,Til:,module,Magento_Downloadable
+Message:,Besked:,module,Magento_Downloadable
+"Product Name",Produktnavn,module,Magento_Downloadable
+Qty,Antal,module,Magento_Downloadable
+Subtotal,"I alt",module,Magento_Downloadable
+"Discount Amount",Rabatbeløb,module,Magento_Downloadable
 "Row Total","Row Total",module,Magento_Downloadable
 "Qty Invoiced","Qty Invoiced",module,Magento_Downloadable
 Ordered,Ordered,module,Magento_Downloadable
-Shipped,Shipped,module,Magento_Downloadable
-Canceled,Canceled,module,Magento_Downloadable
-Refunded,Refunded,module,Magento_Downloadable
-"We could not detect a size.","We could not detect a size.",module,Magento_Downloadable
+Shipped,Afsendt,module,Magento_Downloadable
+Canceled,Annulleret,module,Magento_Downloadable
+Refunded,Refunderet,module,Magento_Downloadable
+"We could not detect a size.","Vi kunne ikke finde en størrelse.",module,Magento_Downloadable
 "Downloadable Product Section","Downloadable Product Section",module,Magento_Downloadable
 Downloads,Downloads,module,Magento_Downloadable
 "Downloadable Product Options","Downloadable Product Options",module,Magento_Downloadable
@@ -4601,7 +4601,7 @@ Downloads,Downloads,module,Magento_Downloadable
 "Default Maximum Number of Downloads","Default Maximum Number of Downloads",module,Magento_Downloadable
 "Default Sample Title","Default Sample Title",module,Magento_Downloadable
 "Default Link Title","Default Link Title",module,Magento_Downloadable
-"Open Links in New Window","Open Links in New Window",module,Magento_Downloadable
+"Open Links in New Window","Åbn link i nyt vindue",module,Magento_Downloadable
 "Use Content-Disposition","Use Content-Disposition",module,Magento_Downloadable
 "Disable Guest Checkout if Cart Contains Downloadable Items","Disable Guest Checkout if Cart Contains Downloadable Items",module,Magento_Downloadable
 "Guest checkout will only work with shareable.","Guest checkout will only work with shareable.",module,Magento_Downloadable
@@ -10441,7 +10441,7 @@ Signifyd,Signifyd,module,Magento_Signifyd
 "API Key","API Key",module,Magento_Signifyd
 "API URL","API URL",module,Magento_Signifyd
 Debug,Debug,module,Magento_Signifyd
-"Save & Generate","Save & Generate",module,Magento_Sitemap
+"Save & Generate","Gem og generer",module,Magento_Sitemap
 "Edit Sitemap","Rediger Sitemap",module,Magento_Sitemap
 "New Sitemap","New Sitemap",module,Magento_Sitemap
 "Sitemap Information","Sitemap Information",module,Magento_Sitemap
@@ -12225,22 +12225,22 @@ Name,Name,module,Magento_VisualMerchandiser
 Price,Pris,module,Magento_VisualMerchandiser
 SKU,SKU,module,Magento_VisualMerchandiser
 Stock,Stock,module,Magento_VisualMerchandiser
-"Consumer is not authorized to access %resources","Consumer is not authorized to access %resources",module,Magento_Webapi
-"Operation allowed only in HTTPS","Operation allowed only in HTTPS",module,Magento_Webapi
+"Consumer is not authorized to access %resources","Forbrugeren er ikke autoriseret til at få adgang til % ressourcer",module,Magento_Webapi
+"Operation allowed only in HTTPS","Handlingen er tilladt kun i HTTPS",module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","Cannot perform GET operation with store code 'all'",module,Magento_Webapi
 "Request does not match any route.","Request does not match any route.",module,Magento_Webapi
 "Not allowed parameters: %1. Please use only %2 and %3.","Not allowed parameters: %1. Please use only %2 and %3.",module,Magento_Webapi
 "Requested service is not available: ""%1""","Requested service is not available: ""%1""",module,Magento_Webapi
 "Operation ""%1"" not found.","Operation ""%1"" not found.",module,Magento_Webapi
 "SOAP extension is not loaded.","SOAP extension is not loaded.",module,Magento_Webapi
-"Invalid XML","Invalid XML",module,Magento_Webapi
+"Invalid XML","Ugyldig XML",module,Magento_Webapi
 "Invalid XML: Detected use of illegal DOCTYPE","Invalid XML: Detected use of illegal DOCTYPE",module,Magento_Webapi
-message,message,module,Magento_Webapi
-Message,Message,module,Magento_Webapi
+message,besked,module,Magento_Webapi
+Message,Meddelelse,module,Magento_Webapi
 "Soap fault reason.","Soap fault reason.",module,Magento_Webapi
-"Manage Customers","Manage Customers",module,Magento_Webapi
+"Manage Customers","Administrer kunder",module,Magento_Webapi
 "Create Customer","Create Customer",module,Magento_Webapi
-"Edit Customer","Edit Customer",module,Magento_Webapi
+"Edit Customer","Rediger kunde",module,Magento_Webapi
 "Get Customer","Get Customer",module,Magento_Webapi
 "Delete Customer","Delete Customer",module,Magento_Webapi
 "Magento Web API","Magento Web API",module,Magento_Webapi
@@ -12423,7 +12423,7 @@ error-message,fejlmeddelelse,module,Magento_Wishlist
 LocalizedException,LocalizedException,module,Magento_Wishlist
 "Product Exception.","Product Exception.",module,Magento_Wishlist
 "Localized Exception.","Localized Exception.",module,Magento_Wishlist
-"Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Wishlist
+"Are you sure you want to remove this item?","Er du sikker på at du vil fjerne dette element?",module,Magento_Wishlist
 "Share Wish List","Del ønskeliste",module,Magento_Wishlist
 "Add All to Cart","Tilføj alle til indkøbskurv",module,Magento_Wishlist
 "Update Wish List","Opdater ønskeliste",module,Magento_Wishlist
@@ -12456,7 +12456,7 @@ Back,Back,module,Magento_Wishlist
 "Last Added Items","Last Added Items",module,Magento_Wishlist
 "Remove This Item","Fjerne dette produkt",module,Magento_Wishlist
 "Go to Wish List","Go to Wish List",module,Magento_Wishlist
-"You have no items in your wish list.","You have no items in your wish list.",module,Magento_Wishlist
+"You have no items in your wish list.","Du har ingen varer i din ønskeliste.",module,Magento_Wishlist
 "Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
 "Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
