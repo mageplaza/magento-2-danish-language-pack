@@ -426,50 +426,50 @@ Refresh,Genindlæs,module,Magento_Backend
 Clear,Slet,module,Magento_Backend
 "Search Index",Søgeindeks,module,Magento_Backend
 Rebuild,Genopbyg,module,Magento_Backend
-"Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
+"Inventory Stock Status",Lagerstatus,module,Magento_Backend
 "Rebuild Catalog Index","Genopbyg katalogindeks",module,Magento_Backend
-"Rebuild Flat Catalog Category","Rebuild Flat Catalog Category",module,Magento_Backend
-"Rebuild Flat Catalog Product","Rebuild Flat Catalog Product",module,Magento_Backend
-"Cache Control","Cache Control",module,Magento_Backend
-"All Cache","All Cache",module,Magento_Backend
-"No change","No change",module,Magento_Backend
-Disable,Disable,module,Magento_Backend
-Enable,Enable,module,Magento_Backend
-"Add Design Change","Add Design Change",module,Magento_Backend
-Back,Back,module,Magento_Backend
-Delete,Delete,module,Magento_Backend
-"Are you sure?","Are you sure?",module,Magento_Backend
-Save,Save,module,Magento_Backend
-"Edit Design Change","Edit Design Change",module,Magento_Backend
-"New Store Design Change","New Store Design Change",module,Magento_Backend
-"General Settings","General Settings",module,Magento_Backend
-Store,Store,module,Magento_Backend
-"-- Please Select --","-- Please Select --",module,Magento_Backend
-"Custom Design","Custom Design",module,Magento_Backend
-"Date From","Date From",module,Magento_Backend
-"Date To","Date To",module,Magento_Backend
-"Design Change","Design Change",module,Magento_Backend
-General,General,module,Magento_Backend
-Cancel,Cancel,module,Magento_Backend
-"Delete %1 '%2'","Delete %1 '%2'",module,Magento_Backend
-"Delete %1","Delete %1",module,Magento_Backend
-"Block Information","Block Information",module,Magento_Backend
-"Backup Options","Backup Options",module,Magento_Backend
-"Create DB Backup","Create DB Backup",module,Magento_Backend
-Yes,Yes,module,Magento_Backend
-No,No,module,Magento_Backend
-"Delete Store","Delete Store",module,Magento_Backend
-"Delete Web Site","Delete Web Site",module,Magento_Backend
-"Save Web Site","Save Web Site",module,Magento_Backend
-"Save Store","Save Store",module,Magento_Backend
-"Save Store View","Save Store View",module,Magento_Backend
-"Delete Store View","Delete Store View",module,Magento_Backend
-"Edit Web Site","Edit Web Site",module,Magento_Backend
-"New Web Site","New Web Site",module,Magento_Backend
-"Edit Store","Edit Store",module,Magento_Backend
-"New Store","New Store",module,Magento_Backend
-"Edit Store View","Edit Store View",module,Magento_Backend
-"New Store View","New Store View",module,Magento_Backend
+"Rebuild Flat Catalog Category","Genopbyg flad katalogkategori",module,Magento_Backend
+"Rebuild Flat Catalog Product","Genopbyg fladt katalogprodukt",module,Magento_Backend
+"Cache Control","Cache kontrol",module,Magento_Backend
+"All Cache","Alle Cache",module,Magento_Backend
+"No change","Ingen ændringer",module,Magento_Backend
+Disable,Deaktiver,module,Magento_Backend
+Enable,Aktiverer,module,Magento_Backend
+"Add Design Change","Tilføj designændringer",module,Magento_Backend
+Back,Tilbage,module,Magento_Backend
+Delete,Slet,module,Magento_Backend
+"Are you sure?","Er du sikker?",module,Magento_Backend
+Save,Gem,module,Magento_Backend
+"Edit Design Change","Redigér designændringer",module,Magento_Backend
+"New Store Design Change","Ny butiksdesign-ændringer",module,Magento_Backend
+"General Settings","Generelle indstillinger",module,Magento_Backend
+Store,Butik,module,Magento_Backend
+"-- Please Select --","-- Vælg venligst --",module,Magento_Backend
+"Custom Design","Brugerdefineret Design",module,Magento_Backend
+"Date From","Dato fra",module,Magento_Backend
+"Date To","Dato til",module,Magento_Backend
+"Design Change",Designændring,module,Magento_Backend
+General,Generelt,module,Magento_Backend
+Cancel,Annuller,module,Magento_Backend
+"Delete %1 '%2'","Slet %1 '%2'",module,Magento_Backend
+"Delete %1","Slet %1",module,Magento_Backend
+"Block Information","Blok oplysninger",module,Magento_Backend
+"Backup Options","Backup indstillinger",module,Magento_Backend
+"Create DB Backup","Opret DB sikkerhedskopi",module,Magento_Backend
+Yes,Ja,module,Magento_Backend
+No,Nej,module,Magento_Backend
+"Delete Store","Slet butik",module,Magento_Backend
+"Delete Web Site","Slette websted",module,Magento_Backend
+"Save Web Site","Gem websted",module,Magento_Backend
+"Save Store","Gem butik",module,Magento_Backend
+"Save Store View","Gem butiks visning",module,Magento_Backend
+"Delete Store View","Slet Butiksvisning",module,Magento_Backend
+"Edit Web Site","Redigere Webside",module,Magento_Backend
+"New Web Site","Nyt websted",module,Magento_Backend
+"Edit Store","Rediger butik",module,Magento_Backend
+"New Store","Ny butik",module,Magento_Backend
+"Edit Store View","Rediger butiks visning",module,Magento_Backend
+"New Store View","Ny butiks visning",module,Magento_Backend
 "Store Information","Butiks information",module,Magento_Backend
 "Web Site","Web Site",module,Magento_Backend
 Name,Navn,module,Magento_Backend
@@ -523,26 +523,26 @@ Submit,Afsend,module,Magento_Backend
 "You flushed the cache storage.","Du har renset cache lager.",module,Magento_Backend
 "The Magento cache storage has been flushed.","Magento cache lager er blevet renset.",module,Magento_Backend
 "Cache Management","Cache Management",module,Magento_Backend
-"You can't change status of cache type(s) in production mode","You can't change status of cache type(s) in production mode",module,Magento_Backend
-"%1 cache type(s) disabled.","%1 cache type(s) disabled.",module,Magento_Backend
-"An error occurred while disabling cache.","An error occurred while disabling cache.",module,Magento_Backend
-"%1 cache type(s) enabled.","%1 cache type(s) enabled.",module,Magento_Backend
-"An error occurred while enabling cache.","An error occurred while enabling cache.",module,Magento_Backend
-"%1 cache type(s) refreshed.","%1 cache type(s) refreshed.",module,Magento_Backend
-"An error occurred while refreshing cache.","An error occurred while refreshing cache.",module,Magento_Backend
-Dashboard,Dashboard,module,Magento_Backend
-"We updated lifetime statistic.","We updated lifetime statistic.",module,Magento_Backend
+"You can't change status of cache type(s) in production mode","Du kan ikke ændre status for cache type(r) i produktionstilstand",module,Magento_Backend
+"%1 cache type(s) disabled.","%1 cache type(r) deaktiveret.",module,Magento_Backend
+"An error occurred while disabling cache.","Der opstod en fejl under deaktivering af cache.",module,Magento_Backend
+"%1 cache type(s) enabled.","%1 cache type(r) aktiveret.",module,Magento_Backend
+"An error occurred while enabling cache.","Der opstod en fejl under aktivering af cache.",module,Magento_Backend
+"%1 cache type(s) refreshed.","%1 cache type(r) genindlæst.",module,Magento_Backend
+"An error occurred while refreshing cache.","Der opstod en fejl under genindlæsning af cache.",module,Magento_Backend
+Dashboard,Instrumentbræt,module,Magento_Backend
+"We updated lifetime statistic.","Vi opdaterede levetidsstatistik.",module,Magento_Backend
 "We can't refresh lifetime statistics.","We can't refresh lifetime statistics.",module,Magento_Backend
-"invalid request","invalid request",module,Magento_Backend
-"see error log for details","see error log for details",module,Magento_Backend
-"Service unavailable: %1","Service unavailable: %1",module,Magento_Backend
-Error,Error,module,Magento_Backend
-"Access Denied.","Access Denied.",module,Magento_Backend
-"You need more permissions to do this.","You need more permissions to do this.",module,Magento_Backend
-"No search modules were registered","No search modules were registered",module,Magento_Backend
-"Please make sure that all global admin search modules are installed and activated.","Please make sure that all global admin search modules are installed and activated.",module,Magento_Backend
-"You saved the account.","You saved the account.",module,Magento_Backend
-"An error occurred while saving account.","An error occurred while saving account.",module,Magento_Backend
+"invalid request","ugyldig anmodning",module,Magento_Backend
+"see error log for details","se fejlloggen for detaljer",module,Magento_Backend
+"Service unavailable: %1","Tjenesten er ikke tilgængelig: %1",module,Magento_Backend
+Error,Fejl,module,Magento_Backend
+"Access Denied.","Adgang nægtet.",module,Magento_Backend
+"You need more permissions to do this.","Du har brug for flere tilladelser til at gøre dette.",module,Magento_Backend
+"No search modules were registered","Ingen søgemoduler blev registreret",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","Sørg for, at alle globale admin søgemoduler er installeret og aktiveret.",module,Magento_Backend
+"You saved the account.","Du gemte kontoen.",module,Magento_Backend
+"An error occurred while saving account.","Der opstod en fejl under lagring af konto.",module,Magento_Backend
 "You deleted the design change.","You deleted the design change.",module,Magento_Backend
 "You can't delete the design change.","You can't delete the design change.",module,Magento_Backend
 "Store Design","Store Design",module,Magento_Backend
@@ -641,22 +641,22 @@ Minute,Minut,module,Magento_Backend
 "Themes JavaScript and CSS files combined to one file","Themes JavaScript and CSS files combined to one file",module,Magento_Backend
 "Flush Static Files Cache","Flush Static Files Cache",module,Magento_Backend
 "Preprocessed view files and static files","Preprocessed view files and static files",module,Magento_Backend
-Catalog,Catalog,module,Magento_Backend
+Catalog,Katalog,module,Magento_Backend
 JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
 "JavaScript/CSS Cache","JavaScript/CSS Cache",module,Magento_Backend
-"No records found.","No records found.",module,Magento_Backend
-Images,Images,module,Magento_Backend
-"Big Image","Big Image",module,Magento_Backend
+"No records found.","Ingen poster fundet.",module,Magento_Backend
+Images,Billeder,module,Magento_Backend
+"Big Image","Stort billede",module,Magento_Backend
 Thumbnail,Thumbnail,module,Magento_Backend
 "Additional Settings","Additional Settings",module,Magento_Backend
 "records found","records found",module,Magento_Backend
-selected,selected,module,Magento_Backend
-"per page","per page",module,Magento_Backend
+selected,valgt,module,Magento_Backend
+"per page","pr. side",module,Magento_Backend
 "Previous page","Previous page",module,Magento_Backend
-"of %1","of %1",module,Magento_Backend
-"Next page","Next page",module,Magento_Backend
+"of %1","af %1",module,Magento_Backend
+"Next page","Næste side",module,Magento_Backend
 "Export to:","Export to:",module,Magento_Backend
-Actions,Actions,module,Magento_Backend
+Actions,Handlinger,module,Magento_Backend
 "Mass Actions","Mass Actions",module,Magento_Backend
 "Unselect All","Unselect All",module,Magento_Backend
 "Select Visible","Select Visible",module,Magento_Backend
@@ -664,7 +664,7 @@ Actions,Actions,module,Magento_Backend
 "Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Backend
 "This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Backend
 "The information in this tab has been changed.","The information in this tab has been changed.",module,Magento_Backend
-Loading...,Loading...,module,Magento_Backend
+Loading...,Indlæser...,module,Magento_Backend
 "We could not detect a size.","We could not detect a size.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Backend
 "Allow everything","Allow everything",module,Magento_Backend
@@ -1631,7 +1631,7 @@ Category,Kategori,module,Magento_Catalog
 "%1 and above","%1 og derover",module,Magento_Catalog
 "The filters must be an array.","Filtrene skal være et array.",module,Magento_Catalog
 "Product was not registered","Produkt blev ikke registreret",module,Magento_Catalog
-"Store was not registered","Store was not registered",module,Magento_Catalog
+"Store was not registered","Produkt blev ikke registreret",module,Magento_Catalog
 "Group price must be a number greater than 0.","Gruppe pris skal være et tal større end 0.",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","Media Gallery converter should be an instance of EntryConverterInterface.",module,Magento_Catalog
 "There is no MediaGalleryEntryConverter for given type","There is no MediaGalleryEntryConverter for given type",module,Magento_Catalog
@@ -1742,9 +1742,9 @@ Search,Søg,module,Magento_Catalog
 "There are not websites for assign to product","Der er ikke hjemmesider som kan tildeles produktet",module,Magento_Catalog
 "Could not assign product ""%1"" to websites ""%2""","Could not assign product ""%1"" to websites ""%2""",module,Magento_Catalog
 "Could not save product ""%1"" with websites %2","Could not save product ""%1"" with websites %2",module,Magento_Catalog
-"We cannot determine the field name.","We cannot determine the field name.",module,Magento_Catalog
+"We cannot determine the field name.","Vi kan ikke bestemme navnet på feltet.",module,Magento_Catalog
 "Attribute '%1' is locked. %2","Attribute '%1' is locked. %2",module,Magento_Catalog
-"Do not change the scope. %1","Do not change the scope. %1",module,Magento_Catalog
+"Do not change the scope. %1","Undlad at ændre anvendelsesområdet. %1",module,Magento_Catalog
 "Processor %1 doesn't implement BaseSelectProcessorInterface","Processor %1 doesn't implement BaseSelectProcessorInterface",module,Magento_Catalog
 "A product type is not defined for the indexer.","A product type is not defined for the indexer.",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
@@ -5851,31 +5851,31 @@ User,User,module,Magento_ImportExport
 "Error File","Error File",module,Magento_ImportExport
 "Execution Time","Execution Time",module,Magento_ImportExport
 Summary,Resumé,module,Magento_ImportExport
-"Indexer Management","Indexer Management",module,Magento_Indexer
-"Update by Schedule","Update by Schedule",module,Magento_Indexer
-"Update on Save","Update on Save",module,Magento_Indexer
-"Reindex required","Reindex required",module,Magento_Indexer
+"Indexer Management",Indekseringen,module,Magento_Indexer
+"Update by Schedule","Opdatering efter tidsplan",module,Magento_Indexer
+"Update on Save","Opdatering på Gem",module,Magento_Indexer
+"Reindex required","Genindeksere kræves",module,Magento_Indexer
 Ready,Klar,module,Magento_Indexer
-Processing,Processing,module,Magento_Indexer
-Never,Never,module,Magento_Indexer
+Processing,Forarbejdning,module,Magento_Indexer
+Never,Aldrig,module,Magento_Indexer
 "%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
-"Index Management","Index Management",module,Magento_Indexer
-"Please select indexers.","Please select indexers.",module,Magento_Indexer
+"Index Management","Indeks Management",module,Magento_Indexer
+"Please select indexers.","Vælg indeks.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indexer(s) are in ""Update by Schedule"" mode.",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","We couldn't change indexer(s)' mode because of an error.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indexer(s) are in ""Update on Save"" mode.",module,Magento_Indexer
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.",module,Magento_Indexer
 "State for the same indexer","State for the same indexer",module,Magento_Indexer
 "State for the same view","State for the same view",module,Magento_Indexer
-"Field '%1' not found","Field '%1' not found",module,Magento_Indexer
-"Some Exception Message","Some Exception Message",module,Magento_Indexer
-"Test Phrase","Test Phrase",module,Magento_Indexer
-"Change indexer mode","Change indexer mode",module,Magento_Indexer
-Indexer,Indexer,module,Magento_Indexer
-Description,Description,module,Magento_Indexer
-Mode,Mode,module,Magento_Indexer
+"Field '%1' not found","Feltet '%1' ikke fundet",module,Magento_Indexer
+"Some Exception Message","Undtagelses besked",module,Magento_Indexer
+"Test Phrase","Test sætning",module,Magento_Indexer
+"Change indexer mode","Ændre indekseringen tilstand",module,Magento_Indexer
+Indexer,Indekseringen,module,Magento_Indexer
+Description,Beskrivelse,module,Magento_Indexer
+Mode,Indstilling,module,Magento_Indexer
 Status,Status,module,Magento_Indexer
-Updated,Updated,module,Magento_Indexer
+Updated,Opdateret,module,Magento_Indexer
 Integrations,Integrationer,module,Magento_Integration
 "Add New Integration","Add New Integration",module,Magento_Integration
 API,API,module,Magento_Integration
@@ -6615,29 +6615,28 @@ Options,Valgmuligheder,module,Magento_Multishipping
 "Successful Messages Lifetime","Successful Messages Lifetime",module,Magento_MysqlMq
 "Failed Messages Lifetime","Failed Messages Lifetime",module,Magento_MysqlMq
 "New Messages Lifetime","New Messages Lifetime",module,Magento_MysqlMq
-"No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
+"No New Relic Application ID configured, cannot continue with Cron Event reporting","Ingen ny Relic ansøgning ID er konfigureret, kan ikke fortsætte med Cron begivenhed rapportering",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
-"New Relic Reporting Section","New Relic Reporting Section",module,Magento_NewRelicReporting
-"New Relic Reporting","New Relic Reporting",module,Magento_NewRelicReporting
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Ny Relic integration kræver newrelic-php5-agent, som ikke er installeret. Flere oplysninger om installation af agenten er tilgængelig <a target=""_blank"" href=""%1""> her</a>.",module,Magento_NewRelicReporting
+"New Relic Reporting Section","Ny Relic rapportering sektion",module,Magento_NewRelicReporting
+"New Relic Reporting","Ny Relic rapportering",module,Magento_NewRelicReporting
 General,Generelt,module,Magento_NewRelicReporting
-"Enable New Relic Integration","Enable New Relic Integration",module,Magento_NewRelicReporting
-"New Relic API URL","New Relic API URL",module,Magento_NewRelicReporting
-"Insights API URL","Insights API URL",module,Magento_NewRelicReporting
-"Use %s to replace the account ID in the URL","Use %s to replace the account ID in the URL",module,Magento_NewRelicReporting
-"New Relic Account ID","New Relic Account ID",module,Magento_NewRelicReporting
-"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one",module,Magento_NewRelicReporting
-"New Relic Application ID","New Relic Application ID",module,Magento_NewRelicReporting
-"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","This can commonly be found at the end of the URL when viewing the APM after ""/applications/""",module,Magento_NewRelicReporting
-"New Relic API Key","New Relic API Key",module,Magento_NewRelicReporting
-"This is located by navigating to Events -> Deployments from the New Relic APM website","This is located by navigating to Events -> Deployments from the New Relic APM website",module,Magento_NewRelicReporting
-"Insights API Key","Insights API Key",module,Magento_NewRelicReporting
-"Generated under Insights in Manage data -> API Keys -> Insert Keys","Generated under Insights in Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting
-"New Relic Application Name","New Relic Application Name",module,Magento_NewRelicReporting
-"This is located by navigating to Settings from the New Relic APM website","This is located by navigating to Settings from the New Relic APM website",module,Magento_NewRelicReporting
+"Enable New Relic Integration","Aktiver ny Relic Integration",module,Magento_NewRelicReporting
+"New Relic API URL","Ny Relic API URL",module,Magento_NewRelicReporting
+"Insights API URL","Indsigter API URL",module,Magento_NewRelicReporting
+"Use %s to replace the account ID in the URL","Brug %s til at erstatte konto-ID i URL-adressen",module,Magento_NewRelicReporting
+"New Relic Account ID","Ny Relic konto-ID",module,Magento_NewRelicReporting
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Brug for en ny Relic konto? <a href=""http://www.newrelic.com/magento"" target=""_blank""> Klik her for at få en",module,Magento_NewRelicReporting
+"New Relic Application ID","Ny Relic program-ID",module,Magento_NewRelicReporting
+"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","Dette kan almindeligvis findes i slutningen af URL-adressen, når du ser APM efter ""/ programmer /""",module,Magento_NewRelicReporting
+"New Relic API Key","Ny Relic API-nøgle",module,Magento_NewRelicReporting
+"This is located by navigating to Events -> Deployments from the New Relic APM website","Det er beliggende ved at navigere til begivenheder-> installationer fra ny Relic APM hjemmeside",module,Magento_NewRelicReporting
+"Insights API Key","Indsigter API-nøgle",module,Magento_NewRelicReporting
+"Generated under Insights in Manage data -> API Keys -> Insert Keys","Fremkommet under indsigt i Administrer data-> API nøgler-> indsætte nøgler",module,Magento_NewRelicReporting
+"New Relic Application Name","Ny Relic programnavn",module,Magento_NewRelicReporting
+"This is located by navigating to Settings from the New Relic APM website","Det er beliggende ved at navigere til indstillinger fra ny Relic APM hjemmeside",module,Magento_NewRelicReporting
 Cron,Cron,module,Magento_NewRelicReporting
-"Enable Cron","Enable Cron",module,Magento_NewRelicReporting
+"Enable Cron","Aktivere Cron",module,Magento_NewRelicReporting
 "Delete Selected Problems","Slet de valgte problemer",module,Magento_Newsletter
 "Unsubscribe Selected","Afmeld Valgte",module,Magento_Newsletter
 Back,Tilbage,module,Magento_Newsletter
