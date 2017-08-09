@@ -316,16 +316,16 @@ failed.,"noget gik galt.",module,Magento_Authorizenet
 successful.,gennemført.,module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
 authorize,authoriser,module,Magento_Authorizenet
-"authorize and capture","authorize and capture",module,Magento_Authorizenet
-capture,capture,module,Magento_Authorizenet
+"authorize and capture","tillade og fasthold",module,Magento_Authorizenet
+capture,fasthold,module,Magento_Authorizenet
 refund,"betal tilbage",module,Magento_Authorizenet
 void,void,module,Magento_Authorizenet
 "Gateway error: %1","Gateway fejl: %1",module,Magento_Authorizenet
 "Something went wrong in the payment gateway.","Noget gik galt i betalingsgatewayen.",module,Magento_Authorizenet
-"Invalid amount for capture.","Invalid amount for capture.",module,Magento_Authorizenet
-"Payment capturing error.","Payment capturing error.",module,Magento_Authorizenet
+"Invalid amount for capture.","Ugyldig beløb til fastholdelse.",module,Magento_Authorizenet
+"Payment capturing error.","Betaling fastholdeses fejl.",module,Magento_Authorizenet
 "Invalid transaction ID.","Ugyldig transaktions ID.",module,Magento_Authorizenet
-"Payment voiding error.","Payment voiding error.",module,Magento_Authorizenet
+"Payment voiding error.","Betaling void fejl.",module,Magento_Authorizenet
 "Invalid amount for refund.","Ugyldig beløb for restitution.",module,Magento_Authorizenet
 "Payment refunding error.","Tilbagebetalings fejl.",module,Magento_Authorizenet
 "The transaction was declined because the response hash validation failed.","Transaktionen blev afvist, fordi svar Hash-valideringen mislykkedes.",module,Magento_Authorizenet
@@ -335,44 +335,44 @@ void,void,module,Magento_Authorizenet
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Noget gik galt: det betalte beløb ikke matcher ordrebeløb. Venligst ret dette og prøv igen.",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaktionen %1 er blevet godkendt. Antal %2. Posteringsstatus er ""%3""",module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transaktionen %1 er blevet annulleret/faldet. Posteringsstatussen er ""%2"". Mængde %3.",module,Magento_Authorizenet
-"Authorize Only","Authorize Only",module,Magento_Authorizenet
-"Authorize and Capture","Authorize and Capture",module,Magento_Authorizenet
-"Unable to get transaction details. Try again later.","Unable to get transaction details. Try again later.",module,Magento_Authorizenet
+"Authorize Only","Kun tillad",module,Magento_Authorizenet
+"Authorize and Capture","Tillad og fasthold",module,Magento_Authorizenet
+"Unable to get transaction details. Try again later.","Der kan ikke hentes oplysninger om transaktionen. Prøv igen senere.",module,Magento_Authorizenet
 "Credit Card Type",Kreditkorttype,module,Magento_Authorizenet
-"Please Select","Please Select",module,Magento_Authorizenet
+"Please Select","Vælg venligst",module,Magento_Authorizenet
 "Credit Card Number",Kreditkortnummer,module,Magento_Authorizenet
 "Expiration Date",Udløbsdato,module,Magento_Authorizenet
 "Card Verification Number","Kortnummer verifikation",module,Magento_Authorizenet
-"Fraud Detection","Fraud Detection",module,Magento_Authorizenet
-"FDS Filter Action","FDS Filter Action",module,Magento_Authorizenet
-"AVS Response","AVS Response",module,Magento_Authorizenet
-"Card Code Response","Card Code Response",module,Magento_Authorizenet
-"CAVV Response","CAVV Response",module,Magento_Authorizenet
-"Fraud Filters","Fraud Filters",module,Magento_Authorizenet
+"Fraud Detection","Sporing af svindel",module,Magento_Authorizenet
+"FDS Filter Action","FDS filterhandling",module,Magento_Authorizenet
+"AVS Response","AVS svar",module,Magento_Authorizenet
+"Card Code Response","Kort kode respons",module,Magento_Authorizenet
+"CAVV Response","CAVV respons",module,Magento_Authorizenet
+"Fraud Filters",Svindelfiltre,module,Magento_Authorizenet
 "Place Order","Afgiv ordre",module,Magento_Authorizenet
-"Sorry, but something went wrong. Please contact the seller.","Sorry, but something went wrong. Please contact the seller.",module,Magento_Authorizenet
-"Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","Desværre, men noget gik galt. Kontakt sælgeren.",module,Magento_Authorizenet
+"Authorize.net Direct Post","Authorize.net direkte Post",module,Magento_Authorizenet
 Enabled,Aktiveret,module,Magento_Authorizenet
-"Payment Action","Payment Action",module,Magento_Authorizenet
-Title,Title,module,Magento_Authorizenet
-"API Login ID","API Login ID",module,Magento_Authorizenet
-"Transaction Key","Transaction Key",module,Magento_Authorizenet
-"Merchant MD5","Merchant MD5",module,Magento_Authorizenet
-"New Order Status","New Order Status",module,Magento_Authorizenet
+"Payment Action",Betalingshandling,module,Magento_Authorizenet
+Title,Titel,module,Magento_Authorizenet
+"API Login ID","API Login-ID",module,Magento_Authorizenet
+"Transaction Key",Transaktionsnøgle,module,Magento_Authorizenet
+"Merchant MD5","Sælger MD5",module,Magento_Authorizenet
+"New Order Status","Ny ordrestatus",module,Magento_Authorizenet
 "Test Mode","Test Mode",module,Magento_Authorizenet
 "Gateway URL","Gateway URL",module,Magento_Authorizenet
-"Transaction Details URL","Transaction Details URL",module,Magento_Authorizenet
+"Transaction Details URL","Transaktionsdetaljer URL",module,Magento_Authorizenet
 "Accepted Currency","Accepteret valuta",module,Magento_Authorizenet
 Debug,Fejlsøgning,module,Magento_Authorizenet
 "Email Customer","E-mail til kunde",module,Magento_Authorizenet
-"Merchant's Email","Merchant's Email",module,Magento_Authorizenet
+"Merchant's Email","Shopejers e-mail",module,Magento_Authorizenet
 "Credit Card Types",Kreditkorttyper,module,Magento_Authorizenet
 "Credit Card Verification","Kreditkort verifikation",module,Magento_Authorizenet
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Authorizenet
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Authorizenet
-"Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
-"Maximum Order Total","Maximum Order Total",module,Magento_Authorizenet
-"Sort Order","Sort Order",module,Magento_Authorizenet
+"Payment from Applicable Countries","Betalinger fra gældende lande",module,Magento_Authorizenet
+"Payment from Specific Countries","Betalinger fra bestemte lande",module,Magento_Authorizenet
+"Minimum Order Total","Minimumsordre i alt",module,Magento_Authorizenet
+"Maximum Order Total","Maksimumsordre i alt",module,Magento_Authorizenet
+"Sort Order","Sortér ordrer",module,Magento_Authorizenet
 "Invalid Form Key. Please refresh the page.","Ugyldig form nøgle. Opdater venligst siden.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Du har indtastet en ugyldig hemmelige nøgle. Opdater venligst siden.",module,Magento_Backend
 "Cache Storage Management","Cache lager styring",module,Magento_Backend
@@ -543,39 +543,39 @@ Error,Fejl,module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Sørg for, at alle globale admin søgemoduler er installeret og aktiveret.",module,Magento_Backend
 "You saved the account.","Du gemte kontoen.",module,Magento_Backend
 "An error occurred while saving account.","Der opstod en fejl under lagring af konto.",module,Magento_Backend
-"You deleted the design change.","You deleted the design change.",module,Magento_Backend
-"You can't delete the design change.","You can't delete the design change.",module,Magento_Backend
-"Store Design","Store Design",module,Magento_Backend
-"Edit Store Design Change","Edit Store Design Change",module,Magento_Backend
-"You saved the design change.","You saved the design change.",module,Magento_Backend
+"You deleted the design change.","Du har slettet designændring.",module,Magento_Backend
+"You can't delete the design change.","Du kan ikke slette designændringen.",module,Magento_Backend
+"Store Design",Butikdesign,module,Magento_Backend
+"Edit Store Design Change","Redigér butiksdesign ændringer",module,Magento_Backend
+"You saved the design change.","Du gemte designændringer.",module,Magento_Backend
 System,System,module,Magento_Backend
-"Manage Stores","Manage Stores",module,Magento_Backend
-"The database was backed up.","The database was backed up.",module,Magento_Backend
+"Manage Stores","Administrér butikker",module,Magento_Backend
+"The database was backed up.","Databasen-backup gennemført.",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","We can't create a backup right now. Please try again later.",module,Magento_Backend
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.",module,Magento_Backend
-"Something went wrong. Please try again.","Something went wrong. Please try again.",module,Magento_Backend
-"This store cannot be deleted.","This store cannot be deleted.",module,Magento_Backend
-"You deleted the store.","You deleted the store.",module,Magento_Backend
-"Unable to delete the store. Please try again later.","Unable to delete the store. Please try again later.",module,Magento_Backend
-"This store view cannot be deleted.","This store view cannot be deleted.",module,Magento_Backend
-"Store View","Store View",module,Magento_Backend
-"You deleted the store view.","You deleted the store view.",module,Magento_Backend
-"Unable to delete the store view. Please try again later.","Unable to delete the store view. Please try again later.",module,Magento_Backend
-"This website cannot be deleted.","This website cannot be deleted.",module,Magento_Backend
-"You deleted the website.","You deleted the website.",module,Magento_Backend
-"Unable to delete the website. Please try again later.","Unable to delete the website. Please try again later.",module,Magento_Backend
-"The website does not exist.","The website does not exist.",module,Magento_Backend
-"Before modifying the website code please make sure it is not used in index.php.","Before modifying the website code please make sure it is not used in index.php.",module,Magento_Backend
-"The store does not exist","The store does not exist",module,Magento_Backend
-"Store view doesn't exist","Store view doesn't exist",module,Magento_Backend
-"Before modifying the store view code please make sure it is not used in index.php.","Before modifying the store view code please make sure it is not used in index.php.",module,Magento_Backend
-New,New,module,Magento_Backend
-"All Stores","All Stores",module,Magento_Backend
-"You saved the website.","You saved the website.",module,Magento_Backend
-"The default store cannot be disabled","The default store cannot be disabled",module,Magento_Backend
-"You saved the store view.","You saved the store view.",module,Magento_Backend
-"An inactive store view cannot be saved as default store view","An inactive store view cannot be saved as default store view",module,Magento_Backend
-"You saved the store.","You saved the store.",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Sletning af %1 vil ikke slette oplysninger forbundet til %1 (f.eks. kategorier, produkter, osv.), men %1 vil ikke kunne gendannes. Det foreslås, at du opretter en sikkerhedskopi af databasen før du sletter %1.",module,Magento_Backend
+"Something went wrong. Please try again.","Noget gik galt. Prøv venligst igen.",module,Magento_Backend
+"This store cannot be deleted.","Denne butik kan ikke slettes.",module,Magento_Backend
+"You deleted the store.","Du slettede butikken.",module,Magento_Backend
+"Unable to delete the store. Please try again later.","Kan ikke slette butikken. Prøv venligst igen senere.",module,Magento_Backend
+"This store view cannot be deleted.","Denne butiks visning kan ikke slettes.",module,Magento_Backend
+"Store View","Butiks visning",module,Magento_Backend
+"You deleted the store view.","Du slettede butiks visningen.",module,Magento_Backend
+"Unable to delete the store view. Please try again later.","Kan ikke slette butiks visningen. Prøv venligst igen senere.",module,Magento_Backend
+"This website cannot be deleted.","Dette websted kan ikke slettes.",module,Magento_Backend
+"You deleted the website.","Du har slettet hjemmesiden.",module,Magento_Backend
+"Unable to delete the website. Please try again later.","Kan ikke slette webstedet. Prøv venligst igen senere.",module,Magento_Backend
+"The website does not exist.","Hjemmesiden findes ikke.",module,Magento_Backend
+"Before modifying the website code please make sure it is not used in index.php.","Før du retter hjemmesiden, bør du sikre dig at den ikke bruges i index.php.",module,Magento_Backend
+"The store does not exist","Butikken findes ikke",module,Magento_Backend
+"Store view doesn't exist","Butiks visning findes ikke",module,Magento_Backend
+"Before modifying the store view code please make sure it is not used in index.php.","Før du retter butiks visnings koden, bør du sikre dig at den ikke bruges i index.php.",module,Magento_Backend
+New,Ny,module,Magento_Backend
+"All Stores","Alle butikker",module,Magento_Backend
+"You saved the website.","Du gemte hjemmesiden.",module,Magento_Backend
+"The default store cannot be disabled","Standardbutikken kan ikke deaktiveres",module,Magento_Backend
+"You saved the store view.","Du gemte butiks visningen.",module,Magento_Backend
+"An inactive store view cannot be saved as default store view","En inaktiv butiksvisning kan ikke gemmes som standard butiksvisning",module,Magento_Backend
+"You saved the store.","Du gemte butikken.",module,Magento_Backend
 "Something went wrong while saving. Please review the error log.","Noget gik galt under lagring. Se venligst fejl loggen.",module,Magento_Backend
 "Last 24 Hours","Sidste 24 timer",module,Magento_Backend
 "Last 7 Days","Sidste 7 dage",module,Magento_Backend
@@ -589,7 +589,7 @@ YTD,ÅTD,module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","Administrator login skal være længere eller lig med 60 sekunder",module,Magento_Backend
 Order,Rækkefølge,module,Magento_Backend
 "Order #%1","Ordre #%1",module,Magento_Backend
-"Cannot apply unknown condition","Cannot apply unknown condition",module,Magento_Backend
+"Cannot apply unknown condition","Kan ikke anvende ukendt tilstand",module,Magento_Backend
 "Access denied","Adgang nægtet",module,Magento_Backend
 "Please try to sign out and sign in again.","Prøv venligst at logge ud og log ind igen.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Hvis du bliver ved med at modtage denne meddelelse, kontakt venligst ejeren af butikken.",module,Magento_Backend
@@ -628,57 +628,57 @@ Time,Tid,module,Magento_Backend
 Hour,Time,module,Magento_Backend
 Minute,Minut,module,Magento_Backend
 "JavaScript may be disabled in your browser.","JavaScript kan være slået fra i din browser.",module,Magento_Backend
-"To use this website you must first enable JavaScript in your browser.","To use this website you must first enable JavaScript in your browser.",module,Magento_Backend
-"This is only a demo store. You can browse and place orders, but nothing will be processed.","This is only a demo store. You can browse and place orders, but nothing will be processed.",module,Magento_Backend
-"Report a Bug","Report a Bug",module,Magento_Backend
-"Store View:","Store View:",module,Magento_Backend
-"Stores Configuration","Stores Configuration",module,Magento_Backend
+"To use this website you must first enable JavaScript in your browser.","For at bruge denne hjemmeside skal du først aktivere JavaScript i din browser.",module,Magento_Backend
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","Dette er kun en demo butik. Du kan gennemse og placere ordrer, men intet vil blive behandlet.",module,Magento_Backend
+"Report a Bug","Rapportér en fejl",module,Magento_Backend
+"Store View:",Butiksvisning:,module,Magento_Backend
+"Stores Configuration",Butikskonfiguration,module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost.",module,Magento_Backend
-"Additional Cache Management","Additional Cache Management",module,Magento_Backend
-"Flush Catalog Images Cache","Flush Catalog Images Cache",module,Magento_Backend
-"Pregenerated product images files","Pregenerated product images files",module,Magento_Backend
+"Additional Cache Management","Yderligere Cache Management",module,Magento_Backend
+"Flush Catalog Images Cache","Flush billedkatalogets Cache",module,Magento_Backend
+"Pregenerated product images files","Forhåndsgenererede produktbilledfiler",module,Magento_Backend
 "Flush JavaScript/CSS Cache","Flush JavaScript/CSS Cache",module,Magento_Backend
-"Themes JavaScript and CSS files combined to one file","Themes JavaScript and CSS files combined to one file",module,Magento_Backend
-"Flush Static Files Cache","Flush Static Files Cache",module,Magento_Backend
-"Preprocessed view files and static files","Preprocessed view files and static files",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file","Tema JavaScript og CSS-filer kombineret i én fil",module,Magento_Backend
+"Flush Static Files Cache","Flush statiske filer Cache",module,Magento_Backend
+"Preprocessed view files and static files","Forhåndsbehandlede visning af filer og statiske filer",module,Magento_Backend
 Catalog,Katalog,module,Magento_Backend
 JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
 "JavaScript/CSS Cache","JavaScript/CSS Cache",module,Magento_Backend
 "No records found.","Ingen poster fundet.",module,Magento_Backend
 Images,Billeder,module,Magento_Backend
 "Big Image","Stort billede",module,Magento_Backend
-Thumbnail,Thumbnail,module,Magento_Backend
-"Additional Settings","Additional Settings",module,Magento_Backend
-"records found","records found",module,Magento_Backend
+Thumbnail,Miniaturebillede,module,Magento_Backend
+"Additional Settings","Yderligere indstillinger",module,Magento_Backend
+"records found","poster fundet",module,Magento_Backend
 selected,valgt,module,Magento_Backend
 "per page","pr. side",module,Magento_Backend
-"Previous page","Previous page",module,Magento_Backend
+"Previous page","Forrige side",module,Magento_Backend
 "of %1","af %1",module,Magento_Backend
 "Next page","Næste side",module,Magento_Backend
-"Export to:","Export to:",module,Magento_Backend
+"Export to:","Eksportér til:",module,Magento_Backend
 Actions,Handlinger,module,Magento_Backend
-"Mass Actions","Mass Actions",module,Magento_Backend
-"Unselect All","Unselect All",module,Magento_Backend
-"Select Visible","Select Visible",module,Magento_Backend
-"Unselect Visible","Unselect Visible",module,Magento_Backend
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Backend
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Backend
-"The information in this tab has been changed.","The information in this tab has been changed.",module,Magento_Backend
+"Mass Actions","Masse handlinger",module,Magento_Backend
+"Unselect All","Fravælg alle",module,Magento_Backend
+"Select Visible","Vælg synlige",module,Magento_Backend
+"Unselect Visible","Fravælg synlige",module,Magento_Backend
+"Changes have been made to this section that have not been saved.","Der er foretaget ændringer til dette afsnit, der ikke er gemt.",module,Magento_Backend
+"This tab contains invalid data. Please resolve this before saving.","Denne fane indeholder ugyldige data. ret venligst før du gemmer.",module,Magento_Backend
+"The information in this tab has been changed.","Oplysningerne i denne fane er blevet ændret.",module,Magento_Backend
 Loading...,Indlæser...,module,Magento_Backend
-"We could not detect a size.","We could not detect a size.",module,Magento_Backend
+"We could not detect a size.","Vi kunne ikke finde en størrelse.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Backend
-"Allow everything","Allow everything",module,Magento_Backend
+"Allow everything","Tillad alt",module,Magento_Backend
 "Magento Admin","Magento Admin",module,Magento_Backend
-"Global Search","Global Search",module,Magento_Backend
-Marketing,Marketing,module,Magento_Backend
-"SEO & Search","SEO & Search",module,Magento_Backend
-"User Content","User Content",module,Magento_Backend
-Content,Content,module,Magento_Backend
-Elements,Elements,module,Magento_Backend
+"Global Search","Global søgning",module,Magento_Backend
+Marketing,Markedsføring,module,Magento_Backend
+"SEO & Search","SEO & søgning",module,Magento_Backend
+"User Content",Bruger-indhold,module,Magento_Backend
+Content,Indhold,module,Magento_Backend
+Elements,Elementer,module,Magento_Backend
 Design,Design,module,Magento_Backend
-Schedule,Schedule,module,Magento_Backend
-Settings,Settings,module,Magento_Backend
-Attributes,Attributes,module,Magento_Backend
+Schedule,Tidsplan,module,Magento_Backend
+Settings,Indstillinger,module,Magento_Backend
+Attributes,Attributter,module,Magento_Backend
 "Other Settings","Andre indstillinger",module,Magento_Backend
 "Data Transfer","Data overførsel",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
@@ -729,63 +729,63 @@ Debug,Fejlsøgning,module,Magento_Backend
 "Default Country","Standard Land",module,Magento_Backend
 "European Union Countries","EU Lande",module,Magento_Backend
 "Top destinations","Top destinationer",module,Magento_Backend
-"Locale Options","Locale Options",module,Magento_Backend
-Timezone,Timezone,module,Magento_Backend
-Locale,Locale,module,Magento_Backend
-"First Day of Week","First Day of Week",module,Magento_Backend
-"Weekend Days","Weekend Days",module,Magento_Backend
-"Store Name","Store Name",module,Magento_Backend
+"Locale Options","Landestandard indstillinger",module,Magento_Backend
+Timezone,Tidszone,module,Magento_Backend
+Locale,Landestandard,module,Magento_Backend
+"First Day of Week","Første dag i ugen",module,Magento_Backend
+"Weekend Days",Weekenddage,module,Magento_Backend
+"Store Name",Butiksnavn,module,Magento_Backend
 "Store Phone Number","Butikkens telefonnummer",module,Magento_Backend
-"Store Hours of Operation","Store Hours of Operation",module,Magento_Backend
-Country,Country,module,Magento_Backend
-Region/State,Region/State,module,Magento_Backend
-"ZIP/Postal Code","ZIP/Postal Code",module,Magento_Backend
-City,City,module,Magento_Backend
-"Street Address","Street Address",module,Magento_Backend
-"Street Address Line 2","Street Address Line 2",module,Magento_Backend
+"Store Hours of Operation",Butiksåbningstider,module,Magento_Backend
+Country,Land,module,Magento_Backend
+Region/State,Region/stat,module,Magento_Backend
+"ZIP/Postal Code",Postnummer,module,Magento_Backend
+City,By,module,Magento_Backend
+"Street Address",Gade/vejnavn,module,Magento_Backend
+"Street Address Line 2","Gade/vejnavn 2",module,Magento_Backend
 "VAT Number",CVR-nummer,module,Magento_Backend
-"Single-Store Mode","Single-Store Mode",module,Magento_Backend
-"Enable Single-Store Mode","Enable Single-Store Mode",module,Magento_Backend
-"This setting will not be taken into account if system has more than one store view.","This setting will not be taken into account if system has more than one store view.",module,Magento_Backend
-"Mail Sending Settings","Mail Sending Settings",module,Magento_Backend
-"Disable Email Communications","Disable Email Communications",module,Magento_Backend
-Host,Host,module,Magento_Backend
+"Single-Store Mode","Enkeltbutik tilstand",module,Magento_Backend
+"Enable Single-Store Mode","Aktivér enkeltbutik tilstand",module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.","Denne indstilling vil ikke tages i betragtning, hvis systemet har mere end én butiksvisning.",module,Magento_Backend
+"Mail Sending Settings","Mail afsender indstillinger",module,Magento_Backend
+"Disable Email Communications","Deaktivér e-mail kommunikation",module,Magento_Backend
+Host,Vært,module,Magento_Backend
 "Port (25)","Port (25)",module,Magento_Backend
-"Set Return-Path","Set Return-Path",module,Magento_Backend
-"Return-Path Email","Return-Path Email",module,Magento_Backend
+"Set Return-Path","Indstil retur-sti",module,Magento_Backend
+"Return-Path Email","Retur-sti e-mail",module,Magento_Backend
 Admin,Admin,module,Magento_Backend
-"Admin User Emails","Admin User Emails",module,Magento_Backend
-"Forgot Password Email Template","Forgot Password Email Template",module,Magento_Backend
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Backend
-"Forgot and Reset Email Sender","Forgot and Reset Email Sender",module,Magento_Backend
-"Startup Page","Startup Page",module,Magento_Backend
+"Admin User Emails","Adminbruger e-mails",module,Magento_Backend
+"Forgot Password Email Template","Glemt adgangskode e-mail-skabelon",module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail skabelon valgt baseret på temaets fallback når ""Standard"" indstilling er markeret.",module,Magento_Backend
+"Forgot and Reset Email Sender","Glem og nulstil e-mail afsender",module,Magento_Backend
+"Startup Page",Opstartsside,module,Magento_Backend
 "Admin Base URL","Admin Base URL",module,Magento_Backend
-"Use Custom Admin URL","Use Custom Admin URL",module,Magento_Backend
-"Custom Admin URL","Custom Admin URL",module,Magento_Backend
-"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/",module,Magento_Backend
-"Use Custom Admin Path","Use Custom Admin Path",module,Magento_Backend
-"Custom Admin Path","Custom Admin Path",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","You will have to sign in after you save your custom admin path.",module,Magento_Backend
-Security,Security,module,Magento_Backend
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Backend
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Backend
-"Add Secret Key to URLs","Add Secret Key to URLs",module,Magento_Backend
-"Login is Case Sensitive","Login is Case Sensitive",module,Magento_Backend
-"Admin Session Lifetime (seconds)","Admin Session Lifetime (seconds)",module,Magento_Backend
-"Please enter at least 60 and at most 31536000 (one year).","Please enter at least 60 and at most 31536000 (one year).",module,Magento_Backend
-"Enable Charts","Enable Charts",module,Magento_Backend
+"Use Custom Admin URL","Brug brugerdefineret Admin URL",module,Magento_Backend
+"Custom Admin URL","Brugerdefineret Admin URL",module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Sørg for, at base URL slutter med ' /' (skråstreg), fx http://yourdomain/magento/",module,Magento_Backend
+"Use Custom Admin Path","Brug brugerdefineret Admin sti",module,Magento_Backend
+"Custom Admin Path","Brugerdefineret Admin sti",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","Du skal logge på, når du gemmer din brugerdefinerede adminsti.",module,Magento_Backend
+Security,Sikkerhed,module,Magento_Backend
+"Recovery Link Expiration Period (hours)","Genskabelseslink udløbsperiode (timer)",module,Magento_Backend
+"Please enter a number 1 or greater in this field.","Indtast nummer 1 eller større i dette felt.",module,Magento_Backend
+"Add Secret Key to URLs","Tilføje hemmelige nøgle til URLer",module,Magento_Backend
+"Login is Case Sensitive","Login er Case følsom",module,Magento_Backend
+"Admin Session Lifetime (seconds)","Admin Session levetid (sekunder)",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","Angiv venligst mindst 60 og højst 31536000 (et år).",module,Magento_Backend
+"Enable Charts","Aktivér diagrammer",module,Magento_Backend
 Web,Web,module,Magento_Backend
-"Url Options","Url Options",module,Magento_Backend
-"Add Store Code to Urls","Add Store Code to Urls",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).",module,Magento_Backend
-"Auto-redirect to Base URL","Auto-redirect to Base URL",module,Magento_Backend
+"Url Options","URL indstillinger",module,Magento_Backend
+"Add Store Code to Urls","Tilføje butikskode til URL-adresser",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red""> Advarsel!</strong> Når du bruger butikskode i webadresser, vil systemet i nogle tilfælde muligvis ikke fungere korrekt, hvis webadresser uden butikskoder er angivet i tredjeparts-tjenester (f.eks PayPal osv.).",module,Magento_Backend
+"Auto-redirect to Base URL","Auto-omdirigér til Base URL",module,Magento_Backend
 "Search Engine Optimization","Søgemaskine Optimering",module,Magento_Backend
 "Use Web Server Rewrites","Bruger Web Server Omskrivninger",module,Magento_Backend
 "Base URLs","Base URLs",module,Magento_Backend
 "Base URL","Base URL",module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","Specificer URL eller {{base_url}} placering.",module,Magento_Backend
 "Base Link URL","Base Link URL",module,Magento_Backend
-"Base URL for Static View Files","Base URL for Static View Files",module,Magento_Backend
+"Base URL for Static View Files","Base URL til statisk visning af filer",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Kan være tom eller begynd med {{unsecure_base_url}} placering.",module,Magento_Backend
 "Base URL for User Media Files","Base URL for Bruger Medie Filer",module,Magento_Backend
 "Base URLs (Secure)","Base URLs (Sikker)",module,Magento_Backend
@@ -829,8 +829,8 @@ Pagination,Sidenummerering,module,Magento_Backend
 "Anchor Text for Previous","Anker Tekst for foregående",module,Magento_Backend
 "Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternativ tekst for den foregående side i nummereringsmenuen. Hvis tom, skal der anvendes standard billede af pil.",module,Magento_Backend
 "Anchor Text for Next","Anker tekst for Næste",module,Magento_Backend
-"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",module,Magento_Backend
-"Theme Name","Theme Name",module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternativ tekst til de næste sidelinks i pagineringsmenuen. Hvis blank, bruges standard pil billede.",module,Magento_Backend
+"Theme Name",Temanavn,module,Magento_Backend
 "System Backup","System backup",module,Magento_Backup
 "Database and Media Backup","Database og Medie Backup",module,Magento_Backup
 "Database Backup","Database Backup",module,Magento_Backup
@@ -983,12 +983,12 @@ Country,Land,module,Magento_Braintree
 "Braintree Settlement Report","Braintree udlignings rapport",module,Magento_Braintree
 "Sorry, but something went wrong","Desværre, men noget gik galt",module,Magento_Braintree
 "We can't initialize checkout.","We can't initialize checkout.",module,Magento_Braintree
-"No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_Braintree
+"No authorization transaction to proceed capture.","Ingen tilladelsestransaktion til at fortsætte fastholdelsen.",module,Magento_Braintree
 "Braintree error response.","Braintree fejlsvar.",module,Magento_Braintree
-"Payment method nonce can't be retrieved.","Payment method nonce can't be retrieved.",module,Magento_Braintree
+"Payment method nonce can't be retrieved.","Betaling metode engangsadgangskode kan ikke hentes.",module,Magento_Braintree
 "Wrong transaction status","Forkert transaktions status",module,Magento_Braintree
 Authorize,Autoriser,module,Magento_Braintree
-"Authorize and Capture","Authorize and Capture",module,Magento_Braintree
+"Authorize and Capture","Tillad og fasthold",module,Magento_Braintree
 "--Please Select--","--Venligst Vælg--",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Venligst acceptere alle vilkår og betingelser før ordreafgivelsen.",module,Magento_Braintree
 "Credit Card Type",Kreditkorttype,module,Magento_Braintree
@@ -1015,54 +1015,54 @@ YY,ÅÅ,module,Magento_Braintree
 "Sorry, but something went wrong.","Desværre, men noget gik galt.",module,Magento_Braintree
 Payment,Betaling,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Acceptér kreditkort og PayPal til din Magento butik. <br/> Ingen installation eller månedlige gebyrer og dine kunder forlader aldrig din butik for at afslutte købet.",module,Magento_Braintree
 "Enable this Solution","Aktivere denne løsning",module,Magento_Braintree
-"Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_Braintree
-"Vault Enabled","Vault Enabled",module,Magento_Braintree
-"Basic Braintree Settings","Basic Braintree Settings",module,Magento_Braintree
-Title,Title,module,Magento_Braintree
-Environment,Environment,module,Magento_Braintree
-"Payment Action","Payment Action",module,Magento_Braintree
-"Merchant ID","Merchant ID",module,Magento_Braintree
+"Enable PayPal through Braintree","Aktivér PayPal gennem Braintree",module,Magento_Braintree
+"Vault Enabled","Bankboks aktiveret",module,Magento_Braintree
+"Basic Braintree Settings","Grundlæggende Braintree indstillinger",module,Magento_Braintree
+Title,Titel,module,Magento_Braintree
+Environment,Miljø,module,Magento_Braintree
+"Payment Action",Betalingshandling,module,Magento_Braintree
+"Merchant ID",Sælger-ID,module,Magento_Braintree
 "Public Key","Offentlig nøgle",module,Magento_Braintree
 "Private Key","Privat nøgle",module,Magento_Braintree
-"Advanced Braintree Settings","Advanced Braintree Settings",module,Magento_Braintree
-"Vault Title","Vault Title",module,Magento_Braintree
-"Merchant Account ID","Merchant Account ID",module,Magento_Braintree
-"Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_Braintree
-"Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
-Debug,Debug,module,Magento_Braintree
-"CVV Verification","CVV Verification",module,Magento_Braintree
-"Credit Card Types","Credit Card Types",module,Magento_Braintree
-"Sort Order","Sort Order",module,Magento_Braintree
-"Country Specific Settings","Country Specific Settings",module,Magento_Braintree
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Braintree
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Braintree
-"Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_Braintree
-"PayPal through Braintree","PayPal through Braintree",module,Magento_Braintree
-"Override Merchant Name","Override Merchant Name",module,Magento_Braintree
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_Braintree
-"Display on Shopping Cart","Display on Shopping Cart",module,Magento_Braintree
-"Skip Order Review","Skip Order Review",module,Magento_Braintree
-"3D Secure Verification Settings","3D Secure Verification Settings",module,Magento_Braintree
-"3D Secure Verification","3D Secure Verification",module,Magento_Braintree
-"Threshold Amount","Threshold Amount",module,Magento_Braintree
-"Verify for Applicable Countries","Verify for Applicable Countries",module,Magento_Braintree
-"Verify for Specific Countries","Verify for Specific Countries",module,Magento_Braintree
-"Dynamic Descriptors","Dynamic Descriptors",module,Magento_Braintree
-Name,Name,module,Magento_Braintree
-Phone,Phone,module,Magento_Braintree
+"Advanced Braintree Settings","Grundlæggende Braintree indstillinger",module,Magento_Braintree
+"Vault Title","Bankboks titel",module,Magento_Braintree
+"Merchant Account ID","Sælger konto-ID",module,Magento_Braintree
+"Advanced Fraud Protection","Avanceret svindelværn",module,Magento_Braintree
+"Kount Merchant ID","Kount sælger-ID",module,Magento_Braintree
+Debug,Fejlsøgning,module,Magento_Braintree
+"CVV Verification","CVV verifikation",module,Magento_Braintree
+"Credit Card Types",Kreditkorttyper,module,Magento_Braintree
+"Sort Order",Sorteringsorden,module,Magento_Braintree
+"Country Specific Settings","Land-specifikke indstillinger",module,Magento_Braintree
+"Payment from Applicable Countries","Betaling fra gældende lande",module,Magento_Braintree
+"Payment from Specific Countries","Betaling fra bestemte lande",module,Magento_Braintree
+"Country Specific Credit Card Types","Landespecifikke kreditkorttyper",module,Magento_Braintree
+"PayPal through Braintree","PayPal gennem Braintree",module,Magento_Braintree
+"Override Merchant Name","Tilsidesætte Sælgernavn",module,Magento_Braintree
+"Require Customer's Billing Address","Kræve kundens faktureringsadresse",module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Tillad at redigere leveringsadresse angivet under checkud på PayPal side",module,Magento_Braintree
+"Display on Shopping Cart","Vis på indkøbskurv",module,Magento_Braintree
+"Skip Order Review","Spring ordre anmeldelse over",module,Magento_Braintree
+"3D Secure Verification Settings","3D Secure kontrol indstillinger",module,Magento_Braintree
+"3D Secure Verification","3D Secure verifikation",module,Magento_Braintree
+"Threshold Amount",Grænsebeløbet,module,Magento_Braintree
+"Verify for Applicable Countries","Kontrollér for gældende lande",module,Magento_Braintree
+"Verify for Specific Countries","Kontrollér for bestemte lande",module,Magento_Braintree
+"Dynamic Descriptors","Dynamisk deskriptorer",module,Magento_Braintree
+Name,Navn,module,Magento_Braintree
+Phone,Telefonnummer,module,Magento_Braintree
 URL,URL,module,Magento_Braintree
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_Braintree
-Select...,Select...,module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Anvend filtre for at få resultater. Kun de første 100 poster vises i gitteret, men du vil kunne downloade fuld version af rapporten i .csv-format.",module,Magento_Braintree
+Select...,Vælg...,module,Magento_Braintree
 Status,Status,module,Magento_Braintree
-"Transaction Type","Transaction Type",module,Magento_Braintree
-"Payment Type","Payment Type",module,Magento_Braintree
-"PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
+"Transaction Type",Transaktionstype,module,Magento_Braintree
+"Payment Type",Betalingstype,module,Magento_Braintree
+"PayPal Payment ID","PayPal betalings-ID",module,Magento_Braintree
 "Created At","Oprettet den",module,Magento_Braintree
-"Transaction ID","Transaction ID",module,Magento_Braintree
-"Order ID","Order ID",module,Magento_Braintree
+"Transaction ID",Transaktions-ID,module,Magento_Braintree
+"Order ID",Ordre-ID,module,Magento_Braintree
 Type,Type,module,Magento_Braintree
 Amount,Beløb,module,Magento_Braintree
 "Settlement Code","Udligning kode",module,Magento_Braintree
@@ -2770,8 +2770,8 @@ Manually,Manuelt,module,Magento_CheckoutAgreements
 Close,Luk,module,Magento_CheckoutAgreements
 "Terms & Conditions",Handelsbetingelser,module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Aktiver handelsbetingelser",module,Magento_CheckoutAgreements
-"Preview mode doesn't allow submitting the order.","Preview mode doesn't allow submitting the order.",module,Magento_CheckoutStaging
-"Preview Quote Lifetime (minutes)","Preview Quote Lifetime (minutes)",module,Magento_CheckoutStaging
+"Preview mode doesn't allow submitting the order.","Forhåndsvisning tillader ikke at sende ordren.",module,Magento_CheckoutStaging
+"Preview Quote Lifetime (minutes)","Forhåndsvisning levetid (minutter)",module,Magento_CheckoutStaging
 "Static Blocks","Statiske blokke",module,Magento_Cms
 "Add New Block","Tilføj ny blok",module,Magento_Cms
 Back,Tilbage,module,Magento_Cms
@@ -2826,11 +2826,11 @@ Blocks,Blokke,module,Magento_Cms
 "Edit Page","Rediger side",module,Magento_Cms
 "New Page","Ny side",module,Magento_Cms
 Pages,Sider,module,Magento_Cms
-"Something went wrong while saving the page.","Something went wrong while saving the page.",module,Magento_Cms
+"Something went wrong while saving the page.","Noget gik galt da siden blev gemt.",module,Magento_Cms
 "A total of %1 record(s) have been disabled.","Ialt %1 post(er) er blevet deaktiveret.",module,Magento_Cms
 "A total of %1 record(s) have been enabled.","Ialt %1 post(er) er blevet aktiveret.",module,Magento_Cms
 "Page Title",Sidetitel,module,Magento_Cms
-"To apply changes you should fill in hidden required ""%1"" field","To apply changes you should fill in hidden required ""%1"" field",module,Magento_Cms
+"To apply changes you should fill in hidden required ""%1"" field","For at anvende ændringer bør du udfylde skjult og krævet ""%1"" felt",module,Magento_Cms
 "You saved the page.","Du har gemt siden.",module,Magento_Cms
 "The directory %1 is not writable by server.","Mappen %1 er ikke skrivbar for serveren.",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Sørg for, at statisk blok indhold ikke refererer til sig selv.",module,Magento_Cms
@@ -2839,50 +2839,50 @@ Pages,Sider,module,Magento_Cms
 "Disabled by Default","Deaktiveret som standard",module,Magento_Cms
 "Disabled Completely","Komplet deaktiveret",module,Magento_Cms
 "This identifier is reserved for ""CMS No Route Page"" in configuration.","Dette id er reserveret til ""CMS No Route Page"" i konfiguration.",module,Magento_Cms
-"This identifier is reserved for ""CMS Home Page"" in configuration.","This identifier is reserved for ""CMS Home Page"" in configuration.",module,Magento_Cms
+"This identifier is reserved for ""CMS Home Page"" in configuration.","Dette identifier er reserveret til ""CMS hjemmeside"" i konfiguration.",module,Magento_Cms
 "This identifier is reserved for ""CMS No Cookies Page"" in configuration.","Dette id er reserveret til ""CMS No Cookies Page"" i konfiguration.",module,Magento_Cms
 "Could not save the page: %1","Kunne ikke gemme siden: %1",module,Magento_Cms
 "CMS Page with id ""%1"" does not exist.","CMS side med id ""%1"" findes ikke.",module,Magento_Cms
 "Could not delete the page: %1","Kunne ikke slette siden: %1",module,Magento_Cms
 "A block identifier with the same properties already exists in the selected store.","Der findes allerede et gruppe-id med de samme egenskaber i den valgte butik.",module,Magento_Cms
-"The page URL key contains capital letters or disallowed symbols.","The page URL key contains capital letters or disallowed symbols.",module,Magento_Cms
-"The page URL key cannot be made of only numbers.","The page URL key cannot be made of only numbers.",module,Magento_Cms
-"Please rename the folder using only letters, numbers, underscores and dashes.","Please rename the folder using only letters, numbers, underscores and dashes.",module,Magento_Cms
-"We found a directory with the same name. Please try another folder name.","We found a directory with the same name. Please try another folder name.",module,Magento_Cms
-"We cannot create a new directory.","We cannot create a new directory.",module,Magento_Cms
-"We cannot delete directory %1.","We cannot delete directory %1.",module,Magento_Cms
+"The page URL key contains capital letters or disallowed symbols.","Side URL nøgle indeholder store bogstaver eller ikke-tilladte symboler.",module,Magento_Cms
+"The page URL key cannot be made of only numbers.","Side URL-nøglen kan ikke kun bestå af tal.",module,Magento_Cms
+"Please rename the folder using only letters, numbers, underscores and dashes.","Omdøb venligst mappen ved kun at anvende bogstaver, tal, understregninger og tankestreger.",module,Magento_Cms
+"We found a directory with the same name. Please try another folder name.","Vi fandt en mappe med samme navn. Prøv venligst et andet mappenavn.",module,Magento_Cms
+"We cannot create a new directory.","Vi kan ikke oprette en ny mappe.",module,Magento_Cms
+"We cannot delete directory %1.","Vi kan ikke slette mappen %1.",module,Magento_Cms
 "We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
-"Directory %1 is not under storage root path.","Directory %1 is not under storage root path.",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
-LocalizedException,LocalizedException,module,Magento_Cms
-RuntimeException,RuntimeException,module,Magento_Cms
-Exception,Exception,module,Magento_Cms
-"Could not create a directory.","Could not create a directory.",module,Magento_Cms
-Edit,Edit,module,Magento_Cms
-Delete,Delete,module,Magento_Cms
-"Delete %1","Delete %1",module,Magento_Cms
-"Are you sure you wan't to delete a %1 record?","Are you sure you wan't to delete a %1 record?",module,Magento_Cms
-"All Store Views","All Store Views",module,Magento_Cms
-View,View,module,Magento_Cms
+"Directory %1 is not under storage root path.","Mappen %1 er ikke under rodstien.",module,Magento_Cms
+"Privacy and Cookie Policy","Privatliv og Cookie politik",module,Magento_Cms
+LocalizedException,Localiseringsundtagelser,module,Magento_Cms
+RuntimeException,Runtimeundtagelser,module,Magento_Cms
+Exception,Undtagelse,module,Magento_Cms
+"Could not create a directory.","Kunne ikke oprette en mappe.",module,Magento_Cms
+Edit,Redigér,module,Magento_Cms
+Delete,Slet,module,Magento_Cms
+"Delete %1","Slet %1",module,Magento_Cms
+"Are you sure you wan't to delete a %1 record?","Er du sikker på, at du vil fjerne %1 element?",module,Magento_Cms
+"All Store Views","Alle butiks visninger",module,Magento_Cms
+View,Vis,module,Magento_Cms
 px.,px.,module,Magento_Cms
-"No files found","No files found",module,Magento_Cms
+"No files found","Ingen filer fundet",module,Magento_Cms
 "Browse Files...","Se filer...",module,Magento_Cms
 "Collapse All","Skjul alle",module,Magento_Cms
 "Expand All","Vis alle",module,Magento_Cms
 "We could not detect a size.","Vi kunne ikke finde en størrelse.",module,Magento_Cms
 "Media Gallery",Mediegalleri,module,Magento_Cms
 "Content Management","Content Management",module,Magento_Cms
-"CMS Home Page","CMS Home Page",module,Magento_Cms
-"CMS No Route Page","CMS No Route Page",module,Magento_Cms
-"CMS No Cookies Page","CMS No Cookies Page",module,Magento_Cms
-"Show Breadcrumbs for CMS Pages","Show Breadcrumbs for CMS Pages",module,Magento_Cms
-"Browser Capabilities Detection","Browser Capabilities Detection",module,Magento_Cms
-"Redirect to CMS-page if Cookies are Disabled","Redirect to CMS-page if Cookies are Disabled",module,Magento_Cms
-"Show Notice if JavaScript is Disabled","Show Notice if JavaScript is Disabled",module,Magento_Cms
-"Show Notice if Local Storage is Disabled","Show Notice if Local Storage is Disabled",module,Magento_Cms
-"WYSIWYG Options","WYSIWYG Options",module,Magento_Cms
-"Enable WYSIWYG Editor","Enable WYSIWYG Editor",module,Magento_Cms
+"CMS Home Page","CMS hjemmeside",module,Magento_Cms
+"CMS No Route Page","CMS uden rute side",module,Magento_Cms
+"CMS No Cookies Page","CMS ingen Cookies side",module,Magento_Cms
+"Show Breadcrumbs for CMS Pages","Vis brødkrumme for CMS sider",module,Magento_Cms
+"Browser Capabilities Detection","Browser Capabilities påvisning",module,Magento_Cms
+"Redirect to CMS-page if Cookies are Disabled","Omdiriger til CMS-side, hvis Cookies er deaktiveret",module,Magento_Cms
+"Show Notice if JavaScript is Disabled","Vis meddelelse hvis JavaScript er deaktiveret",module,Magento_Cms
+"Show Notice if Local Storage is Disabled","Vis meddelelse hvis lokal opbevaring er deaktiveret",module,Magento_Cms
+"WYSIWYG Options","WYSIWYG indstillinger",module,Magento_Cms
+"Enable WYSIWYG Editor","Aktivér WYSIWYG Editor",module,Magento_Cms
 "CMS Page Link","CMS Page Link",module,Magento_Cms
 "Link to a CMS Page","Link to a CMS Page",module,Magento_Cms
 "CMS Page","CMS Page",module,Magento_Cms
