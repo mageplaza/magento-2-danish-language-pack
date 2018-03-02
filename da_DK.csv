@@ -6034,7 +6034,7 @@ Summary,Resumé,module,Magento_ImportExport
 "Update on Save","Opdatering på Gem",module,Magento_Indexer
 "Reindex required","Genindeksere kræves",module,Magento_Indexer
 Ready,Klar,module,Magento_Indexer
-Processing,Forarbejdning,module,Magento_Indexer
+Processing,Behandler,module,Magento_Indexer
 Never,Aldrig,module,Magento_Indexer
 "%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
 "Index Management","Indeks Management",module,Magento_Indexer
