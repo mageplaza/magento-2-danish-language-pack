@@ -637,7 +637,7 @@ New,Ny,module,Magento_Backend
 YTD,ÅTD,module,Magento_Backend
 2YTD,2ÅTD,module,Magento_Backend
 "Authentication storage is incorrect.","Fejl i Godkendelseslager.",module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.","Du har ikke logget ind korrekt eller din konto er midlertidig deaktiveret.",module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","Du har enten tastet forkert brugernavn, kodeord eller din konto er blevet midlertidig deaktiveret.",module,Magento_Backend
 "Authentication error occurred.","Der er opståen en godkendelsesfejl.",module,Magento_Backend
 "Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Administrator login periode skal være mindre eller lig med 31536000 sekunder (et år)",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","Administrator login skal være længere eller lig med 60 sekunder",module,Magento_Backend
@@ -6102,7 +6102,7 @@ Reauthorize,Reauthorize,module,Magento_Integration
 "Integration '%1' has been sent for activation.","Integration '%1' has been sent for activation.",module,Magento_Integration
 "A consumer with ID %1 does not exist","A consumer with ID %1 does not exist",module,Magento_Integration
 title,title,module,Magento_Integration
-"You did not sign in correctly or your account is temporarily disabled.","Du har ikke logget ind korrekt eller din konto er midlertidig deaktiveret.",module,Magento_Integration
+"You did not sign in correctly or your account is temporarily disabled.","Du har enten tastet forkert brugernavn, kodeord eller din konto er blevet midlertidig deaktiveret.",module,Magento_Integration
 "This user has no tokens.","This user has no tokens.",module,Magento_Integration
 "The tokens could not be revoked.","The tokens could not be revoked.",module,Magento_Integration
 "Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Sorry, something went wrong granting permissions. You can find out more in the exceptions log.",module,Magento_Integration
@@ -9699,7 +9699,7 @@ Search,Søg,module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Tak for din ordre fra %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Du kan se status for din ordre ved at <a href=""%account_url""> logge ind på din konto</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Hvis du har spørgsmål til din ordre, kan du kontakte os på <a href=""mailto:%store_email""> %store_email</a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Hvis du har spørgsmål til ordren, kan du kontakte os på <a href=""mailto:%store_email""> %store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","eller ring til os på <a href=""tel:%store_phone""> %store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Vores åbningstider er <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Din kredit Memo #%creditmemo_id for ordre #%order_id",module,Magento_Sales
@@ -9714,7 +9714,7 @@ Search,Søg,module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Når din pakke afsendes, vil vi sende dig et trackingnummer.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Din ordre <span class=""no-link""> #%increment_id</span>",module,Magento_Sales
-"Placed on <span class=""no-link"">%created_at</span>","Placeret på <span class=""no-link"">%created_at</span>",module,Magento_Sales
+"Placed on <span class=""no-link"">%created_at</span>","Placeret den <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","Når din pakke afsendes, vil vi sende en e-mail med et link til at spore din ordre.",module,Magento_Sales
 "Update to your %store_name order","Opdatering til din %store_name bestilling",module,Magento_Sales
 "Your %store_name order has shipped","Din %store_name bestilling er blevet afsendt",module,Magento_Sales
@@ -12873,7 +12873,7 @@ Footer,Sidefod,theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Kreditnota til din %store_name bestilling",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Tak for din ordre fra %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Du kan se status for din ordre ved at <a href=""%account_url""> logge ind på din konto</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Hvis du har spørgsmål til din ordre, kan du kontakte os på <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Hvis du har spørgsmål til ordren, kan du kontakte os på <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Din kredit Memo #%creditmemo_id for ordre #%order_id",theme,frontend/Magento/luma
 "Billing Info","Fakturering Info",theme,frontend/Magento/luma
 "Shipping Info","Fragt information",theme,frontend/Magento/luma
@@ -12888,7 +12888,7 @@ Footer,Sidefod,theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Når din pakke afsendes, sender vi dig et trackingnummer.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Din ordre <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Placeret på <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Placeret den <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Opdaterer til din %store_name bestilling",theme,frontend/Magento/luma
 "Your %store_name order has shipped","Din %store_name bestilling er blevet afsendt",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Din forsendelsesbekræftelse er nedenfor. Endnu en gang tak for din ordre.",theme,frontend/Magento/luma
