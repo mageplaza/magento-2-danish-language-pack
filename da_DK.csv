@@ -279,7 +279,7 @@
                 terms and conditions</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
 "Time of day to send data","Time of day to send data",module,Magento_Analytics
-"Industry","Industry",module,Magento_Analytics
+"Industry","Industri",module,Magento_Analytics
 "In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
@@ -313,7 +313,7 @@
 "%1 item(s) have been scheduled for update.""","%1 produkt(er) er blevet planlagt for opdatering.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Bulk-handlingslog",module,Magento_AsynchronousOperations
 "Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Topic %1","Emne %1",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_AsynchronousOperations
 "Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
 "Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
@@ -2117,7 +2117,7 @@
 "Adding...","Tilføjer...",module,Magento_Catalog
 "Added","Tilføjet",module,Magento_Catalog
 "remaining","remaining",module,Magento_Catalog
-"too many","too many",module,Magento_Catalog
+"too many","alt for mange",module,Magento_Catalog
 "does not implement Storage Interface","does not implement Storage Interface",module,Magento_Catalog
 "unselect all","fravælg alle",module,Magento_Catalog
 "Inventory","Lager",module,Magento_Catalog
@@ -2579,11 +2579,11 @@
 "Rule Information","Rule Information",module,Magento_CatalogRule
 "Rule Name","Rule Name",module,Magento_CatalogRule
 "Description","Beskrivelse",module,Magento_CatalogRule
-"Websites","Websites",module,Magento_CatalogRule
+"Websites","Hjemmesider",module,Magento_CatalogRule
 "Customer Groups","Customer Groups",module,Magento_CatalogRule
 "From","Fra",module,Magento_CatalogRule
 "To","Til",module,Magento_CatalogRule
-"Priority","Priority",module,Magento_CatalogRule
+"Priority","Prioritet",module,Magento_CatalogRule
 "Actions","Handlinger",module,Magento_CatalogRule
 "Apply","Anvend",module,Magento_CatalogRule
 "Discount Amount","Discount Amount",module,Magento_CatalogRule
@@ -3189,7 +3189,7 @@
 "Schedule Update","Schedule Update",module,Magento_CmsStaging
 "Update Name","Update Name",module,Magento_CmsStaging
 "Start Date","Start Date",module,Magento_CmsStaging
-"End Date","End Date",module,Magento_CmsStaging
+"End Date","Slut dato",module,Magento_CmsStaging
 "General Information","General Information",module,Magento_CmsStaging
 "Enable Block","Enable Block",module,Magento_CmsStaging
 "Block Title","Block Title",module,Magento_CmsStaging
@@ -3205,7 +3205,7 @@
 "30","30",module,Magento_CmsStaging
 "20","20",module,Magento_CmsStaging
 "Start Time","Start Time",module,Magento_CmsStaging
-"End Time","End Time",module,Magento_CmsStaging
+"End Time","Sluttid",module,Magento_CmsStaging
 "Remove CMS page from Update","Remove CMS page from Update",module,Magento_CmsStaging
 "Enable Page","Enable Page",module,Magento_CmsStaging
 "Page Title","Page Title",module,Magento_CmsStaging
@@ -3241,7 +3241,7 @@
 "Re-seller ID:","Re-seller ID:",module,Magento_Company
 "Street Address:","Street Address:",module,Magento_Company
 "City:","By:",module,Magento_Company
-"Country:","Country:",module,Magento_Company
+"Country:","Land:",module,Magento_Company
 "State/Province:","State/Province:",module,Magento_Company
 "ZIP/Postal Code:","ZIP/Postal Code:",module,Magento_Company
 "Phone Number:","Phone Number:",module,Magento_Company
@@ -3302,7 +3302,7 @@
 "A customer with the same email already assigned to company.","A customer with the same email already assigned to company.",module,Magento_Company
 "Active","Aktiv",module,Magento_Company
 "Pending Approval","Pending Approval",module,Magento_Company
-"Rejected","Rejected",module,Magento_Company
+"Rejected","Afvist",module,Magento_Company
 "Blocked","Blokeret",module,Magento_Company
 "The company admin cannot be moved to a different location in the company structure.","The company admin cannot be moved to a different location in the company structure.",module,Magento_Company
 "A user or a team cannot be moved under itself.","A user or a team cannot be moved under itself.",module,Magento_Company
@@ -3319,7 +3319,7 @@
 "Company admin","Company admin",module,Magento_Company
 "Company user","Company user",module,Magento_Company
 "Individual user","Individual user",module,Magento_Company
-"Inactive","Inactive",module,Magento_Company
+"Inactive","Inaktiv",module,Magento_Company
 "Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".",module,Magento_Company
 "Invalid login or password.","Invalid login or password.",module,Magento_Company
 "This account is locked.","This account is locked.",module,Magento_Company
@@ -3369,7 +3369,7 @@
 "Duplicate","Duplicate",module,Magento_Company
 "Company Name","Company Name",module,Magento_Company
 "Customer Type:","Customer Type:",module,Magento_Company
-"Company:","Company:",module,Magento_Company
+"Company:","Firma:",module,Magento_Company
 "Company Information","Company Information",module,Magento_Company
 "Company Legal Name","Company Legal Name",module,Magento_Company
 "Company Email","Company Email",module,Magento_Company
@@ -3393,8 +3393,8 @@
 "Business Structure","Business Structure",module,Magento_Company
 "Expand All","Expand All",module,Magento_Company
 "Collapse All","Collapse All",module,Magento_Company
-"Add User","Add User",module,Magento_Company
-"Add Team","Add Team",module,Magento_Company
+"Add User","Tilføj bruger",module,Magento_Company
+"Add Team","Tilføj team",module,Magento_Company
 "Edit Selected","Edit Selected",module,Magento_Company
 "Delete Selected","Delete Selected",module,Magento_Company
 "Error","Fejl",module,Magento_Company
@@ -3410,7 +3410,7 @@
 "Re-seller ID:","Re-seller ID:",module,Magento_Company
 "You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Company
 "T: %1","T: %1",module,Magento_Company
-"Contacts","Contacts",module,Magento_Company
+"Contacts","Kontakter",module,Magento_Company
 "Sales Representative","Sales Representative",module,Magento_Company
 "Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.","Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.",module,Magento_Company
 "Role Information","Role Information",module,Magento_Company
@@ -3625,8 +3625,8 @@
 "Updated","Opdateret",module,Magento_CompanyCredit
 "Purchased","Purchased",module,Magento_CompanyCredit
 "Reimbursed","Reimbursed",module,Magento_CompanyCredit
-"Refunded","Refunded",module,Magento_CompanyCredit
-"Reverted","Reverted",module,Magento_CompanyCredit
+"Refunded","Refunderet",module,Magento_CompanyCredit
+"Reverted","Vendt",module,Magento_CompanyCredit
 "Could not save history","Could not save history",module,Magento_CompanyCredit
 "Cannot delete history with id %1","Cannot delete history with id %1",module,Magento_CompanyCredit
 "No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_CompanyCredit
@@ -3814,7 +3814,7 @@
 "Yes (302 Found)","Yes (302 Found)",module,Magento_Config
 "Yes (301 Moved Permanently)","Yes (301 Moved Permanently)",module,Magento_Config
 "Yes","Ja",module,Magento_Config
-"Specified","Specified",module,Magento_Config
+"Specified","Angivet",module,Magento_Config
 "Visible section not found.","Visible section not found.",module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Config form fieldset clone model required to be able to clone fields",module,Magento_Config
 "%1: Instance of %2 is expected, got %3 instead","%1: Instance of %2 is expected, got %3 instead",module,Magento_Config
@@ -3839,13 +3839,13 @@
 "test","test",module,Magento_Config
 "test2","test2",module,Magento_Config
 "Action","Handling",module,Magento_Config
-"Add after","Add after",module,Magento_Config
+"Add after","Tilføj senere",module,Magento_Config
 "Delete","Slet",module,Magento_Config
 "Current Configuration Scope:","Current Configuration Scope:",module,Magento_Config
 "Stores","Butikker",module,Magento_Config
 "Group Label","Group Label",module,Magento_Config
 "Some Label","Some Label",module,Magento_Config
-"Tab Label","Tab Label",module,Magento_Config
+"Tab Label","Kolonne titel",module,Magento_Config
 "Allow everything","Allow everything",module,Magento_Config
 "Magento Admin","Magento Admin",module,Magento_Config
 "Dashboard","Dashboard",module,Magento_Config
@@ -4116,7 +4116,7 @@
 "System","System",module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","You applied the custom currency symbols.",module,Magento_CurrencySymbol
 "You must first configure currency options before being able to see currency rates.","You must first configure currency options before being able to see currency rates.",module,Magento_CurrencySymbol
-"Old rate:","Old rate:",module,Magento_CurrencySymbol
+"Old rate:","Gamle rate:",module,Magento_CurrencySymbol
 "Currency","Valuta",module,Magento_CurrencySymbol
 "[GLOBAL]","[GLOBAL]",module,Magento_CustomAttributeManagement
 "[WEBSITE]","[WEBSITE]",module,Magento_CustomAttributeManagement
@@ -4412,7 +4412,7 @@
 "Please enter new password.","Indtast ny adgangskode.",module,Magento_Customer
 "message","besked",module,Magento_Customer
 "NoSuchEntityException","NoSuchEntityException",module,Magento_Customer
-"Exception","Exception",module,Magento_Customer
+"Exception","Undtagelse",module,Magento_Customer
 "InputException.","InputException.",module,Magento_Customer
 "InputException","InputException",module,Magento_Customer
 "Exception message","Exception message",module,Magento_Customer
@@ -4708,7 +4708,7 @@
 "Refunded","Refunderet",module,Magento_CustomerBalance
 "Reverted","Vendt",module,Magento_CustomerBalance
 "A balance is needed to save a balance history.","A balance is needed to save a balance history.",module,Magento_CustomerBalance
-"Order #%1","Order #%1",module,Magento_CustomerBalance
+"Order #%1","Ordre #%1",module,Magento_CustomerBalance
 "There is no credit memo set to balance model.","There is no credit memo set to balance model.",module,Magento_CustomerBalance
 "Order #%1, creditmemo #%2","Order #%1, creditmemo #%2",module,Magento_CustomerBalance
 "The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again.",module,Magento_CustomerBalance
@@ -4723,7 +4723,7 @@
 "Use Store Credit (%1 available)","Use Store Credit (%1 available)",module,Magento_CustomerBalance
 "Your balance is:","Din balance er:",module,Magento_CustomerBalance
 "Use Store Credit","Use Store Credit",module,Magento_CustomerBalance
-"available","available",module,Magento_CustomerBalance
+"available","tilgængelig",module,Magento_CustomerBalance
 "Remove","Fjern",module,Magento_CustomerBalance
 "Refunded to Store Credit","Refunded to Store Credit",module,Magento_CustomerBalance
 "Store Credit update","Store Credit update",module,Magento_CustomerBalance
@@ -4790,9 +4790,9 @@
 "Based On","Baseret på",module,Magento_CustomerCustomAttributes
 "Form Label","Form Label",module,Magento_CustomerCustomAttributes
 "All Themes","All Themes",module,Magento_CustomerCustomAttributes
-"For Theme","For Theme",module,Magento_CustomerCustomAttributes
+"For Theme","For Tema",module,Magento_CustomerCustomAttributes
 "Store View","Store View",module,Magento_CustomerCustomAttributes
-"Form Code","Form Code",module,Magento_CustomerCustomAttributes
+"Form Code","Form Kode",module,Magento_CustomerCustomAttributes
 "Form Title","Form Title",module,Magento_CustomerCustomAttributes
 "General","Generelt",module,Magento_CustomerCustomAttributes
 "New Fieldset","New Fieldset",module,Magento_CustomerCustomAttributes
@@ -4801,7 +4801,7 @@
 "Cancel","Annullér",module,Magento_CustomerCustomAttributes
 "Attributes","Attributes",module,Magento_CustomerCustomAttributes
 "Form Type Information","Form Type Information",module,Magento_CustomerCustomAttributes
-"Type Code","Type Code",module,Magento_CustomerCustomAttributes
+"Type Code","Type Kode",module,Magento_CustomerCustomAttributes
 "Label","Etikette",module,Magento_CustomerCustomAttributes
 "Theme","Tema",module,Magento_CustomerCustomAttributes
 "System","System",module,Magento_CustomerCustomAttributes
@@ -4947,14 +4947,14 @@
 "You saved the segment.","You saved the segment.",module,Magento_CustomerSegment
 "We can't save the segment right now.","We can't save the segment right now.",module,Magento_CustomerSegment
 "Reports","Rapporter",module,Magento_CustomerSegment
-"Customers","Customers",module,Magento_CustomerSegment
+"Customers","Kunder",module,Magento_CustomerSegment
 "Viewing combined ""%1"" report from segments: %2.","Viewing combined ""%1"" report from segments: %2.",module,Magento_CustomerSegment
 "Details","Detaljer",module,Magento_CustomerSegment
 "The Customer Segment data has been refreshed.","The Customer Segment data has been refreshed.",module,Magento_CustomerSegment
 "Union","Union",module,Magento_CustomerSegment
 "Intersection","Intersection",module,Magento_CustomerSegment
 "All","Alle",module,Magento_CustomerSegment
-"Specified","Specified",module,Magento_CustomerSegment
+"Specified","Angivet",module,Magento_CustomerSegment
 "Applies to All of the Specified Customer Segments","Applies to All of the Specified Customer Segments",module,Magento_CustomerSegment
 "Apply to the Selected Customer Segments","Apply to the Selected Customer Segments",module,Magento_CustomerSegment
 "contains","indeholder",module,Magento_CustomerSegment
@@ -5008,9 +5008,9 @@
 "was not","var ikke",module,Magento_CustomerSegment
 "If Product %1 %2 and matches %3 of these Conditions:","If Product %1 %2 and matches %3 of these Conditions:",module,Magento_CustomerSegment
 "Shopping Cart","Indkøbskurv",module,Magento_CustomerSegment
-"Wish List","Wish List",module,Magento_CustomerSegment
+"Wish List","Ønskeliste",module,Magento_CustomerSegment
 "found","fundet",module,Magento_CustomerSegment
-"not found","not found",module,Magento_CustomerSegment
+"not found","ikke fundet",module,Magento_CustomerSegment
 "If Product is %1 in the %2 with %3 of these Conditions match:","If Product is %1 in the %2 with %3 of these Conditions match:",module,Magento_CustomerSegment
 "Order Address","Order Address",module,Magento_CustomerSegment
 "Sales Amount","Sales Amount",module,Magento_CustomerSegment
@@ -5023,13 +5023,13 @@
 "If Customer Segment %1 %2","If Customer Segment %1 %2",module,Magento_CustomerSegment
 "matches","matcher",module,Magento_CustomerSegment
 "does not match","does not match",module,Magento_CustomerSegment
-"is one of","is one of",module,Magento_CustomerSegment
+"is one of","er en af",module,Magento_CustomerSegment
 "is not one of","is not one of",module,Magento_CustomerSegment
 "Shopping Cart Total","Indkøbskurv total",module,Magento_CustomerSegment
 "Subtotal","Subtotal",module,Magento_CustomerSegment
 "Grand Total","Grand Total",module,Magento_CustomerSegment
 "Tax","Moms",module,Magento_CustomerSegment
-"Gift Card","Gift Card",module,Magento_CustomerSegment
+"Gift Card","Gavekort",module,Magento_CustomerSegment
 "Shopping Cart %1 Amount %2 %3:","Shopping Cart %1 Amount %2 %3:",module,Magento_CustomerSegment
 "The quote total specified is unknown. Verify the total and try again.","The quote total specified is unknown. Verify the total and try again.",module,Magento_CustomerSegment
 "Number of Cart Line Items","Number of Cart Line Items",module,Magento_CustomerSegment
@@ -5039,7 +5039,7 @@
 "equals or greater than","equals or greater than",module,Magento_CustomerSegment
 "equals or less than","equals or less than",module,Magento_CustomerSegment
 "greater than","greater than",module,Magento_CustomerSegment
-"less than","less than",module,Magento_CustomerSegment
+"less than","mindre end",module,Magento_CustomerSegment
 "Up To Date","Up To Date",module,Magento_CustomerSegment
 "Period %1 %2 Days Up To Date","Period %1 %2 Days Up To Date",module,Magento_CustomerSegment
 "Customer Segment","Customer Segment",module,Magento_CustomerSegment
@@ -5110,7 +5110,7 @@
 "Access Key","Access Key",module,Magento_Cybersource
 "Secret Key","Secret Key",module,Magento_Cybersource
 "New Order Status","New Order Status",module,Magento_Cybersource
-"Test Mode","Test Mode",module,Magento_Cybersource
+"Test Mode","Testtilstand",module,Magento_Cybersource
 "Debug","Fejlsøgning",module,Magento_Cybersource
 "Credit Card Types","Credit Card Types",module,Magento_Cybersource
 "Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Cybersource
@@ -5164,7 +5164,7 @@
 "Width","Bredde",module,Magento_Dhl
 "Regular","Normal",module,Magento_Dhl
 "Specific","Specifikke",module,Magento_Dhl
-"Easy shop","Easy shop",module,Magento_Dhl
+"Easy shop","Simpel butik",module,Magento_Dhl
 "Sprintline","Sprintline",module,Magento_Dhl
 "Secureline","Secureline",module,Magento_Dhl
 "Express easy","Express easy",module,Magento_Dhl
@@ -5186,7 +5186,7 @@
 "Domestic express 12:00","Domestic express 12:00",module,Magento_Dhl
 "Jetline","Jetline",module,Magento_Dhl
 "Freight worldwide","Freight worldwide",module,Magento_Dhl
-"Jumbo box","Jumbo box",module,Magento_Dhl
+"Jumbo box","Stor boks",module,Magento_Dhl
 "DHL service is not available at %s date","DHL service is not available at %s date",module,Magento_Dhl
 "The response is in wrong format.","The response is in wrong format.",module,Magento_Dhl
 "We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).",module,Magento_Dhl
@@ -5214,7 +5214,7 @@
 "Enabled for Checkout","Enabled for Checkout",module,Magento_Dhl
 "Gateway URL","Gateway URL",module,Magento_Dhl
 "Title","Titel",module,Magento_Dhl
-"Access ID","Access ID",module,Magento_Dhl
+"Access ID","Adgangs ID",module,Magento_Dhl
 "Password","Adgangskode",module,Magento_Dhl
 "Account Number","Account Number",module,Magento_Dhl
 "Content Type","Content Type",module,Magento_Dhl
@@ -5274,7 +5274,7 @@
 "Error Email Sender","Error Email Sender",module,Magento_Directory
 "Error Email Template","Error Email Template",module,Magento_Directory
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Directory
-"Frequency","Frequency",module,Magento_Directory
+"Frequency","Hyppighed",module,Magento_Directory
 "Service","Tjeneste",module,Magento_Directory
 "Start Time","Start Time",module,Magento_Directory
 "Installed Currencies","Installed Currencies",module,Magento_Directory
@@ -5344,11 +5344,11 @@
 "Title","Titel",module,Magento_Downloadable
 "Links can be purchased separately","Links can be purchased separately",module,Magento_Downloadable
 "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
-"Add Link","Add Link",module,Magento_Downloadable
+"Add Link","Tilføj link",module,Magento_Downloadable
 "Price","Pris",module,Magento_Downloadable
 "File","Fil",module,Magento_Downloadable
 "Sample","Eksempel",module,Magento_Downloadable
-"Shareable","Shareable",module,Magento_Downloadable
+"Shareable","Delbart",module,Magento_Downloadable
 "Max. Downloads","Max. Downloads",module,Magento_Downloadable
 "Samples","Prøver",module,Magento_Downloadable
 "Use Default Value","Use Default Value",module,Magento_Downloadable
@@ -5389,7 +5389,7 @@
 "Qty","Antal",module,Magento_Downloadable
 "Subtotal","Subtotal",module,Magento_Downloadable
 "Discount Amount","Rabatbeløb",module,Magento_Downloadable
-"Row Total","Row Total",module,Magento_Downloadable
+"Row Total","Rækketotal",module,Magento_Downloadable
 "Qty Invoiced","Qty Invoiced",module,Magento_Downloadable
 "Ordered","Bestilt",module,Magento_Downloadable
 "Shipped","Afsendt",module,Magento_Downloadable
@@ -5549,7 +5549,7 @@
 "The value of attribute not valid","The value of attribute not valid",module,Magento_Eav
 "These changes affect all related products.","These changes affect all related products.",module,Magento_Eav
 "Text Field","Text Field",module,Magento_Eav
-"Text Area","Text Area",module,Magento_Eav
+"Text Area","Tekstområde",module,Magento_Eav
 "Text Editor","Text Editor",module,Magento_Eav
 "Date","Dato",module,Magento_Eav
 "Yes/No","Ja/Nej",module,Magento_Eav
@@ -5743,7 +5743,7 @@
 "Direct","Direkte",module,Magento_Fedex
 "Indirect","Indirekte",module,Magento_Fedex
 "Pounds","Pund",module,Magento_Fedex
-"Kilograms","Kilograms",module,Magento_Fedex
+"Kilograms","kg",module,Magento_Fedex
 "Invalid response from carrier","Invalid response from carrier",module,Magento_Fedex
 "No available tracking items","No available tracking items",module,Magento_Fedex
 "For some reason we can't retrieve tracking info right now.","For some reason we can't retrieve tracking info right now.",module,Magento_Fedex
@@ -5764,7 +5764,7 @@
 "Web-Services URL (Production)","Web-Services URL (Production)",module,Magento_Fedex
 "Web-Services URL (Sandbox)","Web-Services URL (Sandbox)",module,Magento_Fedex
 "Packages Request Type","Packages Request Type",module,Magento_Fedex
-"Packaging","Packaging",module,Magento_Fedex
+"Packaging","Indpakning",module,Magento_Fedex
 "Dropoff","Afleveringsservice",module,Magento_Fedex
 "Weight Unit","Weight Unit",module,Magento_Fedex
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Fedex
@@ -5918,7 +5918,7 @@
 "You can't redeem a gift card now.","You can't redeem a gift card now.",module,Magento_GiftCardAccount
 "Gift Card ""%1"" was redeemed.","Gift Card ""%1"" was redeemed.",module,Magento_GiftCardAccount
 "We cannot redeem this gift card.","Vi kan ikke indløse dette gavekort.",module,Magento_GiftCardAccount
-"Gift Card","Gift Card",module,Magento_GiftCardAccount
+"Gift Card","Gavekort",module,Magento_GiftCardAccount
 "By admin: %1.","By admin: %1.",module,Magento_GiftCardAccount
 "Could not save the gift card account.","Could not save the gift card account.",module,Magento_GiftCardAccount
 "Could not delete the gift card account.","Could not delete the gift card account.",module,Magento_GiftCardAccount
@@ -5980,7 +5980,7 @@
 "Check Gift Card status and balance","Check Gift Card status and balance",module,Magento_GiftCardAccount
 "Gift Card:","Gavekort:",module,Magento_GiftCardAccount
 "Current Balance:","Current Balance:",module,Magento_GiftCardAccount
-"Expires:","Expires:",module,Magento_GiftCardAccount
+"Expires:","Udløber:",module,Magento_GiftCardAccount
 "Please enter a valid gift card code.","Please enter a valid gift card code.",module,Magento_GiftCardAccount
 "Add or remove gift cards","Add or remove gift cards",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Gift Card amount applied to order:",module,Magento_GiftCardAccount
@@ -6071,15 +6071,15 @@
 "Are you sure you want to add these products?","Are you sure you want to add these products?",module,Magento_GiftRegistry
 "Update Items and Quantities","Update Items and Quantities",module,Magento_GiftRegistry
 "ID","ID",module,Magento_GiftRegistry
-"Requested","Requested",module,Magento_GiftRegistry
-"Fulfilled","Fulfilled",module,Magento_GiftRegistry
+"Requested","Anmodet",module,Magento_GiftRegistry
+"Fulfilled","Opfyldt",module,Magento_GiftRegistry
 "Note","Bemærk",module,Magento_GiftRegistry
 "Action","Handling",module,Magento_GiftRegistry
 "Update Quantity","Update Quantity",module,Magento_GiftRegistry
 "Remove Item","Remove Item",module,Magento_GiftRegistry
 "Sharing Information","Sharing Information",module,Magento_GiftRegistry
 "Emails","E-mails",module,Magento_GiftRegistry
-"Send From","Send From",module,Magento_GiftRegistry
+"Send From","Send fra",module,Magento_GiftRegistry
 "Message","Besked",module,Magento_GiftRegistry
 "Share Gift Registry","Share Gift Registry",module,Magento_GiftRegistry
 "Gift Registry","Gift Registry",module,Magento_GiftRegistry
@@ -6087,7 +6087,7 @@
 "Registrants","Registrants",module,Magento_GiftRegistry
 "Event Date","Event Date",module,Magento_GiftRegistry
 "Total Items","Total Items",module,Magento_GiftRegistry
-"Remaining","Remaining",module,Magento_GiftRegistry
+"Remaining","Resterende",module,Magento_GiftRegistry
 "Public","Offentlig",module,Magento_GiftRegistry
 "No","Nej",module,Magento_GiftRegistry
 "Yes","Ja",module,Magento_GiftRegistry
@@ -6113,7 +6113,7 @@
 "Code","Kode",module,Magento_GiftRegistry
 "Label","Etikette",module,Magento_GiftRegistry
 "Sort Order","Sort Order",module,Magento_GiftRegistry
-"Is Listed","Is Listed",module,Magento_GiftRegistry
+"Is Listed","Er opført",module,Magento_GiftRegistry
 "Attributes","Attributes",module,Magento_GiftRegistry
 "[GLOBAL]","[GLOBAL]",module,Magento_GiftRegistry
 "[WEBSITE]","[WEBSITE]",module,Magento_GiftRegistry
@@ -6141,7 +6141,7 @@
 "We can't add shopping cart items to the gift registry right now.","We can't add shopping cart items to the gift registry right now.",module,Magento_GiftRegistry
 "You deleted this gift registry entity.","You deleted this gift registry entity.",module,Magento_GiftRegistry
 "We couldn't delete this gift registry entity.","We couldn't delete this gift registry entity.",module,Magento_GiftRegistry
-"Customers","Customers",module,Magento_GiftRegistry
+"Customers","Kunder",module,Magento_GiftRegistry
 "Edit '%1' Gift Registry","Edit '%1' Gift Registry",module,Magento_GiftRegistry
 "Something went wrong while editing the gift registry.","Something went wrong while editing the gift registry.",module,Magento_GiftRegistry
 "At least one email address is needed. Enter an email address and try again.","At least one email address is needed. Enter an email address and try again.",module,Magento_GiftRegistry
@@ -6152,7 +6152,7 @@
 "You deleted the gift registry type.","You deleted the gift registry type.",module,Magento_GiftRegistry
 "We couldn't delete this gift registry type.","We couldn't delete this gift registry type.",module,Magento_GiftRegistry
 "%1","%1",module,Magento_GiftRegistry
-"Edit Type","Edit Type",module,Magento_GiftRegistry
+"Edit Type","Rediger Type",module,Magento_GiftRegistry
 "New Type","Ny type",module,Magento_GiftRegistry
 "You saved the gift registry type.","You saved the gift registry type.",module,Magento_GiftRegistry
 "We can't save this gift registry type right now.","We can't save this gift registry type right now.",module,Magento_GiftRegistry
@@ -6217,9 +6217,9 @@
 "Please enter the last name.","Please enter the last name.",module,Magento_GiftRegistry
 "Please enter a valid email address(for example, daniel@x.com).","Please enter a valid email address(for example, daniel@x.com).",module,Magento_GiftRegistry
 "Ship to the recipient's address.","Ship to the recipient's address.",module,Magento_GiftRegistry
-"-- All --","-- All --",module,Magento_GiftRegistry
+"-- All --","-- Alle --",module,Magento_GiftRegistry
 "Unknown gift registry identifier","Unknown gift registry identifier",module,Magento_GiftRegistry
-"All Forms","All Forms",module,Magento_GiftRegistry
+"All Forms","Alle forms",module,Magento_GiftRegistry
 "Registrant Name Search","Registrant Name Search",module,Magento_GiftRegistry
 "Registrant Email Search","Registrant Email Search",module,Magento_GiftRegistry
 "Gift Registry ID Search","Gift Registry ID Search",module,Magento_GiftRegistry
@@ -6288,7 +6288,7 @@
 "Fulfilled Quantity","Fulfilled Quantity",module,Magento_GiftRegistry
 "Total Fulfilled Quantity","Total Fulfilled Quantity",module,Magento_GiftRegistry
 "Remaining Quantity","Remaining Quantity",module,Magento_GiftRegistry
-"Quantity:","Quantity:",module,Magento_GiftRegistry
+"Quantity:","Antal:",module,Magento_GiftRegistry
 "Customize and Add to Gift Registry","Customize and Add to Gift Registry",module,Magento_GiftRegistry
 "This won't take long . . .","This won't take long . . .",module,Magento_GiftRegistry
 "Required Fields","Required Fields",module,Magento_GiftRegistry
@@ -6328,7 +6328,7 @@
 "The following items have been purchased from your gift registry ""%registry_name"":","The following items have been purchased from your gift registry ""%registry_name"":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","You can sign in to your account to view more details about this gift registry.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Ship to Recipient Address",module,Magento_GiftRegistry
-"Ship Here","Ship Here",module,Magento_GiftRegistry
+"Ship Here","Send hertil",module,Magento_GiftRegistry
 "Recipient Address","Recipient Address",module,Magento_GiftRegistry
 "Use gift registry shipping address","Use gift registry shipping address",module,Magento_GiftRegistry
 "The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.",module,Magento_GiftRegistry
@@ -6523,7 +6523,7 @@
 "Name","Navn",module,Magento_GroupedProductStaging
 "Type","Type",module,Magento_GroupedProductStaging
 "SKU","SKU",module,Magento_GroupedProductStaging
-"Quantity","Quantity",module,Magento_GroupedProductStaging
+"Quantity","Antal",module,Magento_GroupedProductStaging
 "Price","Pris",module,Magento_GroupedProductStaging
 "Attribute Set","Attribute Set",module,Magento_GroupedProductStaging
 "AttributeSetText","AttributeSetText",module,Magento_GroupedProductStaging
@@ -6580,7 +6580,7 @@
 "Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors",module,Magento_ImportExport
 "File is valid! To start import process press ""Import"" button","File is valid! To start import process press ""Import"" button",module,Magento_ImportExport
 "The file is valid, but we can't import it for some reason.","The file is valid, but we can't import it for some reason.",module,Magento_ImportExport
-"Show more","Show more",module,Magento_ImportExport
+"Show more","Vis mere",module,Magento_ImportExport
 "Additional data","Additional data",module,Magento_ImportExport
 "Following Error(s) has been occurred during importing process:","Following Error(s) has been occurred during importing process:",module,Magento_ImportExport
 "Only the first 100 errors are shown.","Only the first 100 errors are shown.",module,Magento_ImportExport
@@ -6798,7 +6798,7 @@
 "Resource Access","Resource Access",module,Magento_Integration
 "Custom","Brugerdefineret",module,Magento_Integration
 "All","Alle",module,Magento_Integration
-"Resources","Resources",module,Magento_Integration
+"Resources","Ressourcer",module,Magento_Integration
 "Sorry, something went wrong. Please try again later.","Beklager, noget gik galt. Prøv igen senere.",module,Magento_Integration
 "Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
 "Allow","Tillad",module,Magento_Integration
@@ -6831,7 +6831,7 @@
 "Invitations Information","Invitations Information",module,Magento_Invitation
 "Enter Each Email on New Line","Enter Each Email on New Line",module,Magento_Invitation
 "Message","Besked",module,Magento_Invitation
-"Send From","Send From",module,Magento_Invitation
+"Send From","Send fra",module,Magento_Invitation
 "Invitee Group","Invitee Group",module,Magento_Invitation
 "Reset","Nulstil",module,Magento_Invitation
 "Save","Gem",module,Magento_Invitation
@@ -6845,7 +6845,7 @@
 "Default from System Configuration","Default from System Configuration",module,Magento_Invitation
 "N/A","N/A",module,Magento_Invitation
 "Status History","Status History",module,Magento_Invitation
-"Customers","Customers",module,Magento_Invitation
+"Customers","Kunder",module,Magento_Invitation
 "Order Conversion Rate","Order Conversion Rate",module,Magento_Invitation
 "We can't find this invitation.","We can't find this invitation.",module,Magento_Invitation
 "Please select invitations.","Please select invitations.",module,Magento_Invitation
@@ -6904,7 +6904,7 @@
 "Not Sent","Ikke sendt",module,Magento_Invitation
 "Sent","Sendt",module,Magento_Invitation
 "Accepted","Accepteret",module,Magento_Invitation
-"Discarded","Discarded",module,Magento_Invitation
+"Discarded","Kasséret",module,Magento_Invitation
 "Invitation Information","Invitation Information",module,Magento_Invitation
 "Send At","Sendt",module,Magento_Invitation
 "Invitation Message","Invitation Message",module,Magento_Invitation
@@ -7005,7 +7005,7 @@
 "No changes","No changes",module,Magento_Logging
 "The item was deleted","The item was deleted",module,Magento_Logging
 "N/A","N/A",module,Magento_Logging
-"All Users","All Users",module,Magento_Logging
+"All Users","Alle brugere",module,Magento_Logging
 "Admin Actions Log","Admin Actions Log",module,Magento_Logging
 "Admin Actions Archive","Admin Actions Archive",module,Magento_Logging
 "Report","Rapporter",module,Magento_Logging
@@ -7082,7 +7082,7 @@
 "Admin Sign In","Admin Sign In",module,Magento_Logging
 "CMS Pages","CMS sider",module,Magento_Logging
 "CMS Blocks","CMS blokke",module,Magento_Logging
-"Customers","Customers",module,Magento_Logging
+"Customers","Kunder",module,Magento_Logging
 "Customer Groups","Customer Groups",module,Magento_Logging
 "Reports","Rapporter",module,Magento_Logging
 "System Configuration","System Configuration",module,Magento_Logging
@@ -7110,8 +7110,8 @@
 "System Backups","System Backups",module,Magento_Logging
 "Customer Tax Classes","Customer Tax Classes",module,Magento_Logging
 "Catalog Product Tax Classes","Catalog Product Tax Classes",module,Magento_Logging
-"Tax Rules","Tax Rules",module,Magento_Logging
-"Tax Rates","Tax Rates",module,Magento_Logging
+"Tax Rules","Moms regler",module,Magento_Logging
+"Tax Rates","Momssatser",module,Magento_Logging
 "XML Sitemap","XML Sitemap",module,Magento_Logging
 "Widget","Widget",module,Magento_Logging
 "Cache Management","Cache Management",module,Magento_Logging
@@ -7139,7 +7139,7 @@
 "More Partners","More Partners",module,Magento_Marketplace
 "Extensions and Themes are an essential component of the Magento Ecosystem. Please visit the Magento Marketplace to see the latest innovations that developers have created to enhance your Magento Store.","Extensions and Themes are an essential component of the Magento Ecosystem. Please visit the Magento Marketplace to see the latest innovations that developers have created to enhance your Magento Store.",module,Magento_Marketplace
 "Visit Magento Marketplaces","Visit Magento Marketplaces",module,Magento_Marketplace
-"Read More","Read More",module,Magento_Marketplace
+"Read More","Læs mere",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
 "Synchronize","Synkronisér",module,Magento_MediaStorage
@@ -7192,7 +7192,7 @@
 "Save Warehouse","Save Warehouse",module,Magento_MultipleLocationInventory
 "Disable Warehouse","Disable Warehouse",module,Magento_MultipleLocationInventory
 "Enable Warehouse","Enable Warehouse",module,Magento_MultipleLocationInventory
-"Warehouse","Warehouse",module,Magento_MultipleLocationInventory
+"Warehouse","Lager",module,Magento_MultipleLocationInventory
 "New Warehouse","New Warehouse",module,Magento_MultipleLocationInventory
 "Manage Warehouse","Manage Warehouse",module,Magento_MultipleLocationInventory
 "Please correct the data sent.","Please correct the data sent.",module,Magento_MultipleLocationInventory
@@ -7228,7 +7228,7 @@
 "Wish List Search","Wish List Search",module,Magento_MultipleWishlist
 "Select Search Type","Select Search Type",module,Magento_MultipleWishlist
 "Reports","Rapporter",module,Magento_MultipleWishlist
-"Customers","Customers",module,Magento_MultipleWishlist
+"Customers","Kunder",module,Magento_MultipleWishlist
 "Customer Wish List Report","Customer Wish List Report",module,Magento_MultipleWishlist
 "Wish list ""%1"" was saved.","Wish list ""%1"" was saved.",module,Magento_MultipleWishlist
 "We can't create the wish list right now.","We can't create the wish list right now.",module,Magento_MultipleWishlist
@@ -7260,7 +7260,7 @@
 "%1 product(s) have been added to shopping cart: %2.","%1 product(s) have been added to shopping cart: %2.",module,Magento_MultipleWishlist
 "Please reenter your search options.","Please reenter your search options.",module,Magento_MultipleWishlist
 "We could not perform the search.","We could not perform the search.",module,Magento_MultipleWishlist
-"All Forms","All Forms",module,Magento_MultipleWishlist
+"All Forms","Alle forms",module,Magento_MultipleWishlist
 "Owner Name","Owner Name",module,Magento_MultipleWishlist
 "Owner Email","Owner Email",module,Magento_MultipleWishlist
 "%1's Wish List","%1's Wish List",module,Magento_MultipleWishlist
@@ -7307,7 +7307,7 @@
 "Actions","Handlinger",module,Magento_MultipleWishlist
 "View","Vis",module,Magento_MultipleWishlist
 "Your search returned no results.","Din søgning gav ingen resultater.",module,Magento_MultipleWishlist
-"Wish List","Wish List",module,Magento_MultipleWishlist
+"Wish List","Ønskeliste",module,Magento_MultipleWishlist
 "Create Wish List","Create Wish List",module,Magento_MultipleWishlist
 "Edit Wish List","Edit Wish List",module,Magento_MultipleWishlist
 "Edit","Redigér",module,Magento_MultipleWishlist
@@ -7435,7 +7435,7 @@
 "section below","section below",module,Magento_Multishipping
 "For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.","For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.",module,Magento_Multishipping
 "Successfully Ordered","Successfully Ordered",module,Magento_Multishipping
-"Ship to:","Ship to:",module,Magento_Multishipping
+"Ship to:","Leveres til:",module,Magento_Multishipping
 "No shipping required.","No shipping required.",module,Magento_Multishipping
 "To purchase these items: Return to the","To purchase these items: Return to the",module,Magento_Multishipping
 "Review page in Checkout","Review page in Checkout",module,Magento_Multishipping
@@ -7511,7 +7511,7 @@
 "This quote is currently locked for editing. It will become available once released by the Merchant.","This quote is currently locked for editing. It will become available once released by the Merchant.",module,Magento_NegotiableQuote
 "Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.",module,Magento_NegotiableQuote
 "You are not an owner of this quote. You cannot edit it or take any actions on it.","You are not an owner of this quote. You cannot edit it or take any actions on it.",module,Magento_NegotiableQuote
-"Discount","Discount",module,Magento_NegotiableQuote
+"Discount","Rabat",module,Magento_NegotiableQuote
 "Estimated Tax","Estimated Tax",module,Magento_NegotiableQuote
 "Quote Subtotal (Excl. Tax)","Quote Subtotal (Excl. Tax)",module,Magento_NegotiableQuote
 "Quote Grand Total (Incl. Tax)","Quote Grand Total (Incl. Tax)",module,Magento_NegotiableQuote
@@ -7589,7 +7589,7 @@
 "Only for use within frontend area","Only for use within frontend area",module,Magento_NegotiableQuote
 "There is an error while saving comment.","There is an error while saving comment.",module,Magento_NegotiableQuote
 "Cannot save comment:\n%1","Cannot save comment:\n%1",module,Magento_NegotiableQuote
-"discount","discount",module,Magento_NegotiableQuote
+"discount","rabat",module,Magento_NegotiableQuote
 "%1%","%1%",module,Magento_NegotiableQuote
 "%1 - deleted","%1 - deleted",module,Magento_NegotiableQuote
 "Cart rule deleted.","Cart rule deleted.",module,Magento_NegotiableQuote
@@ -7602,7 +7602,7 @@
 "Submitted","Submitted",module,Magento_NegotiableQuote
 "Ordered","Bestilt",module,Magento_NegotiableQuote
 "Expired","Udløbet",module,Magento_NegotiableQuote
-"Declined","Declined",module,Magento_NegotiableQuote
+"Declined","Afvist",module,Magento_NegotiableQuote
 "Closed","Lukket",module,Magento_NegotiableQuote
 "Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.","Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.",module,Magento_NegotiableQuote
 "The discount has changed for this quote. Check the History Log for details.","The discount has changed for this quote. Check the History Log for details.",module,Magento_NegotiableQuote
@@ -7680,7 +7680,7 @@
 "Message","Besked",module,Magento_NegotiableQuote
 "Bundle Items","Bundle Items",module,Magento_NegotiableQuote
 "Order Placed From Quote","Order Placed From Quote",module,Magento_NegotiableQuote
-"Comments","Comments",module,Magento_NegotiableQuote
+"Comments","Kommentarer",module,Magento_NegotiableQuote
 "Request Declined. Reason:","Request Declined. Reason:",module,Magento_NegotiableQuote
 "Customer Group","Customer Group",module,Magento_NegotiableQuote
 "Status","Status",module,Magento_NegotiableQuote
@@ -7758,8 +7758,8 @@
 "Merge","Flet",module,Magento_NegotiableQuote
 "Replace","Erstat",module,Magento_NegotiableQuote
 "Quote Comments","Quote Comments",module,Magento_NegotiableQuote
-"Created:","Created:",module,Magento_NegotiableQuote
-"Expires:","Expires:",module,Magento_NegotiableQuote
+"Created:","Oprettet:",module,Magento_NegotiableQuote
+"Expires:","Udløber:",module,Magento_NegotiableQuote
 "Sales Rep.:","Sales Rep.:",module,Magento_NegotiableQuote
 "Select Existing Address","Select Existing Address",module,Magento_NegotiableQuote
 "Add New Address","Add New Address",module,Magento_NegotiableQuote
@@ -7881,7 +7881,7 @@
 "Checkout with quote","Checkout with quote",module,Magento_NegotiableQuote
 "View quotes of subordinate users","View quotes of subordinate users",module,Magento_NegotiableQuote
 "Product","Produkt",module,Magento_NegotiableQuote
-"Quantity","Quantity",module,Magento_NegotiableQuote
+"Quantity","Antal",module,Magento_NegotiableQuote
 "Allow Quotes","Allow Quotes",module,Magento_NegotiableQuote
 "ID","ID",module,Magento_NegotiableQuote
 "Created Date","Created Date",module,Magento_NegotiableQuote
@@ -8049,7 +8049,7 @@
 "Queue Start","Queue Start",module,Magento_Newsletter
 "Queue End","Queue End",module,Magento_Newsletter
 "Status","Status",module,Magento_Newsletter
-"Processed","Processed",module,Magento_Newsletter
+"Processed","Bearbejdet",module,Magento_Newsletter
 "Recipients","Recipients",module,Magento_Newsletter
 "Unsubscribe","Afmeld",module,Magento_Newsletter
 "Delete","Slet",module,Magento_Newsletter
@@ -8127,7 +8127,7 @@
 "For shipment with matching items","For levering med matchende varer",module,Magento_OfflineShipping
 "Field","Felt",module,Magento_OfflineShipping
 "is required.","er påkrævet.",module,Magento_OfflineShipping
-"Flat Rate","Flat Rate",module,Magento_OfflineShipping
+"Flat Rate","Porto",module,Magento_OfflineShipping
 "Enabled","Aktiveret",module,Magento_OfflineShipping
 "Method Name","Metodenavn",module,Magento_OfflineShipping
 "Price","Pris",module,Magento_OfflineShipping
@@ -8402,7 +8402,7 @@
 "Buyer's Tax ID","Buyer's Tax ID",module,Magento_Paypal
 "Buyer's Tax ID Type","Buyer's Tax ID Type",module,Magento_Paypal
 "Chargeback","Chargeback",module,Magento_Paypal
-"Complaint","Complaint",module,Magento_Paypal
+"Complaint","Klage",module,Magento_Paypal
 "Dispute","Uenighed",module,Magento_Paypal
 "Matched Address only (no ZIP)","Matched Address only (no ZIP)",module,Magento_Paypal
 "Matched Address only (no ZIP) International","Matched Address only (no ZIP) International",module,Magento_Paypal
@@ -8527,7 +8527,7 @@
 "Gift Certificate Redemption","Gift Certificate Redemption",module,Magento_Paypal
 "Hidden Virtual PayPal Debit Card Transaction","Hidden Virtual PayPal Debit Card Transaction",module,Magento_Paypal
 "Hold for Dispute Investigation","Hold for Dispute Investigation",module,Magento_Paypal
-"Incentive","Incentive",module,Magento_Paypal
+"Incentive","Tilskyndelse",module,Magento_Paypal
 "Mass Pay Payment","Mass Pay Payment",module,Magento_Paypal
 "Merchant Referral Bonus","Merchant Referral Bonus",module,Magento_Paypal
 "Mobile Payment (made via a mobile phone)","Mobile Payment (made via a mobile phone)",module,Magento_Paypal
@@ -8718,7 +8718,7 @@
 "Publisher ID","Publisher ID",module,Magento_Paypal
 "Required to display a banner","Required to display a banner",module,Magento_Paypal
 "Get Publisher ID from PayPal","Get Publisher ID from PayPal",module,Magento_Paypal
-"Home Page","Home Page",module,Magento_Paypal
+"Home Page","Startside",module,Magento_Paypal
 "Display","Vis",module,Magento_Paypal
 "Position","Placering",module,Magento_Paypal
 "Size","Størrelse",module,Magento_Paypal
@@ -8796,8 +8796,8 @@
 "User","Bruger",module,Magento_Paypal
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal recommends that you set up an additional User on your account at manager.paypal.com",module,Magento_Paypal
 "PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.",module,Magento_Paypal
-"Test Mode","Test Mode",module,Magento_Paypal
-"Use Proxy","Use Proxy",module,Magento_Paypal
+"Test Mode","Testtilstand",module,Magento_Paypal
+"Use Proxy","Brug Proxy",module,Magento_Paypal
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -8926,7 +8926,7 @@
 "Stock Alert Email Template","Stock Alert Email Template",module,Magento_ProductAlert
 "Alert Email Sender","Alert Email Sender",module,Magento_ProductAlert
 "Product Alerts Run Settings","Product Alerts Run Settings",module,Magento_ProductAlert
-"Frequency","Frequency",module,Magento_ProductAlert
+"Frequency","Hyppighed",module,Magento_ProductAlert
 "Start Time","Start Time",module,Magento_ProductAlert
 "Error Email Recipient","Error Email Recipient",module,Magento_ProductAlert
 "Error Email Sender","Error Email Sender",module,Magento_ProductAlert
@@ -8965,7 +8965,7 @@
 "Youtube API key is invalid","YouTube API-nøgle er ugyldig",module,Magento_ProductVideo
 "Video cant be shown due to the following reason:","Videoen kan ikke vises på grund af følgende årsag:",module,Magento_ProductVideo
 "Video not found","Video not found",module,Magento_ProductVideo
-"New Video","New Video",module,Magento_ProductVideo
+"New Video","Ny video",module,Magento_ProductVideo
 "Save","Gem",module,Magento_ProductVideo
 "Cancel","Afbryd",module,Magento_ProductVideo
 "Delete","Slet",module,Magento_ProductVideo
@@ -11303,8 +11303,8 @@
 "Priority","Prioritet",module,Magento_SalesRuleStaging
 "Status","Status",module,Magento_SalesRuleStaging
 "Active","Aktiv",module,Magento_SalesRuleStaging
-"Inactive","Inactive",module,Magento_SalesRuleStaging
-"Web Site","Web Site",module,Magento_SalesRuleStaging
+"Inactive","Inaktiv",module,Magento_SalesRuleStaging
+"Web Site","Hjemmeside",module,Magento_SalesRuleStaging
 "Action","Handling",module,Magento_SalesRuleStaging
 "Edit","Redigér",module,Magento_SalesRuleStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_SalesRuleStaging
@@ -11313,9 +11313,9 @@
 "Update Information","Update Information",module,Magento_SalesRuleStaging
 "Update Name","Update Name",module,Magento_SalesRuleStaging
 "Start Date","Start Date",module,Magento_SalesRuleStaging
-"End Date","End Date",module,Magento_SalesRuleStaging
+"End Date","Slut dato",module,Magento_SalesRuleStaging
 "Rule Information","Rule Information",module,Magento_SalesRuleStaging
-"Websites","Websites",module,Magento_SalesRuleStaging
+"Websites","Hjemmesider",module,Magento_SalesRuleStaging
 "Customer Groups","Customer Groups",module,Magento_SalesRuleStaging
 "Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRuleStaging
 "Conditions","Conditions",module,Magento_SalesRuleStaging
@@ -11338,7 +11338,7 @@
 "30","30",module,Magento_SalesRuleStaging
 "20","20",module,Magento_SalesRuleStaging
 "Start Time","Start Time",module,Magento_SalesRuleStaging
-"End Time","End Time",module,Magento_SalesRuleStaging
+"End Time","Sluttid",module,Magento_SalesRuleStaging
 "Cart Price Rules","Cart Price Rules",module,Magento_SalesRuleStaging
 "The entity sequence profile wasn't added to the meta active profile. Verify the profile and try again.","The entity sequence profile wasn't added to the meta active profile. Verify the profile and try again.",module,Magento_SalesSequence
 "Not enough arguments","Ikke nok argumenter",module,Magento_SalesSequence
@@ -11397,7 +11397,7 @@
 "Import Behavior","Import Behavior",module,Magento_ScheduledImportExport
 "Field separator","Field separator",module,Magento_ScheduledImportExport
 "Multiple value separator","Multiple value separator",module,Magento_ScheduledImportExport
-"On Error","On Error",module,Magento_ScheduledImportExport
+"On Error","Tænd Fejl",module,Magento_ScheduledImportExport
 "File Name","File Name",module,Magento_ScheduledImportExport
 "Images File Directory","Images File Directory",module,Magento_ScheduledImportExport
 "Clean Now","Clean Now",module,Magento_ScheduledImportExport
@@ -11444,7 +11444,7 @@
 "We can't save the file history file.","We can't save the file history file.",module,Magento_ScheduledImportExport
 "Unknown file format","Unknown file format",module,Magento_ScheduledImportExport
 "Enabled","Aktiveret",module,Magento_ScheduledImportExport
-"Disabled","Disabled",module,Magento_ScheduledImportExport
+"Disabled","Slået fra",module,Magento_ScheduledImportExport
 "Import","Import",module,Magento_ScheduledImportExport
 "Export","Eksportér",module,Magento_ScheduledImportExport
 "Daily","Daglig",module,Magento_ScheduledImportExport
@@ -11481,7 +11481,7 @@
 "Are you sure you want to delete the selected scheduled imports/exports?","Are you sure you want to delete the selected scheduled imports/exports?",module,Magento_ScheduledImportExport
 "Change Status","Change Status",module,Magento_ScheduledImportExport
 "Operation","Operation",module,Magento_ScheduledImportExport
-"Last Run","Last Run",module,Magento_ScheduledImportExport
+"Last Run","Sidse kørsel",module,Magento_ScheduledImportExport
 "Last Outcome","Last Outcome",module,Magento_ScheduledImportExport
 "Action","Handling",module,Magento_ScheduledImportExport
 "Edit","Redigér",module,Magento_ScheduledImportExport
@@ -11567,7 +11567,7 @@
 "You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list.",module,Magento_Search
 "Scope","Anvendelsesområde",module,Magento_Search
 "Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”",module,Magento_Search
-"Synonyms","Synonyms",module,Magento_Search
+"Synonyms","Synonymer",module,Magento_Search
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.",module,Magento_Search
 "Store View","Store View",module,Magento_Search
 "Website","Hjemmeside",module,Magento_Search
@@ -11584,7 +11584,7 @@
 "Your current session has been expired.","Your current session has been expired.",module,Magento_Security
 "By IP and Email","By IP and Email",module,Magento_Security
 "By IP","Efter IP",module,Magento_Security
-"By Email","By Email",module,Magento_Security
+"By Email","Via E-mail",module,Magento_Security
 "None","Ingen",module,Magento_Security
 "We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1.",module,Magento_Security
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Incorrect Security Checker class. It has to implement SecurityCheckerInterface",module,Magento_Security
@@ -11653,7 +11653,7 @@
 "Save and Continue Edit","Save and Continue Edit",module,Magento_SharedCatalog
 "Catalog Structure","Catalog Structure",module,Magento_SharedCatalog
 "Catalog Id","Catalog Id",module,Magento_SharedCatalog
-"Store Id","Store Id",module,Magento_SharedCatalog
+"Store Id","Butiks-ID",module,Magento_SharedCatalog
 "Cancel","Annullér",module,Magento_SharedCatalog
 "Done","Udført",module,Magento_SharedCatalog
 "Back","Tilbage",module,Magento_SharedCatalog
@@ -11664,7 +11664,7 @@
 "Reset","Nulstil",module,Magento_SharedCatalog
 "Save","Gem",module,Magento_SharedCatalog
 "Pricing","Priser",module,Magento_SharedCatalog
-"Products","Products",module,Magento_SharedCatalog
+"Products","Produkter",module,Magento_SharedCatalog
 "All Stores","All Stores",module,Magento_SharedCatalog
 "Shared Catalogs","Shared Catalogs",module,Magento_SharedCatalog
 "The companies have been reassigned.","The companies have been reassigned.",module,Magento_SharedCatalog
@@ -11754,25 +11754,25 @@
 "Store:","Butik:",module,Magento_SharedCatalog
 "Step 2: Set Custom Prices","Step 2: Set Custom Prices",module,Magento_SharedCatalog
 "Step 1: Select Products for Catalog","Step 1: Select Products for Catalog",module,Magento_SharedCatalog
-"Website:","Website:",module,Magento_SharedCatalog
+"Website:","Hjemmeside:",module,Magento_SharedCatalog
 "Proceed","Fortsæt",module,Magento_SharedCatalog
 "Select All","Select All",module,Magento_SharedCatalog
 "Deselect All","Deselect All",module,Magento_SharedCatalog
 "Assign","Tildel",module,Magento_SharedCatalog
-"Unassign","Unassign",module,Magento_SharedCatalog
+"Unassign","Fjern tildeling",module,Magento_SharedCatalog
 "Fixed","Rettet",module,Magento_SharedCatalog
-"Discount","Discount",module,Magento_SharedCatalog
+"Discount","Rabat",module,Magento_SharedCatalog
 "Apply","Anvend",module,Magento_SharedCatalog
 "Proceed to Store Configuration?","Proceed to Store Configuration?",module,Magento_SharedCatalog
 "You've made changes into the shared catalog. If you leave this page now, the changes will be lost.","You've made changes into the shared catalog. If you leave this page now, the changes will be lost.",module,Magento_SharedCatalog
 "The maximum allowed catalog name length is {0} characters.","The maximum allowed catalog name length is {0} characters.",module,Magento_SharedCatalog
 "Conflicting row.","Conflicting row.",module,Magento_SharedCatalog
 "Generate Catalog","Generate Catalog",module,Magento_SharedCatalog
-"products","products",module,Magento_SharedCatalog
+"products","produkter",module,Magento_SharedCatalog
 "Expand All","Expand All",module,Magento_SharedCatalog
 "Collapse All","Collapse All",module,Magento_SharedCatalog
 "of","af",module,Magento_SharedCatalog
-"included","included",module,Magento_SharedCatalog
+"included","inkluderet",module,Magento_SharedCatalog
 "Shared Catalog","Shared Catalog",module,Magento_SharedCatalog
 "Manage Shared Catalog","Manage Shared Catalog",module,Magento_SharedCatalog
 "Enable Shared Catalog","Enable Shared Catalog",module,Magento_SharedCatalog
@@ -11789,7 +11789,7 @@
 "Company","Firma",module,Magento_SharedCatalog
 "Country","Land",module,Magento_SharedCatalog
 "State/Province","State/Province",module,Magento_SharedCatalog
-"Assigned","Assigned",module,Magento_SharedCatalog
+"Assigned","Tildelt",module,Magento_SharedCatalog
 "Catalog","Katalog",module,Magento_SharedCatalog
 "Action","Handling",module,Magento_SharedCatalog
 "Shared Catalog Information","Shared Catalog Information",module,Magento_SharedCatalog
@@ -11813,7 +11813,7 @@
 "This discount will be applied to all selected products. The custom price type will be set to 'Fixed'.","This discount will be applied to all selected products. The custom price type will be set to 'Fixed'.",module,Magento_SharedCatalog
 "Adjust Fixed Price","Adjust Fixed Price",module,Magento_SharedCatalog
 "SKU","SKU",module,Magento_SharedCatalog
-"Websites","Websites",module,Magento_SharedCatalog
+"Websites","Hjemmesider",module,Magento_SharedCatalog
 "Cost","Pris",module,Magento_SharedCatalog
 "MSRP","MSRP",module,Magento_SharedCatalog
 "Price","Pris",module,Magento_SharedCatalog
@@ -11829,7 +11829,7 @@
 "tier_price_form","tier_price_form",module,Magento_SharedCatalog
 "Add Price","Add Price",module,Magento_SharedCatalog
 "Website","Hjemmeside",module,Magento_SharedCatalog
-"Quantity","Quantity",module,Magento_SharedCatalog
+"Quantity","Antal",module,Magento_SharedCatalog
 "New Shipment for Order #%1","Ny leverance for ordre #%1",module,Magento_Shipping
 "Submit Shipment","Indsend leverance",module,Magento_Shipping
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",module,Magento_Shipping
@@ -12010,10 +12010,10 @@
 "Shipping Methods","Leveringsmetoder",module,Magento_Shipping
 "Track your order","Følg din ordre",module,Magento_Shipping
 "Track All Shipments","Spor alle forsendelser",module,Magento_Shipping
-"Approved","Approved",module,Magento_Signifyd
-"Declined","Declined",module,Magento_Signifyd
+"Approved","Godkendt",module,Magento_Signifyd
+"Declined","Afvist",module,Magento_Signifyd
 "Pending","Afventer",module,Magento_Signifyd
-"Canceled","Canceled",module,Magento_Signifyd
+"Canceled","Annulleret",module,Magento_Signifyd
 "In Review","In Review",module,Magento_Signifyd
 "Unrequested","Unrequested",module,Magento_Signifyd
 "Learn more","Learn more",module,Magento_Signifyd
@@ -12059,12 +12059,12 @@
 "New Sitemap","New Sitemap",module,Magento_Sitemap
 "Sitemap Information","Sitemap Information",module,Magento_Sitemap
 "Sitemap","Hjemmeside kort",module,Magento_Sitemap
-"Filename","Filename",module,Magento_Sitemap
+"Filename","Filnavn",module,Magento_Sitemap
 "example: sitemap.xml","example: sitemap.xml",module,Magento_Sitemap
 "Path","Sti",module,Magento_Sitemap
 "example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","example: ""/sitemap/"" or ""/"" for base path (path must be writeable)",module,Magento_Sitemap
 "Store View","Store View",module,Magento_Sitemap
-"Generate","Generate",module,Magento_Sitemap
+"Generate","Generer",module,Magento_Sitemap
 "XML Sitemap","XML Sitemap",module,Magento_Sitemap
 "Add Sitemap","Add Sitemap",module,Magento_Sitemap
 "Catalog","Katalog",module,Magento_Sitemap
@@ -12098,7 +12098,7 @@
 "XML Sitemap Section","XML Sitemap Section",module,Magento_Sitemap
 "Categories Options","Categories Options",module,Magento_Sitemap
 "Frequency","Frequency",module,Magento_Sitemap
-"Priority","Priority",module,Magento_Sitemap
+"Priority","Prioritet",module,Magento_Sitemap
 "Valid values range from 0.0 to 1.0.","Valid values range from 0.0 to 1.0.",module,Magento_Sitemap
 "Products Options","Products Options",module,Magento_Sitemap
 "Add Images into Sitemap","Add Images into Sitemap",module,Magento_Sitemap
@@ -12172,7 +12172,7 @@
 "Delete Update","Delete Update",module,Magento_Staging
 "View/Edit","View/Edit",module,Magento_Staging
 "Active","Aktiv",module,Magento_Staging
-"Upcoming","Upcoming",module,Magento_Staging
+"Upcoming","Kommende",module,Magento_Staging
 "The Name for Future Update needs to be selected. Select and try again.","The Name for Future Update needs to be selected. Select and try again.",module,Magento_Staging
 "The Start Time for Future Update needs to be selected. Select and try again.","The Start Time for Future Update needs to be selected. Select and try again.",module,Magento_Staging
 "The Future Update Start Time is invalid. It can't be earlier than the current time.","The Future Update Start Time is invalid. It can't be earlier than the current time.",module,Magento_Staging
@@ -12187,7 +12187,7 @@
 "Test Exception","Test Exception",module,Magento_Staging
 "This action is unavailable","This action is unavailable",module,Magento_Staging
 "Magento Admin Panel","Magento Admin Panel",module,Magento_Staging
-"Calendar","Calendar",module,Magento_Staging
+"Calendar","Kalender",module,Magento_Staging
 "Share","Del",module,Magento_Staging
 "Close","Luk",module,Magento_Staging
 "Scope","Anvendelsesområde",module,Magento_Staging
@@ -12203,9 +12203,9 @@
 "General","Generelt",module,Magento_Staging
 "Status","Status",module,Magento_Staging
 "Update Name","Update Name",module,Magento_Staging
-"Includes","Includes",module,Magento_Staging
+"Includes","Inkluder",module,Magento_Staging
 "Start Time","Start Time",module,Magento_Staging
-"End Time","End Time",module,Magento_Staging
+"End Time","Sluttid",module,Magento_Staging
 "Description","Beskrivelse",module,Magento_Staging
 "Invalid store requested.","Invalid store requested.",module,Magento_Store
 "Current store is not active.","Nuværende butik er ikke aktiv.",module,Magento_Store
@@ -12237,7 +12237,7 @@
 "no such entity exception","no such entity exception",module,Magento_Store
 "Your Language:","Dit sprog:",module,Magento_Store
 "Your Language","Dit sprog",module,Magento_Store
-"Language","Language",module,Magento_Store
+"Language","Sprog",module,Magento_Store
 "Select Store","Select Store",module,Magento_Store
 "Configuration","Configuration",module,Magento_Store
 "Various XML configurations that were collected across modules and merged","Various XML configurations that were collected across modules and merged",module,Magento_Store
@@ -12300,7 +12300,7 @@
 "Support Module doesn't support %s operation system","Support Module doesn't support %s operation system",module,Magento_Support
 "Unable to create backup due to php exec function is disabled","Unable to create backup due to php exec function is disabled",module,Magento_Support
 "Incomplete","Incomplete",module,Magento_Support
-"Complete","Complete",module,Magento_Support
+"Complete","Fuldført",module,Magento_Support
 "Failed","Mislykkedes",module,Magento_Support
 "Directory %s should have writable & readable permissions","Directory %s should have writable & readable permissions",module,Magento_Support
 "Windows","Vinduer",module,Magento_Support
@@ -12359,7 +12359,7 @@
 "Payments Functionality Matrix","Payments Functionality Matrix",module,Magento_Support
 "Payment Methods","Betalingsmetoder",module,Magento_Support
 "Shipping Methods","Leveringsmetoder",module,Magento_Support
-"Job Code","Job Code",module,Magento_Support
+"Job Code","Jobkode",module,Magento_Support
 "Cron Expression","Cron Expression",module,Magento_Support
 "Run Class","Run Class",module,Magento_Support
 "Run Method","Run Method",module,Magento_Support
@@ -12464,7 +12464,7 @@
 "Backend Model","Backend Model",module,Magento_Support
 "Frontend Model","Frontend Model",module,Magento_Support
 "text","tekst",module,Magento_Support
-"Show Log","Show Log",module,Magento_Support
+"Show Log","Vis Log",module,Magento_Support
 "Delete","Slet",module,Magento_Support
 "Delete ""%1""","Delete ""%1""",module,Magento_Support
 "Are you sure you want to delete a ""%1"" record?","Are you sure you want to delete a ""%1"" record?",module,Magento_Support
@@ -12472,7 +12472,7 @@
 "Are you sure you wan't to delete a ""%1"" record?","Are you sure you wan't to delete a ""%1"" record?",module,Magento_Support
 "Empty log","Empty log",module,Magento_Support
 "Backup ID:","Backup ID:",module,Magento_Support
-"Collapse","Collapse",module,Magento_Support
+"Collapse","Fold sammen",module,Magento_Support
 "Expand","Udvid",module,Magento_Support
 "(no data)","(no data)",module,Magento_Support
 "Top","Top",module,Magento_Support
@@ -12529,7 +12529,7 @@
 "Create New Value","Create New Value",module,Magento_Swatches
 "Sending swatch values as package.","Sending swatch values as package.",module,Magento_Swatches
 "More","Mere",module,Magento_Swatches
-"Swatches","Swatches",module,Magento_Swatches
+"Swatches","Farveprøve",module,Magento_Swatches
 "Swatches per Product","Swatches per Product",module,Magento_Swatches
 "Show Swatches in Product List","Show Swatches in Product List",module,Magento_Swatches
 "Swatch Image","Swatch Image",module,Magento_Swatches
@@ -12552,11 +12552,11 @@
 "Products to Match","Products to Match",module,Magento_TargetRule
 "General Rule Information","General Rule Information",module,Magento_TargetRule
 "Rule Name","Rule Name",module,Magento_TargetRule
-"Priority","Priority",module,Magento_TargetRule
+"Priority","Prioritet",module,Magento_TargetRule
 "Status","Status",module,Magento_TargetRule
 "Active","Aktiv",module,Magento_TargetRule
-"Inactive","Inactive",module,Magento_TargetRule
-"Apply To","Apply To",module,Magento_TargetRule
+"Inactive","Inaktiv",module,Magento_TargetRule
+"Apply To","Anvend for",module,Magento_TargetRule
 "From","Fra",module,Magento_TargetRule
 "To","Til",module,Magento_TargetRule
 "Result Limit","Result Limit",module,Magento_TargetRule
@@ -12583,7 +12583,7 @@
 "Target Product","Target Product",module,Magento_TargetRule
 "Price (percentage)","Price (percentage)",module,Magento_TargetRule
 "Product Special","Product Special",module,Magento_TargetRule
-"equal to","equal to",module,Magento_TargetRule
+"equal to","lig med",module,Magento_TargetRule
 "more","mere",module,Magento_TargetRule
 "equals or greater than","equals or greater than",module,Magento_TargetRule
 "less","mindre",module,Magento_TargetRule
@@ -12594,7 +12594,7 @@
 "Could not rebuild index for empty products array","Could not rebuild index for empty products array",module,Magento_TargetRule
 "-- Please Select --","-- Please Select --",module,Magento_TargetRule
 "Related Products","Related Products",module,Magento_TargetRule
-"Up-sells","Up-sells",module,Magento_TargetRule
+"Up-sells","Op-sælge",module,Magento_TargetRule
 "Cross-sells","Cross-sells",module,Magento_TargetRule
 "The attribute's model class name is invalid. Verify the name and try again.","The attribute's model class name is invalid. Verify the name and try again.",module,Magento_TargetRule
 "This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.","This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.",module,Magento_TargetRule
@@ -12642,7 +12642,7 @@
 "Zip/Post Code","Postnummer",module,Magento_Tax
 "'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.",module,Magento_Tax
 "Range From","Range From",module,Magento_Tax
-"Range To","Range To",module,Magento_Tax
+"Range To","Span til",module,Magento_Tax
 "State","Stat",module,Magento_Tax
 "Country","Land",module,Magento_Tax
 "Rate Percent","Rate Percent",module,Magento_Tax
@@ -12662,8 +12662,8 @@
 "Name","Navn",module,Magento_Tax
 "Customer Tax Class","Customer Tax Class",module,Magento_Tax
 "Product Tax Class","Product Tax Class",module,Magento_Tax
-"Tax Rate","Tax Rate",module,Magento_Tax
-"Priority","Priority",module,Magento_Tax
+"Tax Rate","Momssats",module,Magento_Tax
+"Priority","Prioritet",module,Magento_Tax
 "Tax rates at the same priority are added, others are compounded.","Tax rates at the same priority are added, others are compounded.",module,Magento_Tax
 "Calculate Off Subtotal Only","Calculate Off Subtotal Only",module,Magento_Tax
 "Sort Order","Sort Order",module,Magento_Tax
@@ -12697,7 +12697,7 @@
 "Something went wrong deleting this tax rule.","Something went wrong deleting this tax rule.",module,Magento_Tax
 "New Tax Rule","New Tax Rule",module,Magento_Tax
 "Edit Rule","Edit Rule",module,Magento_Tax
-"New Rule","New Rule",module,Magento_Tax
+"New Rule","Ny regel",module,Magento_Tax
 "You saved the tax rule.","You saved the tax rule.",module,Magento_Tax
 "We can't save this tax rule right now.","We can't save this tax rule right now.",module,Magento_Tax
 "Invalid name of tax class specified.","Invalid name of tax class specified.",module,Magento_Tax
@@ -12822,7 +12822,7 @@
 "Rate","Bedøm",module,Magento_TaxImportExport
 "Zip/Post is Range","Zip/Post is Range",module,Magento_TaxImportExport
 "Range From","Range From",module,Magento_TaxImportExport
-"Range To","Range To",module,Magento_TaxImportExport
+"Range To","Span til",module,Magento_TaxImportExport
 "Tax Zones and Rates","Tax Zones and Rates",module,Magento_TaxImportExport
 "Import and Export Tax Rates","Import and Export Tax Rates",module,Magento_TaxImportExport
 "The tax rate has been imported.","The tax rate has been imported.",module,Magento_TaxImportExport
@@ -12954,10 +12954,10 @@
 "You're currently reading page","You're currently reading page",module,Magento_Theme
 "Next","Næste",module,Magento_Theme
 "Show","Vis",module,Magento_Theme
-"per page","per page",module,Magento_Theme
+"per page","pr. side",module,Magento_Theme
 "About the calendar","About the calendar",module,Magento_Theme
 "Close","Luk",module,Magento_Theme
-"Go Today","Go Today",module,Magento_Theme
+"Go Today","Gør det idag",module,Magento_Theme
 "WK","WK",module,Magento_Theme
 "Time","Tid",module,Magento_Theme
 "Hour","Time",module,Magento_Theme
@@ -12979,7 +12979,7 @@
 "Home","Forsiden",module,Magento_Theme
 "Go to Home Page","Go to Home Page",module,Magento_Theme
 "Empty","Tom",module,Magento_Theme
-"1 column","1 column",module,Magento_Theme
+"1 column","1 kolonne",module,Magento_Theme
 "Configuration","Configuration",module,Magento_Theme
 "Default welcome msg!","Default welcome msg!",module,Magento_Theme
 "Copyright © 2013-present Magento, Inc. All rights reserved.","Copyright © 2013-present Magento, Inc. All rights reserved.",module,Magento_Theme
@@ -13021,7 +13021,7 @@
 "Skip to Content","Skip to Content",module,Magento_Theme
 "Menu","Menu",module,Magento_Theme
 "Account","Konto",module,Magento_Theme
-"Settings","Settings",module,Magento_Theme
+"Settings","Indstillinger",module,Magento_Theme
 "2 columns with left bar","2 columns with left bar",module,Magento_Theme
 "2 columns with right bar","2 columns with right bar",module,Magento_Theme
 "3 columns","3 columns",module,Magento_Theme
@@ -13060,7 +13060,7 @@
 "Assign","Tildel",module,Magento_Ui
 "Options","Valgmuligheder",module,Magento_Ui
 "records found","records found",module,Magento_Ui
-"selected","selected",module,Magento_Ui
+"selected","valgte",module,Magento_Ui
 "of","af",module,Magento_Ui
 "Filters","Filtre",module,Magento_Ui
 "Add","Tilføj",module,Magento_Ui
@@ -13072,7 +13072,7 @@
 "Done","Udført",module,Magento_Ui
 "options","valgmuligheder",module,Magento_Ui
 "Select...","Select...",module,Magento_Ui
-"Selected","Selected",module,Magento_Ui
+"Selected","Valgte",module,Magento_Ui
 "Entity with ID: %s doesn't exist","Entity with ID: %s doesn't exist",module,Magento_Ui
 "Open in new tab","Open in new tab",module,Magento_Ui
 "Select All","Select All",module,Magento_Ui
@@ -13082,7 +13082,7 @@
 "On","Til",module,Magento_Ui
 "Off","Fra",module,Magento_Ui
 "Go to Details Page","Go to Details Page",module,Magento_Ui
-"New View","New View",module,Magento_Ui
+"New View","Ny visning",module,Magento_Ui
 "Default View","Default View",module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
 "You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
@@ -13308,7 +13308,7 @@
 "Sort Order","Sort Order",module,Magento_Ups
 "Title","Titel",module,Magento_Ups
 "Tracking XML URL","Tracking XML URL",module,Magento_Ups
-"UPS Type","UPS Type",module,Magento_Ups
+"UPS Type","UPS-Type",module,Magento_Ups
 "Live Account","Live Account",module,Magento_Ups
 "Weight Unit","Weight Unit",module,Magento_Ups
 "User ID","Bruger-ID",module,Magento_Ups
@@ -13330,7 +13330,7 @@
 "Please assign a website to the selected category.","Please assign a website to the selected category.",module,Magento_UrlRewrite
 "Edit URL Rewrite for a Product","Edit URL Rewrite for a Product",module,Magento_UrlRewrite
 "Add URL Rewrite for a Product","Add URL Rewrite for a Product",module,Magento_UrlRewrite
-"Product:","Product:",module,Magento_UrlRewrite
+"Product:","Produkt:",module,Magento_UrlRewrite
 "Skip Category Selection","Skip Category Selection",module,Magento_UrlRewrite
 "ID","ID",module,Magento_UrlRewrite
 "Name","Navn",module,Magento_UrlRewrite
@@ -13458,7 +13458,7 @@
 "You deleted the role.","You deleted the role.",module,Magento_User
 "An error occurred while deleting this role.","An error occurred while deleting this role.",module,Magento_User
 "Edit Role","Edit Role",module,Magento_User
-"New Role","New Role",module,Magento_User
+"New Role","Ny rolle",module,Magento_User
 "This role no longer exists.","This role no longer exists.",module,Magento_User
 "You saved the role.","You saved the role.",module,Magento_User
 "An error occurred while saving this role.","An error occurred while saving this role.",module,Magento_User
@@ -13468,8 +13468,8 @@
 "Forced","Tvunget",module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Sorry, but this password has already been used. Please create another.",module,Magento_User
 "email","e-mail",module,Magento_User
-"password","password",module,Magento_User
-"username","username",module,Magento_User
+"password","adgandskode",module,Magento_User
+"username","brugernavn",module,Magento_User
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_User
 "More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_User
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_User
@@ -13604,7 +13604,7 @@
 "Letter","Brev",module,Magento_Usps
 "Flat","Flad",module,Magento_Usps
 "Parcel","Pakke",module,Magento_Usps
-"Variable","Variable",module,Magento_Usps
+"Variable","Variabel",module,Magento_Usps
 "Small Flat-Rate Box","Small Flat-Rate Box",module,Magento_Usps
 "Medium Flat-Rate Box","Medium Flat-Rate Box",module,Magento_Usps
 "Large Flat-Rate Box","Large Flat-Rate Box",module,Magento_Usps
@@ -13621,7 +13621,7 @@
 "Yes","Ja",module,Magento_Usps
 "No","Nej",module,Magento_Usps
 "Not Required","Not Required",module,Magento_Usps
-"Required","Required",module,Magento_Usps
+"Required","Påkrævet",module,Magento_Usps
 "For some reason we can't retrieve tracking info right now.","For some reason we can't retrieve tracking info right now.",module,Magento_Usps
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Sorry, something went wrong. Please try again or contact us and we'll try to help.",module,Magento_Usps
 "track_summary","track_summary",module,Magento_Usps
@@ -13642,7 +13642,7 @@
 "Secure Gateway URL","Secure Gateway URL",module,Magento_Usps
 "Title","Titel",module,Magento_Usps
 "User ID","Bruger-ID",module,Magento_Usps
-"Password","Password",module,Magento_Usps
+"Password","Adgangskode",module,Magento_Usps
 "Mode","Tilstand",module,Magento_Usps
 "Packages Request Type","Packages Request Type",module,Magento_Usps
 "Container","Container",module,Magento_Usps
@@ -13671,7 +13671,7 @@
 "Save and Continue Edit","Gem og fortsæt redigering",module,Magento_Variable
 "Custom Variable ""%1""","Brugerdefineret variabel ""%1""",module,Magento_Variable
 "New Custom Variable","New Custom Variable",module,Magento_Variable
-"Variable","Variable",module,Magento_Variable
+"Variable","Variabel",module,Magento_Variable
 "Variable Code","Variable Code",module,Magento_Variable
 "Variable Name","Variable Name",module,Magento_Variable
 "Use Default Variable Values","Use Default Variable Values",module,Magento_Variable
@@ -13833,7 +13833,7 @@
 "CMS Hierarchy","CMS Hierarchy",module,Magento_VersionsCms
 "CMS Hierarchy Node Link","CMS Hierarchy Node Link",module,Magento_VersionsCms
 "Link to Specified CMS Hierarchy Node","Link to Specified CMS Hierarchy Node",module,Magento_VersionsCms
-"Template","Template",module,Magento_VersionsCms
+"Template","Skabelon",module,Magento_VersionsCms
 "CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_VersionsCms
 "CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_VersionsCms
 "All Store Views","All Store Views",module,Magento_VersionsCms
@@ -13841,7 +13841,7 @@
 "Add Product by SKU","Tilføj Produkt med SKU",module,Magento_VisualMerchandiser
 "Position","Placering",module,Magento_VisualMerchandiser
 "Action","Handling",module,Magento_VisualMerchandiser
-"Unassign","Unassign",module,Magento_VisualMerchandiser
+"Unassign","Fjern tildeling",module,Magento_VisualMerchandiser
 "Top","Top",module,Magento_VisualMerchandiser
 "Bottom","Bund",module,Magento_VisualMerchandiser
 "Choose a selection...","Choose a selection...",module,Magento_VisualMerchandiser
@@ -13866,7 +13866,7 @@
 "Greater than or equal to","Greater than or equal to",module,Magento_VisualMerchandiser
 "Less than","Less than",module,Magento_VisualMerchandiser
 "Less than or equal to","Less than or equal to",module,Magento_VisualMerchandiser
-"Contains","Contains",module,Magento_VisualMerchandiser
+"Contains","Indeholder",module,Magento_VisualMerchandiser
 "Error in yes/no format","Error in yes/no format",module,Magento_VisualMerchandiser
 "Category ID '%1' not found","Category ID '%1' not found",module,Magento_VisualMerchandiser
 "%1 doesn't implement SortInterface","%1 doesn't implement SortInterface",module,Magento_VisualMerchandiser
@@ -13889,7 +13889,7 @@
 "Grid","Gitter",module,Magento_VisualMerchandiser
 "Tile","Flise",module,Magento_VisualMerchandiser
 "records found","records found",module,Magento_VisualMerchandiser
-"per page","per page",module,Magento_VisualMerchandiser
+"per page","pr. side",module,Magento_VisualMerchandiser
 "Previous page","Previous page",module,Magento_VisualMerchandiser
 "of %1","af %1",module,Magento_VisualMerchandiser
 "Next page","Next page",module,Magento_VisualMerchandiser
@@ -13899,7 +13899,7 @@
 "You can create a rule only to the existing categories.","You can create a rule only to the existing categories.",module,Magento_VisualMerchandiser
 "Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.","Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.",module,Magento_VisualMerchandiser
 "Attribute","Attribute",module,Magento_VisualMerchandiser
-"Operator","Operator",module,Magento_VisualMerchandiser
+"Operator","Operatør",module,Magento_VisualMerchandiser
 "Value","Værdi",module,Magento_VisualMerchandiser
 "Logic","Logik",module,Magento_VisualMerchandiser
 "Add Condition","Add Condition",module,Magento_VisualMerchandiser
@@ -14031,7 +14031,7 @@
 "Anchor Categories","Anchor Categories",module,Magento_Widget
 "Non-Anchor Categories","Non-Anchor Categories",module,Magento_Widget
 "All Product Types","All Product Types",module,Magento_Widget
-"Products","Products",module,Magento_Widget
+"Products","Produkter",module,Magento_Widget
 "Generic Pages","Generic Pages",module,Magento_Widget
 "All Pages","All Pages",module,Magento_Widget
 "Specified Page","Specified Page",module,Magento_Widget
@@ -14040,7 +14040,7 @@
 "Widget Options","Widget Options",module,Magento_Widget
 "Settings","Instillinger",module,Magento_Widget
 "Design Theme","Design Theme",module,Magento_Widget
-"Continue","Continue",module,Magento_Widget
+"Continue","Fortsæt",module,Magento_Widget
 "Widget","Widget",module,Magento_Widget
 "Please specify a Widget Type.","Please specify a Widget Type.",module,Magento_Widget
 "CMS","CMS",module,Magento_Widget
@@ -14055,7 +14055,7 @@
 "None","Ingen",module,Magento_Widget
 "%1","%1",module,Magento_Widget
 "Container","Container",module,Magento_Widget
-"Template","Template",module,Magento_Widget
+"Template","Skabelon",module,Magento_Widget
 "All","Alle",module,Magento_Widget
 "Specific %1","Specific %1",module,Magento_Widget
 "Open Chooser","Open Chooser",module,Magento_Widget
@@ -14157,7 +14157,7 @@
 "See Details","See Details",module,Magento_Wishlist
 "Options Details","Options Details",module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS link to %1's wishlist",module,Magento_Wishlist
-"RSS Feed","RSS Feed",module,Magento_Wishlist
+"RSS Feed","RSS-feed",module,Magento_Wishlist
 "Product","Produkt",module,Magento_Wishlist
 "Back","Tilbage",module,Magento_Wishlist
 "Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
@@ -14188,9 +14188,9 @@
 "No Items Found","No Items Found",module,Magento_Wishlist
 "Product Name","Product Name",module,Magento_Wishlist
 "User Description","User Description",module,Magento_Wishlist
-"Quantity","Quantity",module,Magento_Wishlist
+"Quantity","Antal",module,Magento_Wishlist
 "Add Locale","Add Locale",module,Magento_Wishlist
-"Add Date","Add Date",module,Magento_Wishlist
+"Add Date","Tilføj dato",module,Magento_Wishlist
 "Days in Wish List","Days in Wish List",module,Magento_Wishlist
 "Action","Handling",module,Magento_Wishlist
 "Configure","Configure",module,Magento_Wishlist
@@ -14226,13 +14226,13 @@
 "Refused","Nægtede",module,Magento_Worldpay
 "Authorised","Authorised",module,Magento_Worldpay
 "Error","Fejl",module,Magento_Worldpay
-"Captured","Captured",module,Magento_Worldpay
+"Captured","Fanget",module,Magento_Worldpay
 "Please click","Please click",module,Magento_Worldpay
 "here","her",module,Magento_Worldpay
 "if you are not redirected automatically.","if you are not redirected automatically.",module,Magento_Worldpay
 "You will be redirected to the Worldpay website.","You will be redirected to the Worldpay website.",module,Magento_Worldpay
 "Continue to Worldpay","Continue to Worldpay",module,Magento_Worldpay
-"Worldpay","Worldpay",module,Magento_Worldpay
+"Worldpay","WorldPay",module,Magento_Worldpay
 "Enabled","Aktiveret",module,Magento_Worldpay
 "Title","Titel",module,Magento_Worldpay
 "Payment Response Password","Payment Response Password",module,Magento_Worldpay

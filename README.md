@@ -2,7 +2,7 @@
 
 Welcome to **Magento 2 Danish Language Pack**! Today, I will guide you how to get Danish language package and install it on your Magento 2 stores. Please keep tracking the well-documented intructions in this post.
 
-Read more [Magento 2 Danish Language Pack](https://www.mageplaza.com/magento-2-danish-language-pack.html)
+Read more [Magento 2 Danish Language Pack](https://www.mageplaza.com/magento-2-dansih-language-pack.html)
 
 
 ## Overview
@@ -17,11 +17,11 @@ Read more [Magento 2 Danish Language Pack](https://www.mageplaza.com/magento-2-d
 
 This is status of Danish Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/40?title=translated)
+![language pack](http://progressed.io/bar/{{process}}?title=translated)
 
 It is not fully translated? Feel free to contribute:
-- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
-- [On Github](https://github.com/mageplaza/magento-2-danish-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Crowdin]({{crowdin}}): It takes time to approve your contribution by Magento team.
+- [On Github]({{github_url}}/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -36,20 +36,14 @@ Install the Danish language pack via composer is never easier.
 **Install Danish pack**:
 
 ```
-composer require mageplaza/magento-2-danish-language-pack:dev-master
-php bin/magento setup:static-content:deploy da_DK
-php bin/magento cache:flush
-
+{{composer_install}}
 ```
 
 
 **Update  Danish pack**:
 
 ```
-composer update mageplaza/magento-2-danish-language-pack:dev-master
-php bin/magento setup:static-content:deploy da_DK
-php bin/magento cache:flush
-
+{{composer_update}}
 ```
 
 #### Authentication required (If any)
@@ -79,7 +73,7 @@ Unzip the Danish language pack to Magento 2 root folder. In this guide, we extra
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/da_dk
+unzip master.zip app/i18n/Mageplaza/{{magento_package_code}}
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -95,8 +89,8 @@ To download and install Danish pack manually, you have to access to your server 
 
 #### Step 1: Download the package
 
-- [Download .zip](https://github.com/mageplaza/magento-2-danish-language-pack/archive/master.zip)
-- [Download .tar.gz](https://github.com/mageplaza/magento-2-danish-language-pack/tarball/master)
+- [Download .zip]({{github_latest_version}})
+- [Download .tar.gz]({{github_latest_version_tar}})
 
 #### Step 1: Unzip and upload
 
@@ -121,27 +115,23 @@ Contribute to this language at https://crowdin.com/project/magento-2/da
 
 It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
 
-
-- Magento v2.0.x
-- Magento v2.1.x
-- Magento v2.2.x
-
+{{magento_versions}}
 
 
 ## 6. Note
 
 - This project automatically updates weekly from Crowdin.
-- Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-danish-language-pack/issues/new)
+- Any question, issue please [create a new issue]({{github_url}}/issues/new)
 
 ## 7. Language package authors
 
-- [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
+- [Magento official translations project for Magento 2]({{crowdin}})
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
 ## 8. References:
 
-- https://www.mageplaza.com/magento-2-danish-language-pack.html
+- https://www.mageplaza.com/magento-2-dansih-language-pack.html
 - https://crowdin.com/project/magento-2
 
 
