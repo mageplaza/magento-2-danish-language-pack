@@ -241,30 +241,30 @@
 "Error while checking if topic is synchronous","Fejl under kontrol, hvis emne er ens",module,Magento_Amqp
 "Subscription status","Abonnementsstatus",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Desværre, der er sket en fejl under behandling af din anmodning. Prøv igen senere.",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Formatet for tidsangivelse er ikke understøttet. Angiv et gyldigt format og prøv igen.",module,Magento_Analytics
+"Cron settings can't be saved","Cron indstillinger kan ikke gemmes",module,Magento_Analytics
 "There was an error save new configuration value.","Der opstod en fejl da ny konfigurationsværdien skulle gemmes.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
+"Please select an industry.","Vælg venligst en branche.",module,Magento_Analytics
 "--Please Select--","--Vælg--",module,Magento_Analytics
 "Command was not found.","Kommandoen blev ikke fundet.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dataene er ugyldige. Indtaste data som en streng eller data, der kan konverteres til en streng og prøv igen.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Dataene er ugyldige. Indtaste data som en streng og prøv igen.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Dataene er ugyldige. Brug en gyldigt ciffer-metode, og prøv igen.",module,Magento_Analytics
+"Enter the encryption key and try again.","Angiv krypteringsnøglen, og prøv igen.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","Kilden ""%1"" findes ikke.",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Disse argumenter må ikke være tomme ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Kan ikke finde foruddefinerede integrationsbruger!",module,Magento_Analytics
-"File is not ready yet.","File is not ready yet.",module,Magento_Analytics
-"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
-"Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"File is not ready yet.","Filen er ikke klar endnu.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Din Base URL-adresse er blevet ændret og dine rapporter opdateres. Avancerede rapporter vil være tilgængelige når denne ændring er blevet behandlet. Prøv igen senere.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Ikke kunne synkronisere data til tjenesten Magento Business Intelligence.",module,Magento_Analytics
+"Retry Synchronization","Prøv at synkronisere igen",module,Magento_Analytics
 "TestMessage","TestMessage",module,Magento_Analytics
 "Apps and Games","Apps og spil",module,Magento_Analytics
 "Athletic/Sporting Goods","Atletisk/sports varer",module,Magento_Analytics
 "Art and Design","Kunst og design",module,Magento_Analytics
 "Advanced Reporting","Avanceret rapport",module,Magento_Analytics
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Få ny indsigt og overtage styringen over din virksomheds ydeevne, ved hjælp af vores dynamiske produkt-, ordre- og kunderapporter skræddersyet til dine kundedata.",module,Magento_Analytics
+"Go to Advanced Reporting","Gå til avanceret rapportering",module,Magento_Analytics
 "Analytics","Analytics",module,Magento_Analytics
 "API","API",module,Magento_Analytics
 "Configuration","Konfiguration",module,Magento_Analytics
@@ -277,34 +277,34 @@
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
                 terms and conditions</a>.",module,Magento_Analytics
-"Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
-"Time of day to send data","Time of day to send data",module,Magento_Analytics
+"Advanced Reporting Service","Avanceret rapport service",module,Magento_Analytics
+"Time of day to send data","Tidspunkt på dagen at sende data",module,Magento_Analytics
 "Industry","Industri",module,Magento_Analytics
-"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
-"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","For at personliggøre din avancerede rapport, skal du vælge din branche.",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>få mere indsigt fra Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.",module,Magento_Analytics
-"Auto Parts","Auto Parts",module,Magento_Analytics
-"Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
-"Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
-"Books, Music and Magazines","Books, Music and Magazines",module,Magento_Analytics
-"Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
-"Consumer Electronics","Consumer Electronics",module,Magento_Analytics
+"Auto Parts","Autodele",module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Baby/børns beklædning, udstyr og legetøj",module,Magento_Analytics
+"Beauty and Cosmetics","Skønhed og kosmetik",module,Magento_Analytics
+"Books, Music and Magazines","Bøger, musik og magasiner",module,Magento_Analytics
+"Crafts and Stationery","Håndværk og brevpapir",module,Magento_Analytics
+"Consumer Electronics","Forbrugerelektronik",module,Magento_Analytics
 "Deal Site","Deal Site",module,Magento_Analytics
-"Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
-"Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
+"Fashion Apparel and Accessories","Modetøj og tilbehør",module,Magento_Analytics
+"Food, Beverage and Grocery","Fødevarer, drikkevarer og dagligvarer",module,Magento_Analytics
 "Home Goods and Furniture","Home Goods and Furniture",module,Magento_Analytics
-"Home Improvement","Home Improvement",module,Magento_Analytics
-"Jewelry and Watches","Jewelry and Watches",module,Magento_Analytics
-"Mass Merchant","Mass Merchant",module,Magento_Analytics
-"Office Supplies","Office Supplies",module,Magento_Analytics
-"Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
-"Pet Goods","Pet Goods",module,Magento_Analytics
-"Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
-"Technology B2B","Technology B2B",module,Magento_Analytics
+"Home Improvement","Gør det selv",module,Magento_Analytics
+"Jewelry and Watches","Smykker og ure",module,Magento_Analytics
+"Mass Merchant","Storkøb",module,Magento_Analytics
+"Office Supplies","Kontorartikler",module,Magento_Analytics
+"Outdoor and Camping Gear","Udendørs og Camping udstyr",module,Magento_Analytics
+"Pet Goods","Kæledyrsartikler",module,Magento_Analytics
+"Pharma and Medical Devices","Pharma og medicinsk udstyr",module,Magento_Analytics
+"Technology B2B","Teknologi B2B",module,Magento_Analytics
 "Other","Andet",module,Magento_Analytics
 "Back","Tilbage",module,Magento_AsynchronousOperations
 "Done","Færdig",module,Magento_AsynchronousOperations
@@ -312,11 +312,11 @@
 "'Action Details - #' .","'Handlingsdetaljer - #'.",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 produkt(er) er blevet planlagt for opdatering.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Bulk-handlingslog",module,Magento_AsynchronousOperations
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid findes ikke",module,Magento_AsynchronousOperations
 "Topic %1","Emne %1",module,Magento_AsynchronousOperations
-"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_AsynchronousOperations
-"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"Something went wrong while processing the request.","Noget gik galt under behandlingen af anmodningen.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","Fejl under behandling af %key element i inputdata",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","Desværre, gik noget galt under opdateringen af produktpriser. Se venligst loggen for yderligere oplysninger.",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","%1 produkt(er) opdateres i øjeblikket.",module,Magento_AsynchronousOperations
 "Task ""%1"":","Opgave ""%1"":",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 produkt(er) er blevet planlagt for opdatering.",module,Magento_AsynchronousOperations
@@ -333,7 +333,7 @@
 "Action Log","Handlingslog",module,Magento_AsynchronousOperations
 "Report","Rapporter",module,Magento_AsynchronousOperations
 "Bulk Actions","Bulk-handlinger",module,Magento_AsynchronousOperations
-"Action Logs","Action Logs",module,Magento_AsynchronousOperations
+"Action Logs","Handlinglog",module,Magento_AsynchronousOperations
 "Days Saved in Log","Dage gemt i loggen",module,Magento_AsynchronousOperations
 "Description of Operation","Beskrivelse af operationen",module,Magento_AsynchronousOperations
 "Summary","Resumé",module,Magento_AsynchronousOperations
@@ -421,13 +421,13 @@
 "Sort Order","Sortér ordrer",module,Magento_Authorizenet
 "Close","Luk",module,Magento_B2b
 "options","valgmuligheder",module,Magento_B2b
-"Select all","Select all",module,Magento_B2b
-"Deselect all","Deselect all",module,Magento_B2b
+"Select all","Vælg alle",module,Magento_B2b
+"Deselect all","Fravælg alle",module,Magento_B2b
 "Cancel","Afbryd",module,Magento_B2b
 "Done","Udført",module,Magento_B2b
-"Please Select","Please Select",module,Magento_B2b
-"%s of %s selected","%s of %s selected",module,Magento_B2b
-"B2B Features","B2B Features",module,Magento_B2b
+"Please Select","Vælg venligst",module,Magento_B2b
+"%s of %s selected","%s af %s valgt",module,Magento_B2b
+"B2B Features","B2B funktioner",module,Magento_B2b
 "Invalid Form Key. Please refresh the page.","Siden er udløbet og skal opdateres.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Du har indtastet en ugyldig hemmelige nøgle. Opdater venligst siden.",module,Magento_Backend
 "Cache Storage Management","Cache lager styring",module,Magento_Backend
@@ -667,7 +667,7 @@
 "No Data Found","Der er ingen data",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Diagram er slået fra. For at aktivere diagrammet <a href=""%1"">here</a>.",module,Magento_Backend
 "Last Orders","Seneste Ordrer",module,Magento_Backend
-"Last Search Terms","Seneste søgetermer",module,Magento_Backend
+"Last Search Terms","Seneste søgeord",module,Magento_Backend
 "Top Search Terms","Top søgninger",module,Magento_Backend
 "There are no search keywords.","Der er ingen søge nøgleord.",module,Magento_Backend
 "View Statistics For:","Se statistikker for:",module,Magento_Backend
@@ -1069,8 +1069,8 @@
 "Cancel","Afbryd",module,Magento_Banner
 "Add Selected","Tilføj valgte",module,Magento_Banner
 "Remove","Fjern",module,Magento_Banner
-"All Segments","All Segments",module,Magento_BannerCustomerSegment
-"Customer Segment","Customer Segment",module,Magento_BannerCustomerSegment
+"All Segments","Alle segmenter",module,Magento_BannerCustomerSegment
+"Customer Segment","Kundesegment",module,Magento_BannerCustomerSegment
 "Country","Land",module,Magento_Braintree
 "Allowed Credit Card Types","Tilladte kreditkort typer",module,Magento_Braintree
 "Add Rule","Tilføj regel",module,Magento_Braintree
@@ -1200,20 +1200,20 @@
 "Street address is required.","Street address is required.",module,Magento_Braintree
 "Street address is too long.","Street address is too long.",module,Magento_Braintree
 "Postal code can only contain letters, numbers, spaces, and hyphens.","Postal code can only contain letters, numbers, spaces, and hyphens.",module,Magento_Braintree
-"US state codes must be two characters to meet PayPal Seller Protection requirements.","US state codes must be two characters to meet PayPal Seller Protection requirements.",module,Magento_Braintree
-"Incomplete PayPal account information.","Incomplete PayPal account information.",module,Magento_Braintree
-"Invalid PayPal account information.","Invalid PayPal account information.",module,Magento_Braintree
-"PayPal Accounts are not accepted by this merchant account.","PayPal Accounts are not accepted by this merchant account.",module,Magento_Braintree
-"Billing address format is invalid.","Billing address format is invalid.",module,Magento_Braintree
+"US state codes must be two characters to meet PayPal Seller Protection requirements.","US statskoder skal være på to tegn for at opfylde krav til PayPal's sælgerbeskyttelse.",module,Magento_Braintree
+"Incomplete PayPal account information.","Ufuldstændige PayPal kontooplysninger.",module,Magento_Braintree
+"Invalid PayPal account information.","Ugyldig PayPal kontooplysninger.",module,Magento_Braintree
+"PayPal Accounts are not accepted by this merchant account.","PayPal-konti er ikke accepteret af denne bruger konto.",module,Magento_Braintree
+"Billing address format is invalid.","Faktureringsadresse-format er ugyldigt.",module,Magento_Braintree
 "Country name is not an accepted country.","Country name is not an accepted country.",module,Magento_Braintree
-"Country code is not accepted. Please contact the store administrator.","Country code is not accepted. Please contact the store administrator.",module,Magento_Braintree
-"Provided country information is inconsistent.","Provided country information is inconsistent.",module,Magento_Braintree
-"Customer has already reached the maximum of 50 addresses.","Customer has already reached the maximum of 50 addresses.",module,Magento_Braintree
-"Address is invalid. Please contact the store administrator.","Address is invalid. Please contact the store administrator.",module,Magento_Braintree
-"Error communicating with PayPal.","Error communicating with PayPal.",module,Magento_Braintree
-"PayPal authentication expired.","PayPal authentication expired.",module,Magento_Braintree
-"Error executing PayPal order.","Error executing PayPal order.",module,Magento_Braintree
-"Error executing PayPal billing agreement.","Error executing PayPal billing agreement.",module,Magento_Braintree
+"Country code is not accepted. Please contact the store administrator.","Landekoden er ikke accepteret. Kontakt venligst administratoren.",module,Magento_Braintree
+"Provided country information is inconsistent.","Den angivne landeinformation er inkonsistent.",module,Magento_Braintree
+"Customer has already reached the maximum of 50 addresses.","Kunden har allerede nået maksimalt antal 50 adresser.",module,Magento_Braintree
+"Address is invalid. Please contact the store administrator.","Adressen er ugyldig. Kontakt venligst administratoren.",module,Magento_Braintree
+"Error communicating with PayPal.","Fejl i kommunikationen med PayPal.",module,Magento_Braintree
+"PayPal authentication expired.","PayPal godkendelse udløb.",module,Magento_Braintree
+"Error executing PayPal order.","Fejl under gennemførelse af PayPal ordre.",module,Magento_Braintree
+"Error executing PayPal billing agreement.","Fejl under gennemførelse af PayPal faktureringsaftale.",module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Anvend filtre for at få resultater. Kun de første 100 poster vises i gitteret, men du vil kunne downloade fuld version af rapporten i .csv-format.",module,Magento_Braintree
 "Select...","Vælg...",module,Magento_Braintree
 "Status","Status",module,Magento_Braintree
@@ -1236,7 +1236,7 @@
 "Braintree Settlement Report","Braintree udlignings rapport",module,Magento_BraintreeTwo
 "Sorry, but something went wrong","Desværre, men noget gik galt",module,Magento_BraintreeTwo
 "We can\'t initialize checkout.","Vi kan ikke initialisere checkout.",module,Magento_BraintreeTwo
-"No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_BraintreeTwo
+"No authorization transaction to proceed capture.","Ingen autorisation af transaktionen for at fortsætte til hævning.",module,Magento_BraintreeTwo
 "Braintree error response.","Braintree fejl svar.",module,Magento_BraintreeTwo
 "Payment method nonce can\'t be retrieved.","Betaling metode nonce kan ikke hentes.",module,Magento_BraintreeTwo
 "Wrong transaction status","Forkert transaktions status",module,Magento_BraintreeTwo
@@ -1336,7 +1336,7 @@
 "Percent Discount","Procent rabat",module,Magento_Bundle
 "-- Select --","--Vælg--",module,Magento_Bundle
 "Dynamic","Dynamisk",module,Magento_Bundle
-"Fixed","Fixed",module,Magento_Bundle
+"Fixed","Fast",module,Magento_Bundle
 "Create New Option","Opret ny mulighed",module,Magento_Bundle
 "Bundle Items","Samle elementer",module,Magento_Bundle
 "Add Products to Option","Føj produkter til indstilling",module,Magento_Bundle
@@ -1359,10 +1359,10 @@
 "Product with specified sku: ""%1"" does not contain option: ""%2""","Produkt med angivne sku: ""%1"" indeholder ikke mulighed: ""%2""",module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Child med angivne sku: ""%1"" allerede er tildelt til produktet: ""%2""",module,Magento_Bundle
 "The bundle product doesn't exist. Review your request and try again.","The bundle product doesn't exist. Review your request and try again.",module,Magento_Bundle
-"The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again.",module,Magento_Bundle
-"The option couldn't be saved.","The option couldn't be saved.",module,Magento_Bundle
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Bundle
-"The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted.",module,Magento_Bundle
+"The option that was requested doesn't exist. Verify the entity and try again.","Indstillingen, der blev anmodet om, findes ikke. Kontroller enheden og prøv igen.",module,Magento_Bundle
+"The option couldn't be saved.","Indstillingen kunne ikke gemmes.",module,Magento_Bundle
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" er obligatorisk. Indtast og prøv igen.",module,Magento_Bundle
+"The option with ""%1"" ID can't be deleted.","Indstillingen med ""%1"" ID kan ikke slettes.",module,Magento_Bundle
 "Price Range","Pris interval",module,Magento_Bundle
 "As Low as","Fra",module,Magento_Bundle
 "Together","Sammen",module,Magento_Bundle
@@ -1459,10 +1459,10 @@
 "Incorrect CAPTCHA","Forkert CAPTCHA",module,Magento_Captcha
 "Incorrect CAPTCHA.","Forkert CAPTCHA.",module,Magento_Captcha
 "The account is locked. Please wait and try again or contact %1.","Kontoen er låst. Vent, og prøv igen, eller kontakt %1.",module,Magento_Captcha
-"Please enter the letters and numbers from the image","Please enter the letters and numbers from the image",module,Magento_Captcha
+"Please enter the letters and numbers from the image","Indtast bogstaver og tal fra billedet",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Vigtigt</strong>: Forskel på store og små bogstaver ved tastning af Captcha.",module,Magento_Captcha
 "Reload captcha","Genindlæs captcha",module,Magento_Captcha
-"Please type the letters and numbers below","Please type the letters and numbers below",module,Magento_Captcha
+"Please type the letters and numbers below","Indtast bogstaver og tal nedenfor",module,Magento_Captcha
 "Attention: Captcha is case sensitive.","Vigtigt: Ved indtastning af Captcha, der er forskel på store og små bogstaver.",module,Magento_Captcha
 "CAPTCHA","CAPTCHA",module,Magento_Captcha
 "Enable CAPTCHA in Admin","Aktiver CAPTCHA i Admin",module,Magento_Captcha
@@ -1583,7 +1583,7 @@
 "Save & Edit","Gem & Rediger",module,Magento_Catalog
 "Save & New","Gem & ny",module,Magento_Catalog
 "Save & Duplicate","Gem & dupliker",module,Magento_Catalog
-"Save & Close","Gem & Luk",module,Magento_Catalog
+"Save & Close","Gem & luk",module,Magento_Catalog
 "Attributes","Egenskaber",module,Magento_Catalog
 "Change","Skift",module,Magento_Catalog
 "Advanced Inventory","Avanceret lager",module,Magento_Catalog
@@ -1633,7 +1633,7 @@
 "New Category","Ny Kategori",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","Billeder (.gif, .jpg, .png)",module,Magento_Catalog
 "Add New Images","Tilføj Nyt Billede",module,Magento_Catalog
-"Inc. Tax","Incl. moms",module,Magento_Catalog
+"Inc. Tax","Inkl. moms",module,Magento_Catalog
 "Does this have a weight?","Har dette en vægt?",module,Magento_Catalog
 "Product","Produkt",module,Magento_Catalog
 "Notify Low Stock RSS","Advisér Lavt Lager RSS",module,Magento_Catalog
@@ -1756,7 +1756,7 @@
 "Automatic (equalize price ranges)","Automatisk (udligning af prisklasser)",module,Magento_Catalog
 "Automatic (equalize product counts)","Automatisk (udligning af produkt tællere)",module,Magento_Catalog
 "Manual","Manual",module,Magento_Catalog
-"Fixed","Fixed",module,Magento_Catalog
+"Fixed","Fast",module,Magento_Catalog
 "Percent","Procent",module,Magento_Catalog
 "Discount","Rabat",module,Magento_Catalog
 "-- Please select --","-- Vælg venligst --",module,Magento_Catalog
@@ -2175,20 +2175,20 @@
 "Default Category Layout","Default Category Layout",module,Magento_Catalog
 "Product Info Column","Product Info Column",module,Magento_Catalog
 "Block after Info Column","Block after Info Column",module,Magento_Catalog
-"Product Flat Data","Product Flat Data",module,Magento_Catalog
-"Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
-"Category Flat Data","Category Flat Data",module,Magento_Catalog
-"Reorganize EAV category structure to flat structure","Reorganize EAV category structure to flat structure",module,Magento_Catalog
+"Product Flat Data","Flade produkt data",module,Magento_Catalog
+"Reorganize EAV product structure to flat structure","Reorganiser EAV produktstruktur til flad struktur",module,Magento_Catalog
+"Category Flat Data","Flade kategoridata",module,Magento_Catalog
+"Reorganize EAV category structure to flat structure","Reorganiser EAV kategoristruktur til flad struktur",module,Magento_Catalog
 "Category Products","Kategori produkter",module,Magento_Catalog
-"Indexed category/products association","Indexed category/products association",module,Magento_Catalog
+"Indexed category/products association","Indekserede associerede kategori/produkter",module,Magento_Catalog
 "Product Categories","Produktkategorier",module,Magento_Catalog
-"Indexed product/categories association","Indexed product/categories association",module,Magento_Catalog
+"Indexed product/categories association","Indekserede associerede produkter/kategorier",module,Magento_Catalog
 "Product Price","Produktpris",module,Magento_Catalog
-"Index product prices","Index product prices",module,Magento_Catalog
-"Product EAV","Product EAV",module,Magento_Catalog
-"Index product EAV","Index product EAV",module,Magento_Catalog
-"Catalog New Products List","Catalog New Products List",module,Magento_Catalog
-"List of Products that are set as New","List of Products that are set as New",module,Magento_Catalog
+"Index product prices","Indekserede produktpriser",module,Magento_Catalog
+"Product EAV","Produkt EAV",module,Magento_Catalog
+"Index product EAV","Indekser produktpriser",module,Magento_Catalog
+"Catalog New Products List","Katalogliste nye produkter",module,Magento_Catalog
+"List of Products that are set as New","Liste over produkter, der er indstillet som nye",module,Magento_Catalog
 "Display Type","Visningstype",module,Magento_Catalog
 "All products - recently added products, New products - products marked as new","Alle produkter - for nylig tilføjet produkter, nye produkter - produkter mærket som nyheder",module,Magento_Catalog
 "All products","Alle produkter",module,Magento_Catalog
@@ -2197,8 +2197,8 @@
 "Number of Products per Page","Antal varer pr. side",module,Magento_Catalog
 "Number of Products to Display","Antallet af produkter som vises",module,Magento_Catalog
 "Template","Skabelon",module,Magento_Catalog
-"New Products Grid Template","New Products Grid Template",module,Magento_Catalog
-"New Products List Template","New Products List Template",module,Magento_Catalog
+"New Products Grid Template","Nye produkter gitterskabelon",module,Magento_Catalog
+"New Products List Template","Nye produkter listeskabelon",module,Magento_Catalog
 "New Products Images and Names Template","New Products Images and Names Template",module,Magento_Catalog
 "New Products Names Only Template","New Products Names Only Template",module,Magento_Catalog
 "New Products Images Only Template","New Products Images Only Template",module,Magento_Catalog
@@ -2224,15 +2224,15 @@
 "Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
 "Recently Viewed Products","Nyligt viste produkter",module,Magento_Catalog
 "List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Catalog
-"UI Component","UI Component",module,Magento_Catalog
+"UI Component","UI komponent",module,Magento_Catalog
 "Number of Products to display","Antallet af produkter som vises",module,Magento_Catalog
-"Product attributes to show","Product attributes to show",module,Magento_Catalog
+"Product attributes to show","Produktattributter til visning",module,Magento_Catalog
 "Image","Billede",module,Magento_Catalog
-"Learn More Link","Learn More Link",module,Magento_Catalog
-"Buttons to show","Buttons to show",module,Magento_Catalog
+"Learn More Link","Lær mere link",module,Magento_Catalog
+"Buttons to show","Knapper, som skal vises",module,Magento_Catalog
 "Add to Wishlist","Add to Wishlist",module,Magento_Catalog
-"Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Catalog
-"Viewed Products List Template","Viewed Products List Template",module,Magento_Catalog
+"Viewed Products Grid Template","Viste produkter gitterskabelon",module,Magento_Catalog
+"Viewed Products List Template","Viste produkter listeskabelon",module,Magento_Catalog
 "Viewed Products Sidebar Template","Viewed Products Sidebar Template",module,Magento_Catalog
 "Recently Compared Products","Recently Compared Products",module,Magento_Catalog
 "List of Products Recently Compared by Visitor","List of Products Recently Compared by Visitor",module,Magento_Catalog
@@ -2265,7 +2265,7 @@
 "Apply Design to Products","Apply Design to Products",module,Magento_Catalog
 "Schedule Design Update","Schedule Design Update",module,Magento_Catalog
 "AttributeSetText","AttributeSetText",module,Magento_Catalog
-"StatusText","StatusText",module,Magento_Catalog
+"StatusText","Statustekst",module,Magento_Catalog
 "Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
 "Base","Base",module,Magento_Catalog
 "Allowed file types: jpeg, gif, png.","Tilladte filtyper: jpeg, gif, png.",module,Magento_Catalog
@@ -2274,11 +2274,11 @@
 "Image Position","Billedplaceringen",module,Magento_Catalog
 "Attribute Properties","Attribute Properties",module,Magento_Catalog
 "Attribute Label","Attribute Label",module,Magento_Catalog
-"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",module,Magento_Catalog
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","For at kunne anvende teksteditor, så skal WYSIWYG være slået til i Forretninger > Konfiguration > Indholdsstyring.",module,Magento_Catalog
+"Catalog Input Type for Store Owner","Katalog input type for forretningsejer",module,Magento_Catalog
 "Values","Værdier",module,Magento_Catalog
-"Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-"Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
+"Add this attribute to the list of column options in the product grid.","Tilføj denne attribut til listen over kolonneindstillinger for produktgrid.",module,Magento_Catalog
+"Add this attribute to the list of filter options in the product grid.","Tilføj denne attribut til listen over filtrerbare i produktgrid.",module,Magento_Catalog
 "System","System",module,Magento_Catalog
 "All Store Views","Alle butiks visninger",module,Magento_Catalog
 "Delete selected items?","Vil du slette de valgte elementer?",module,Magento_Catalog
@@ -2291,10 +2291,10 @@
 "Skip to the end of the images gallery","Gå til slutningen af billedgalleriet",module,Magento_Catalog
 "Skip to the beginning of the images gallery","Gå til starten af billedgalleriet",module,Magento_Catalog
 "Details","Detaljer",module,Magento_Catalog
-"Recently Compared","Recently Compared",module,Magento_Catalog
+"Recently Compared","Nyligt sammenlignet",module,Magento_Catalog
 "Add To Cart","Læg i kurv",module,Magento_Catalog
 "Add To Compare","Tilføj for at sammenligne",module,Magento_Catalog
-"Learn more","Learn more",module,Magento_Catalog
+"Learn more","Få mere at vide",module,Magento_Catalog
 "Recently Viewed","Recently Viewed",module,Magento_Catalog
 "Edit Event","Rediger Begivenhed",module,Magento_CatalogEvent
 "Add Event","Tilføj begivenhed",module,Magento_CatalogEvent
@@ -2377,10 +2377,10 @@
 "SimpleProduct type not defined in schema.","SimpleProduct type not defined in schema.",module,Magento_CatalogGraphQl
 "'category_id' only supports 'eq' condition type.","'category_id' only supports 'eq' condition type.",module,Magento_CatalogGraphQl
 "Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_CatalogImportExport
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Enhedstypemodellern skal være følgende typer\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Der er ingen varetyper til eksport.",module,Magento_CatalogImportExport
-"'Entity type model must be an instance of ' .","'Entity type model must be an instance of ' .",module,Magento_CatalogImportExport
-"Wrong attribute set code ""%1"", please correct it and try again.","Wrong attribute set code ""%1"", please correct it and try again.",module,Magento_CatalogImportExport
+"'Entity type model must be an instance of ' .","'Enhedstypemodellen skal være en forekomst af'.",module,Magento_CatalogImportExport
+"Wrong attribute set code ""%1"", please correct it and try again.","Forkert attributsæt kode ""%1"", venligst ret den og prøv igen.",module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","Kategori ""%1"" er ikke blevet oprettet.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","Filmappen '%1' kan ikke læses.",module,Magento_CatalogImportExport
 "File directory '%1' is not writable.","File directory '%1' is not writable.",module,Magento_CatalogImportExport
@@ -2393,10 +2393,10 @@
 "Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value",module,Magento_CatalogImportExport
 "This name is already being used for custom option. Please enter a different name.","Dette navn bruges allerede til brugerdefineret indstilling. Angiv et andet navn.",module,Magento_CatalogImportExport
 "Custom options have different types.","Brugerdefinerede indstillinger har forskellige typer.",module,Magento_CatalogImportExport
-"Every option entity must have a parent product entity.","Every option entity must have a parent product entity.",module,Magento_CatalogImportExport
-"Please correct the parameters.","Please correct the parameters.",module,Magento_CatalogImportExport
+"Every option entity must have a parent product entity.","Hver enheds indstilling skal have en overordnet produktobjektet.",module,Magento_CatalogImportExport
+"Please correct the parameters.","Ret venligst parametre.",module,Magento_CatalogImportExport
 "File '%1' was not found or has read restriction.","File '%1' was not found or has read restriction.",module,Magento_CatalogImportExport
-"Invalid Stock data for insert","Invalid Stock data for insert",module,Magento_CatalogImportExport
+"Invalid Stock data for insert","Ugyldig lager data for Indsæt",module,Magento_CatalogImportExport
 "ALL GROUPS","ALLE GRUPPER",module,Magento_CatalogInventory
 "Customer Group","Kundegruppe",module,Magento_CatalogInventory
 "Minimum Qty","Minimum antal",module,Magento_CatalogInventory
@@ -2671,7 +2671,7 @@
 "Your search returned no results.","Din søgning gav ingen resultater.",module,Magento_CatalogSearch
 "Catalog Section","Catalog Section",module,Magento_CatalogSearch
 "Catalog Search","Katalogsøgning",module,Magento_CatalogSearch
-"Popular Search Terms","Populære søgetermer",module,Magento_CatalogSearch
+"Popular Search Terms","Populære søgeord",module,Magento_CatalogSearch
 "Minimal Query Length","Minimum længde på forespørgselse",module,Magento_CatalogSearch
 "Maximum Query Length","Maximum længde på forespørgselse",module,Magento_CatalogSearch
 "Number of top search results to cache","Number of top search results to cache",module,Magento_CatalogSearch
@@ -2774,11 +2774,11 @@
 "Out of stock","Udsolgt",module,Magento_CatalogWidget
 "Add to Wish List","Tilføj til ønske liste",module,Magento_CatalogWidget
 "Add to Compare","Tilføj for at sammenligne",module,Magento_CatalogWidget
-"Catalog Products List","Catalog Products List",module,Magento_CatalogWidget
+"Catalog Products List","Katalog produktliste",module,Magento_CatalogWidget
 "List of Products","Liste over produkter",module,Magento_CatalogWidget
 "Title","Titel",module,Magento_CatalogWidget
 "Display Page Control","Display Page Control",module,Magento_CatalogWidget
-"Number of Products per Page","Number of Products per Page",module,Magento_CatalogWidget
+"Number of Products per Page","Antal produkter pr. side",module,Magento_CatalogWidget
 "Number of Products to Display","Antallet af produkter som vises",module,Magento_CatalogWidget
 "Template","Skabelon",module,Magento_CatalogWidget
 "Products Grid Template","Products Grid Template",module,Magento_CatalogWidget
@@ -2805,7 +2805,7 @@
 "You added %1 to your shopping cart.","Du har tilføjet %1 til din indkøbskurv.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Vi kan ikke føje denne vare til din indkøbskurv lige nu.",module,Magento_Checkout
 "Out of stock","Udsolgt",module,Magento_Checkout
-"The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","Tilbuddet blev ikke fundet. Bekræft varen og prøv igen.",module,Magento_Checkout
 "We cannot configure the product.","Vi kan ikke konfigurere produktet.",module,Magento_Checkout
 "You used coupon code ""%1"".","Du brugte kuponkode ""%1"".",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Rabatkode ""%1"" er ikke gyldig.",module,Magento_Checkout
@@ -2819,12 +2819,12 @@
 "Guest checkout is disabled.","Checkout-gæst er deaktiveret.",module,Magento_Checkout
 "Checkout","Til kassen",module,Magento_Checkout
 "Page not found.","Siden blev ikke fundet.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Du skal acceptere vilkår og betingelser inden ordren kan afgives.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Noget gik galt under behandling af din ordre. Prøv igen senere.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 forlænger ikke \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","Betalingsmetode",module,Magento_Checkout
 "Payment Page","Betalingsside",module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","Produktet blev ikke fundet. Kontroller produktet og prøv igen.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","Vi fandt en ugyldig anmodning for at tilføje produkt til ordren.",module,Magento_Checkout
 "The product does not exist.","Produktet findes ikke.",module,Magento_Checkout
 "We don't have some of the products you want.","Vi har ikke nogle af de produkter, du ønsker.",module,Magento_Checkout
@@ -2835,11 +2835,11 @@
 "Display number of items in cart","Vis antallet af varer i indkøbskurven",module,Magento_Checkout
 "Display item quantities","Få vist vare antal",module,Magento_Checkout
 "An error occurred on the server. Please try to place the order again.","Der opstod en fejl på serveren. Prøv at lægge ordren igen.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","En serverfejl forhindrede din ordre fra at blive afgivet. Prøv at afgive din ordre igen.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","Leveringsadressen er mangler. Angiv adressen, og prøv igen.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","Forsendelsesoplysninger kunne ikke gemmes. Kontrollere indtastningen, og prøv igen.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Kurér ikke fundet: %1, %2",module,Magento_Checkout
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","Der kan ikke vælge leveringsmetode for en tom indkøbskurv. Tilføj en vare og prøv igen.",module,Magento_Checkout
 "item","vare",module,Magento_Checkout
 "items","varer",module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","Ordrebeløb kan ikke beregnes for en tom indkøbskurv",module,Magento_Checkout
@@ -2849,7 +2849,7 @@
 "There are more than one shipping addresses.","Der er mere end en leveringsadresse.",module,Magento_Checkout
 "Sorry, guest checkout is not available.","Desværre, er checkout-gæst ikke tilgængelig.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Du skal bekræfte din konto. Tjek venligst din e-mail for bekræftelse link eller <a href=""%1""> Klik her</a> for et nyt link.",module,Magento_Checkout
-"Load customer quote error","Load customer quote error",module,Magento_Checkout
+"Load customer quote error","Indlæs kundetilbudsfejl",module,Magento_Checkout
 "Error message!","Fejlmeddelelse!",module,Magento_Checkout
 "Error!","Fejl!",module,Magento_Checkout
 "DB exception","DB undtagelse",module,Magento_Checkout
@@ -2899,7 +2899,7 @@
 "Payment Method:","Betalingsmetode:",module,Magento_Checkout
 "Date & Time:","Dato & tid:",module,Magento_Checkout
 "Sign In","Log ind",module,Magento_Checkout
-"Email Address","E-mail adresse",module,Magento_Checkout
+"Email Address","E-mail",module,Magento_Checkout
 "Password","Adgangskode",module,Magento_Checkout
 "Forgot Your Password?","Glemt din adgangskode?",module,Magento_Checkout
 "My billing and shipping address are the same","Min fakturerings- og leveringsadresse er den samme",module,Magento_Checkout
@@ -2907,7 +2907,7 @@
 "Cancel","Annullér",module,Magento_Checkout
 "Save in address book","Gem i adressekartoteket",module,Magento_Checkout
 "Billing Address","Faktureringsadresse",module,Magento_Checkout
-"Estimated Total","Anslåede total",module,Magento_Checkout
+"Estimated Total","Anslåede i alt",module,Magento_Checkout
 "You can create an account after checkout.","Du kan oprette en konto efter ordreafgivelse.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Du har allerede en konto hos os. Log ind eller fortsæt som gæst.",module,Magento_Checkout
 "Login","Log ind",module,Magento_Checkout
@@ -2931,28 +2931,28 @@
 "is required.","er påkrævet.",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Postnummer er ugyldigt.",module,Magento_Checkout
 "Example:","Eksempel:",module,Magento_Checkout
-"If you believe it is the right one you can ignore this notice.","Hvis du mener det er den rette kan du ignorere denne meddelelse.",module,Magento_Checkout
+"If you believe it is the right one you can ignore this notice.","Hvis du mener det er korrekt, kan du ignorere denne meddelelse.",module,Magento_Checkout
 "New Address","Ny adresse",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Er du sikker på du ønsker at fjerne denne vare fra indkøbskurven?",module,Magento_Checkout
 "Review & Payments","Gennemse & betalinger",module,Magento_Checkout
 "Select a new payment method","Vælge en ny betalingsmetode",module,Magento_Checkout
 "Shipping","Levering",module,Magento_Checkout
 "Save Address","Gem adresse",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Valg af forsendelse mangler. Vælg en leveringsmetode, og prøv igen.",module,Magento_Checkout
 "Checkout Options","Checkout valg",module,Magento_Checkout
 "Enable Onepage Checkout","Aktiver one-page checkout",module,Magento_Checkout
 "Allow Guest Checkout","Tillad Checkout-gæst",module,Magento_Checkout
 "Display Billing Address On","Vis faktureringsadresse på",module,Magento_Checkout
 "Maximum Number of Items to Display in Order Summary","Maksimalt antal af produkter som vises på ordre opsummeringen",module,Magento_Checkout
-"Quote Lifetime (days)","Quote Lifetime (days)",module,Magento_Checkout
+"Quote Lifetime (days)","Tilbudets levetid (dage)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Efter tilføjelse af et produkt omdiriger til indkøbskurv",module,Magento_Checkout
-"Number of Items to Display Pager","Number of Items to Display Pager",module,Magento_Checkout
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"Number of Items to Display Pager","Antallet af elementer, der skal vises på én gang pr. side",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Vis krydssalgsvarer i indkøbsvognen",module,Magento_Checkout
 "My Cart Link","Min Indkøbskurv link",module,Magento_Checkout
 "Display Cart Summary","Se indkøbskurv",module,Magento_Checkout
 "Shopping Cart Sidebar","Indkøbskurv sidebar",module,Magento_Checkout
 "Display Shopping Cart Sidebar","Vis indkøbskurv sidebar",module,Magento_Checkout
-"Number of Items to Display Scrollbar","Number of Items to Display Scrollbar",module,Magento_Checkout
+"Number of Items to Display Scrollbar","Antallet af elementer, der skal vises på én gang ved scrollbar",module,Magento_Checkout
 "Maximum Number of Items to Display","Maksimalt antal af produkter som vises",module,Magento_Checkout
 "Payment Failed Emails","Betaling mislykkedes e-mails",module,Magento_Checkout
 "Payment Failed Email Sender","Betaling mislykkedes e-mail afsender",module,Magento_Checkout
@@ -3098,7 +3098,7 @@
 "File validation failed.","File validation failed.",module,Magento_Cms
 "We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
-"Privacy and Cookie Policy","Privatliv og Cookie politik",module,Magento_Cms
+"Privacy and Cookie Policy","Privatliv og cookie politik",module,Magento_Cms
 "Error message","Error message",module,Magento_Cms
 "LocalizedException","Localiseringsundtagelser",module,Magento_Cms
 "RuntimeException","Runtimeundtagelser",module,Magento_Cms
@@ -3389,7 +3389,7 @@
 "Submit","Send",module,Magento_Company
 "New Company Account","New Company Account",module,Magento_Company
 "If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.","If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.",module,Magento_Company
-"Create a Company Account","Create a Company Account",module,Magento_Company
+"Create a Company Account","Opret en virksomhedskonto",module,Magento_Company
 "Business Structure","Business Structure",module,Magento_Company
 "Expand All","Expand All",module,Magento_Company
 "Collapse All","Collapse All",module,Magento_Company
@@ -3418,7 +3418,7 @@
 "Save Role","Save Role",module,Magento_Company
 "Add New User","Add New User",module,Magento_Company
 "Company","Firma",module,Magento_Company
-"Create an Account","Create an Account",module,Magento_Company
+"Create an Account","Opret en konto",module,Magento_Company
 "Change","Skift",module,Magento_Company
 "This action will replace your Company Admin.","This action will replace your Company Admin.",module,Magento_Company
 "* Your latest changes on the company profile have not been saved yet.","* Your latest changes on the company profile have not been saved yet.",module,Magento_Company
@@ -3874,7 +3874,7 @@
 "Save","Gem",module,Magento_ConfigurableProduct
 "Save & New","Gem & ny",module,Magento_ConfigurableProduct
 "Save & Duplicate","Gem & dupliker",module,Magento_ConfigurableProduct
-"Save & Close","Gem & Luk",module,Magento_ConfigurableProduct
+"Save & Close","Gem & luk",module,Magento_ConfigurableProduct
 "Configurations","Konfigurationer",module,Magento_ConfigurableProduct
 "Attribute Values","Attributværdier",module,Magento_ConfigurableProduct
 "Bulk Images &amp; Price","Bulk billeder &amp; pris",module,Magento_ConfigurableProduct
@@ -4148,7 +4148,7 @@
 "Normalize Date","Normalize Date",module,Magento_CustomAttributeManagement
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.",module,Magento_CustomAttributeManagement
 "Sign Out","Log ud",module,Magento_Customer
-"Sign In","Log Ind",module,Magento_Customer
+"Sign In","Log ind",module,Magento_Customer
 "You are subscribed to our newsletter.","Du er nu tilmeldt vores nyhedsbrev.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","Du er ikke tilmeldt vores nyhedsbrev.",module,Magento_Customer
 "You have not set a default shipping address.","Du har ikke angivet en standard forsendelsesadresse.",module,Magento_Customer
@@ -4249,7 +4249,7 @@
 "There was an error detecting Customer Group.","There was an error detecting Customer Group.",module,Magento_Customer
 "Validate VAT Number","Valider CVR-nummer",module,Magento_Customer
 "Customer Login","Kunde login",module,Magento_Customer
-"Create New Customer Account","Oprette ny kunde konto",module,Magento_Customer
+"Create New Customer Account","Opret ny kunde konto",module,Magento_Customer
 "Date of Birth","Fødselsdag",module,Magento_Customer
 "Bad request.","Bad request.",module,Magento_Customer
 "This confirmation key is invalid or has expired.","Denne bekræftelse nøgle er ugyldig eller er udløbet.",module,Magento_Customer
@@ -4451,7 +4451,7 @@
 "Average Sale","Average Sale",module,Magento_Customer
 "All Store Views","All Store Views",module,Magento_Customer
 "Change","Skift",module,Magento_Customer
-"Manage Addresses","Administrere adresser",module,Magento_Customer
+"Manage Addresses","Administrer adresser",module,Magento_Customer
 "Default Shipping Address","Standard leveringsadresse",module,Magento_Customer
 "Contact Information","Kontaktinformation",module,Magento_Customer
 "Change Password","Skift kodeord",module,Magento_Customer
@@ -4497,13 +4497,13 @@
 "Save","Gem",module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Indtast din e-mail adresse nedenfor for at modtage et link til nulstilling af adgangskode.",module,Magento_Customer
 "Reset My Password","Nulstil adgangskode",module,Magento_Customer
-"Registered Customers","Nuværende kunde",module,Magento_Customer
-"If you have an account, sign in with your email address.","Hvis du har allerede har en konto så kan du logge ind med din email adresse.",module,Magento_Customer
+"Registered Customers","Eksisterende kunde",module,Magento_Customer
+"If you have an account, sign in with your email address.","Hvis du har allerede har en konto, login med din email adresse.",module,Magento_Customer
 "Password","Kodeord",module,Magento_Customer
-"Forgot Your Password?","Glemt kodeord?",module,Magento_Customer
+"Forgot Your Password?","Glemt din adgangskode?",module,Magento_Customer
 "Subscription option","Abonnementsmulighed",module,Magento_Customer
 "General Subscription","Generel abonnement",module,Magento_Customer
-"Sign Up for Newsletter","Tilmeld dig nyhedsbrev",module,Magento_Customer
+"Sign Up for Newsletter","Tilmeld nyhedsbrev",module,Magento_Customer
 "Address Information","Adresseoplysninger",module,Magento_Customer
 "Sign-in Information","Login-oplysninger",module,Magento_Customer
 "Confirm Password","Bekræft kodeord",module,Magento_Customer
@@ -4550,12 +4550,12 @@
 "If you did not make this request, you can ignore this email and your password will remain the same.","Hvis du ikke gøre bad om denne anmodning kan du ignorere denne e-mail og adgangskode vil forblive den samme.",module,Magento_Customer
 "Your %store_name password has been changed","%store_name adgangskode er blevet ændret",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Vi har modtaget en anmodning om at ændre følgende oplysninger i forbindelse med din konto på %store_name: password.",module,Magento_Customer
-"Checkout as a new customer","Checkout as a new customer",module,Magento_Customer
+"Checkout as a new customer","Bestil som ny kunde",module,Magento_Customer
 "Creating an account has many benefits:","Oprettelse af en konto har mange fordele:",module,Magento_Customer
 "See order and shipping status","Se ordre og leveringsstatus",module,Magento_Customer
-"Track order history","Ordreoversigten",module,Magento_Customer
-"Check out faster","Check out faster",module,Magento_Customer
-"Checkout using your account","Checkout using your account",module,Magento_Customer
+"Track order history","Følg dine ordrer",module,Magento_Customer
+"Check out faster","Bestil hurtigere",module,Magento_Customer
+"Checkout using your account","Logind og bestil",module,Magento_Customer
 "Email Address","Email Address",module,Magento_Customer
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Customer
 "Are you sure you want to delete this address?","Er du sikker på, at du vil slette denne adresse?",module,Magento_Customer
@@ -4640,8 +4640,8 @@
 "Online Customers Options","Online Customers Options",module,Magento_Customer
 "Online Minutes Interval","Online Minutes Interval",module,Magento_Customer
 "Leave empty for default (15 minutes).","Leave empty for default (15 minutes).",module,Magento_Customer
-"Customer Data Lifetime","Customer Data Lifetime",module,Magento_Customer
-"Please specify value in minutes.","Please specify value in minutes.",module,Magento_Customer
+"Customer Data Lifetime","Kundedata levetid",module,Magento_Customer
+"Please specify value in minutes.","Angiv værdien i minutter.",module,Magento_Customer
 "Customer Notification","Customer Notification",module,Magento_Customer
 "Assign a Customer Group","Assign a Customer Group",module,Magento_Customer
 "Are you sure to assign selected customers to new group?","Are you sure to assign selected customers to new group?",module,Magento_Customer
@@ -4651,9 +4651,9 @@
 "Add New Customer","Add New Customer",module,Magento_Customer
 "Are you sure to delete selected customers?","Er du sikker på, du vil slette de valgte kunder?",module,Magento_Customer
 "Delete items","Delete items",module,Magento_Customer
-"Subscribe to Newsletter","Tilmeldt nyhedsbrev",module,Magento_Customer
+"Subscribe to Newsletter","Tilmeld nyhedsbrev",module,Magento_Customer
 "Are you sure to unsubscribe selected customers from newsletter?","Are you sure to unsubscribe selected customers from newsletter?",module,Magento_Customer
-"Unsubscribe from Newsletter","Afmelde nyhedsbrevet",module,Magento_Customer
+"Unsubscribe from Newsletter","Afmeld nyhedsbrev",module,Magento_Customer
 "Phone","Telefon",module,Magento_Customer
 "ZIP","Postnr.",module,Magento_Customer
 "Customer Since","Kunde siden",module,Magento_Customer
@@ -4884,9 +4884,9 @@
 "Please specify a finance information website.","Please specify a finance information website.",module,Magento_CustomerFinance
 "Please specify a valid finance information website.","Please specify a valid finance information website.",module,Magento_CustomerFinance
 "A row with this email, website, and finance website combination already exists.","A row with this email, website, and finance website combination already exists.",module,Magento_CustomerFinance
-"Data was imported by %1","Data was imported by %1",module,Magento_CustomerFinance
+"Data was imported by %1","1% af data blev importeret",module,Magento_CustomerFinance
 "Store Credit","Store Credit",module,Magento_CustomerFinance
-"Reward Points","Reward Points",module,Magento_CustomerFinance
+"Reward Points","Bonuspoint",module,Magento_CustomerFinance
 "Current customer does not have access to the resource ""%1""","Current customer does not have access to the resource ""%1""",module,Magento_CustomerGraphQl
 "Customer id %1 does not exist.","Customer id %1 does not exist.",module,Magento_CustomerGraphQl
 "Please specify a website.","Please specify a website.",module,Magento_CustomerImportExport
@@ -4925,7 +4925,7 @@
 "Inactive","Inaktiv",module,Magento_CustomerSegment
 "Apply To","Anvend for",module,Magento_CustomerSegment
 "Visitors and Registered Customers","Visitors and Registered Customers",module,Magento_CustomerSegment
-"Registered Customers","Registered Customers",module,Magento_CustomerSegment
+"Registered Customers","Eksisterende kunde",module,Magento_CustomerSegment
 "Visitors","Besøgende",module,Magento_CustomerSegment
 "Please save this information to specify segmentation conditions.","Please save this information to specify segmentation conditions.",module,Magento_CustomerSegment
 "Matched Customers (%1)","Matched Customers (%1)",module,Magento_CustomerSegment
@@ -6389,9 +6389,9 @@
 "We can't save the gift wrapping right now.","We can't save the gift wrapping right now.",module,Magento_GiftWrapping
 "We can't update the image right now.","We can't update the image right now.",module,Magento_GiftWrapping
 "Please select","Vælg venligst",module,Magento_GiftWrapping
-"Excluding Tax","Excluding Tax",module,Magento_GiftWrapping
-"Including Tax","Including Tax",module,Magento_GiftWrapping
-"Including and Excluding Tax","Including and Excluding Tax",module,Magento_GiftWrapping
+"Excluding Tax","Uden moms",module,Magento_GiftWrapping
+"Including Tax","Inklusiv moms",module,Magento_GiftWrapping
+"Including and Excluding Tax","Inklusiv og eksklusiv moms",module,Magento_GiftWrapping
 "None","Ingen",module,Magento_GiftWrapping
 "The image content must be valid data.","The image content must be valid data.",module,Magento_GiftWrapping
 "The image extension ""%1"" not allowed.","The image extension ""%1"" not allowed.",module,Magento_GiftWrapping
@@ -6924,7 +6924,7 @@
 "Inviter Information","Inviter Information",module,Magento_Invitation
 "Admin","Admin",module,Magento_Invitation
 "* Required Fields","* Required Fields",module,Magento_Invitation
-"Invite your friends by entering their email addresses","Inviter dine venner ved at indtaste deres e-mail adresser",module,Magento_Invitation
+"Invite your friends by entering their email addresses","Inviter dine venner ved at indtaste deres E-mail adresser",module,Magento_Invitation
 "Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_Invitation
 "Add","Tilføj",module,Magento_Invitation
 "Back to Invitations","Back to Invitations",module,Magento_Invitation
@@ -7177,7 +7177,7 @@
 "Before Order Confirmation","Before Order Confirmation",module,Magento_Msrp
 "Use config","Use config",module,Magento_Msrp
 "Click for price","Click for price",module,Magento_Msrp
-"What's this?","What's this?",module,Magento_Msrp
+"What's this?","Hvad er dette?",module,Magento_Msrp
 "Order total will be displayed before you submit the order","Order total will be displayed before you submit the order",module,Magento_Msrp
 "You will see the order total before you submit the order.","You will see the order total before you submit the order.",module,Magento_Msrp
 "Price","Pris",module,Magento_Msrp
@@ -7187,7 +7187,7 @@
 "Enable MAP","Enable MAP",module,Magento_Msrp
 "Display Actual Price","Display Actual Price",module,Magento_Msrp
 "Default Popup Text Message","Default Popup Text Message",module,Magento_Msrp
-"Default ""What's This"" Text Message","Default ""What's This"" Text Message",module,Magento_Msrp
+"Default ""What's This"" Text Message","Standard ""Hvad er dette"" tekstbesked",module,Magento_Msrp
 "Back","Tilbage",module,Magento_MultipleLocationInventory
 "Save Warehouse","Save Warehouse",module,Magento_MultipleLocationInventory
 "Disable Warehouse","Disable Warehouse",module,Magento_MultipleLocationInventory
@@ -7992,8 +7992,8 @@
 "This is an invalid subscription ID.","This is an invalid subscription ID.",module,Magento_Newsletter
 "This email address is already assigned to another user.","This email address is already assigned to another user.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.",module,Magento_Newsletter
-"Please enter a valid email address.","Angiv venligst en gyldig e-mail adresse.",module,Magento_Newsletter
-"This email address is already subscribed.","Denne e-mail adresse er allerede registreret.",module,Magento_Newsletter
+"Please enter a valid email address.","Angiv venligst en gyldig E-mail adresse.",module,Magento_Newsletter
+"This email address is already subscribed.","Denne e-mail adresse er allerede tilmeldt.",module,Magento_Newsletter
 "The confirmation request has been sent.","The confirmation request has been sent.",module,Magento_Newsletter
 "Thank you for your subscription.","Tak for dit tilmelding.",module,Magento_Newsletter
 "There was a problem with the subscription: %1","There was a problem with the subscription: %1",module,Magento_Newsletter
@@ -8019,15 +8019,15 @@
 "Copy","Kopier",module,Magento_Newsletter
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Tilmeld dig vores nyhedsbrev:",module,Magento_Newsletter
-"Enter your email address","Indtast din e-mailadresse",module,Magento_Newsletter
-"Subscribe","Abonnér",module,Magento_Newsletter
+"Enter your email address","Indtast din E-mail adresse",module,Magento_Newsletter
+"Subscribe","Tilmeld",module,Magento_Newsletter
 "Newsletter subscription confirmation","Nyhedsbrev abonnement bekræftelse",module,Magento_Newsletter
 "Thank you for subscribing to our newsletter.","Tak for din tilmelding til vores nyhedsbrev.",module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","For at begynde at modtage nyhedsbrev, skal du først bekræfte dit abonnement ved at klikke på følgende link:",module,Magento_Newsletter
 "Newsletter subscription success","Nyhedsbrev abonnement succes",module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Du er blevet succesfuldt tilmeldt vores nyhedsbrev.",module,Magento_Newsletter
 "Newsletter unsubscription success","Nyhedsbrev opsigelse af abonnement succes",module,Magento_Newsletter
-"You have been unsubscribed from the newsletter.","Du er blevet Afmeldt fra nyhedsbrevet.",module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.","Du er blevet afmeldt fra nyhedsbrevet.",module,Magento_Newsletter
 "Newsletter Template","Nyhedsbrevsskabelon",module,Magento_Newsletter
 "Newsletter Section","Nyhedsbrev sektion",module,Magento_Newsletter
 "Subscription Options","Abonnementsmuligheder",module,Magento_Newsletter
@@ -8055,7 +8055,7 @@
 "Delete","Slet",module,Magento_Newsletter
 "CSV","CSV",module,Magento_Newsletter
 "Excel XML","Excel XML",module,Magento_Newsletter
-"Email","E-mail",module,Magento_Newsletter
+"Email","e-mail",module,Magento_Newsletter
 "Type","Type",module,Magento_Newsletter
 "Guest","Gæst",module,Magento_Newsletter
 "Customer","Kunde",module,Magento_Newsletter
@@ -8232,7 +8232,7 @@
 "Payment Methods","Betalingsmetode",module,Magento_Payment
 "Billing Agreements","Faktureringsaftaler",module,Magento_Paypal
 "ID","ID",module,Magento_Paypal
-"Email","E-mail",module,Magento_Paypal
+"Email","e-mail",module,Magento_Paypal
 "First Name","Fornavn",module,Magento_Paypal
 "Last Name","Efternavn",module,Magento_Paypal
 "Reference ID","Reference ID",module,Magento_Paypal
@@ -8873,7 +8873,7 @@
 "Method ""%1"" is not defined in ""%2""","Method ""%1"" is not defined in ""%2""",module,Magento_Persistent
 "To check out, please sign in using your email address.","To check out, please sign in using your email address.",module,Magento_Persistent
 "Remember Me","Husk mig",module,Magento_Persistent
-"What's this?","What's this?",module,Magento_Persistent
+"What's this?","Hvad er dette?",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Vælg &quot;Husk mig&quot; for at få adgang til din indkøbskurv på denne computer, selvom du ikke er logget på.",module,Magento_Persistent
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Vælg 'Husk mig' for at få adgang til din indkøbskurv på denne computer, selvom du ikke er logget på.",module,Magento_Persistent
 "Persistent Shopping Cart","Persistent Shopping Cart",module,Magento_Persistent
@@ -9093,7 +9093,7 @@
 "Conditions","Conditions",module,Magento_Reminder
 "You need to set at least one condition for this rule to work.","You need to set at least one condition for this rule to work.",module,Magento_Reminder
 "ID","ID",module,Magento_Reminder
-"Email","E-mail",module,Magento_Reminder
+"Email","e-mail",module,Magento_Reminder
 "Matched At","Matched At",module,Magento_Reminder
 "Thread Active","Thread Active",module,Magento_Reminder
 "No","Nej",module,Magento_Reminder
@@ -9321,7 +9321,7 @@
 "Rate","Bedøm",module,Magento_Reports
 "Tax Amount","Tax Amount",module,Magento_Reports
 "Abandoned carts","Abandoned carts",module,Magento_Reports
-"Email","E-mail",module,Magento_Reports
+"Email","e-mail",module,Magento_Reports
 "Products","Produkter",module,Magento_Reports
 "Quantity","Antal",module,Magento_Reports
 "Applied Coupon","Rabatkode anvendt",module,Magento_Reports
@@ -9408,7 +9408,7 @@
 "Marketing","Marketing",module,Magento_Reports
 "Products in Cart","Produkter i indkøbskurven",module,Magento_Reports
 "Abandoned Cart","Forladte indkøbskurve",module,Magento_Reports
-"Search Terms","Search Terms",module,Magento_Reports
+"Search Terms","Søgeord",module,Magento_Reports
 "By Customers","By Customers",module,Magento_Reports
 "By Products","By Products",module,Magento_Reports
 "Refunds","Refunderinger",module,Magento_Reports
@@ -10121,7 +10121,7 @@
 "Quantity To Return","Quantity To Return",module,Magento_Rma
 "Remaining Quantity:","Remaining Quantity:",module,Magento_Rma
 "New Return for Order %1","New Return for Order %1",module,Magento_Rma
-"Email","E-mail",module,Magento_Rma
+"Email","e-mail",module,Magento_Rma
 "Return Items Information","Return Items Information",module,Magento_Rma
 "Add Item To Return","Add Item To Return",module,Magento_Rma
 "Comments","Kommentarer",module,Magento_Rma
@@ -10136,7 +10136,7 @@
 "View Return","View Return",module,Magento_Rma
 "You have placed no returns.","You have placed no returns.",module,Magento_Rma
 "Packages","Pakker",module,Magento_Rma
-"Close Window","Close Window",module,Magento_Rma
+"Close Window","Luk vindue",module,Magento_Rma
 "Package","Pakke",module,Magento_Rma
 "Type","Type",module,Magento_Rma
 "Length","Længde",module,Magento_Rma
@@ -10287,10 +10287,10 @@
 "This product is disabled.","Dette produkt er deaktiveret.",module,Magento_Sales
 "Buy %1 for price %2","Købe %1 til prisen %2",module,Magento_Sales
 "Item ordered qty","Antal varer bestilt",module,Magento_Sales
-"%1 with %2 discount each","%1 with %2 discount each",module,Magento_Sales
+"%1 with %2 discount each","Køb %1 med %2 rabat på hver",module,Magento_Sales
 "%1 for %2","%1 for %2",module,Magento_Sales
-"* - Enter custom price including tax","* - Enter custom price including tax",module,Magento_Sales
-"* - Enter custom price excluding tax","* - Enter custom price excluding tax",module,Magento_Sales
+"* - Enter custom price including tax","Specialpris inkl. moms",module,Magento_Sales
+"* - Enter custom price excluding tax","Specialpris ekskl. moms",module,Magento_Sales
 "Configure","Konfigurer",module,Magento_Sales
 "This product does not have any configurable options","Dette produkt har ikke nogen konfigurerbare indstillinger",module,Magento_Sales
 "Newsletter Subscription","Nyhedsbrev abonnement",module,Magento_Sales
@@ -10329,72 +10329,72 @@
 "Paid Amount","Betalt beløb",module,Magento_Sales
 "Refund Amount","Refusionsbeløbet",module,Magento_Sales
 "Shipping Amount","Fragt beløb",module,Magento_Sales
-"Shipping Refund","Shipping Refund",module,Magento_Sales
+"Shipping Refund","Fragtrefundering",module,Magento_Sales
 "Order Grand Total","Ordretotal",module,Magento_Sales
-"Adjustment Refund","Adjustment Refund",module,Magento_Sales
-"Adjustment Fee","Adjustment Fee",module,Magento_Sales
-"Send Email","Send E-mail",module,Magento_Sales
+"Adjustment Refund","Refundering af justering",module,Magento_Sales
+"Adjustment Fee","Justerings gebyr",module,Magento_Sales
+"Send Email","Send e-mail",module,Magento_Sales
 "Are you sure you want to send a credit memo email to customer?","Er du sikker på du vil sende en kredit memo e-mail til kunden?",module,Magento_Sales
 "Void","Ugyldig",module,Magento_Sales
 "Print","Udskriv",module,Magento_Sales
-"The credit memo email was sent.","The credit memo email was sent.",module,Magento_Sales
+"The credit memo email was sent.","Kreditnotaen er allerede sent.",module,Magento_Sales
 "The credit memo email wasn't sent.","The credit memo email wasn't sent.",module,Magento_Sales
-"Credit Memo #%1 | %3 | %2 (%4)","Credit Memo #%1 | %3 | %2 (%4)",module,Magento_Sales
-"Total Refund","Total Refund",module,Magento_Sales
-"New Invoice and Shipment for Order #%1","New Invoice and Shipment for Order #%1",module,Magento_Sales
-"New Invoice for Order #%1","New Invoice for Order #%1",module,Magento_Sales
-"Submit Invoice and Shipment","Submit Invoice and Shipment",module,Magento_Sales
-"Submit Invoice","Submit Invoice",module,Magento_Sales
-"Are you sure you want to send an invoice email to customer?","Are you sure you want to send an invoice email to customer?",module,Magento_Sales
-"Credit Memo","Credit Memo",module,Magento_Sales
+"Credit Memo #%1 | %3 | %2 (%4)","Kreditnota #%1 | %3 | %2 (%4)",module,Magento_Sales
+"Total Refund","Refunderet i alt",module,Magento_Sales
+"New Invoice and Shipment for Order #%1","Ny faktura og følgeseddel for ordre #%1",module,Magento_Sales
+"New Invoice for Order #%1","Ny faktura for ordre #%1",module,Magento_Sales
+"Submit Invoice and Shipment","Send faktura og forsendelse",module,Magento_Sales
+"Submit Invoice","Send faktura",module,Magento_Sales
+"Are you sure you want to send an invoice email to customer?","Er du sikker på du vil sende en faktura til kunden?",module,Magento_Sales
+"Credit Memo","Kreditnota",module,Magento_Sales
 "Capture","Indfang",module,Magento_Sales
-"The invoice email was sent.","The invoice email was sent.",module,Magento_Sales
+"The invoice email was sent.","Faktura er afsendt.",module,Magento_Sales
 "The invoice email wasn't sent.","The invoice email wasn't sent.",module,Magento_Sales
-"Invoice #%1 | %2 | %4 (%3)","Invoice #%1 | %2 | %4 (%3)",module,Magento_Sales
-"Invalid parent block for this block","Invalid parent block for this block",module,Magento_Sales
-"Order Statuses","Order Statuses",module,Magento_Sales
-"Create New Status","Create New Status",module,Magento_Sales
-"Assign Status to State","Assign Status to State",module,Magento_Sales
-"Save Status Assignment","Save Status Assignment",module,Magento_Sales
-"Assign Order Status to State","Assign Order Status to State",module,Magento_Sales
-"Assignment Information","Assignment Information",module,Magento_Sales
-"Order Status","Order Status",module,Magento_Sales
-"Order State","Order State",module,Magento_Sales
-"Use Order Status As Default","Use Order Status As Default",module,Magento_Sales
-"Visible On Storefront","Visible On Storefront",module,Magento_Sales
-"Edit Order Status","Edit Order Status",module,Magento_Sales
-"Save Status","Save Status",module,Magento_Sales
-"New Order Status","New Order Status",module,Magento_Sales
-"Order Status Information","Order Status Information",module,Magento_Sales
-"Status Code","Status Code",module,Magento_Sales
-"Status Label","Status Label",module,Magento_Sales
-"Store View Specific Labels","Store View Specific Labels",module,Magento_Sales
-"Total Paid","Total Paid",module,Magento_Sales
-"Total Refunded","Total Refunded",module,Magento_Sales
-"Total Due","Total Due",module,Magento_Sales
+"Invoice #%1 | %2 | %4 (%3)","Faktura #%1 | %2 | %4 (%3)",module,Magento_Sales
+"Invalid parent block for this block","Ugyldig overordnet blok for denne blok",module,Magento_Sales
+"Order Statuses","Ordrestatus",module,Magento_Sales
+"Create New Status","Opret ny status",module,Magento_Sales
+"Assign Status to State","Tildel status",module,Magento_Sales
+"Save Status Assignment","Gem ny status",module,Magento_Sales
+"Assign Order Status to State","Angiv ordrestatus",module,Magento_Sales
+"Assignment Information","Tilføj oplysninger",module,Magento_Sales
+"Order Status","Ordrestatus",module,Magento_Sales
+"Order State","Ordrestatus",module,Magento_Sales
+"Use Order Status As Default","Bruge ordrestatus som standard",module,Magento_Sales
+"Visible On Storefront","Synlig i frontend",module,Magento_Sales
+"Edit Order Status","Redigere ordrestatus",module,Magento_Sales
+"Save Status","Gem status",module,Magento_Sales
+"New Order Status","Ny ordrestatus",module,Magento_Sales
+"Order Status Information","Info på ordrestatus",module,Magento_Sales
+"Status Code","Statuskode",module,Magento_Sales
+"Status Label","Status etiket",module,Magento_Sales
+"Store View Specific Labels","Butiksspecifikke etiketter",module,Magento_Sales
+"Total Paid","Betalt i alt",module,Magento_Sales
+"Total Refunded","Refunderet i alt",module,Magento_Sales
+"Total Due","Skyldig i alt",module,Magento_Sales
 "Edit","Redigér",module,Magento_Sales
-"Are you sure you want to send an order email to customer?","Are you sure you want to send an order email to customer?",module,Magento_Sales
-"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",module,Magento_Sales
-"Are you sure you want to void the payment?","Are you sure you want to void the payment?",module,Magento_Sales
+"Are you sure you want to send an order email to customer?","Er du sikker på du vil ordrebekræftelse til kunden?",module,Magento_Sales
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Dette vil oprette en offline refundering. For at oprette en refundering online, så åben faktura og kreditnota. Ønsker du at fortsætte?",module,Magento_Sales
+"Are you sure you want to void the payment?","Er du sikker på at du vil annullere betalingen?",module,Magento_Sales
 "Hold","Hold",module,Magento_Sales
 "hold","hold",module,Magento_Sales
 "Unhold","Fjern tilbageholdelse",module,Magento_Sales
 "unhold","fjern tilbageholdelse",module,Magento_Sales
-"Are you sure you want to accept this payment?","Are you sure you want to accept this payment?",module,Magento_Sales
+"Are you sure you want to accept this payment?","Vil du acceptere denne betaling?",module,Magento_Sales
 "Accept Payment","Accepter betaling",module,Magento_Sales
 "Are you sure you want to deny this payment?","Vil du afvise denne betaling?",module,Magento_Sales
 "Deny Payment","Afvis betaling",module,Magento_Sales
-"Get Payment Update","Get Payment Update",module,Magento_Sales
-"Invoice and Ship","Invoice and Ship",module,Magento_Sales
+"Get Payment Update","Få betalingsopdatering",module,Magento_Sales
+"Invoice and Ship","Faktura og forsendelse",module,Magento_Sales
 "Invoice","Faktura",module,Magento_Sales
 "Ship","Levering",module,Magento_Sales
 "Reorder","Genbestil",module,Magento_Sales
 "Order # %1 %2 | %3","Ordre # %1 %2 | %3",module,Magento_Sales
-"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Denne ordre indholder (%1) varer og kan derfor ikke blive redigeret I backend. Hvis du fortsat ønsker at redigere ordren, så vil (%2) varer blive fjernet, ordren annulleres og en ny ordre oprettes.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Er du sikker? Denne ordre annulleres, og en ny vil blive oprettet i stedet.",module,Magento_Sales
 "Save Gift Message","Gem gave besked",module,Magento_Sales
 "[deleted]","[ slettet]",module,Magento_Sales
-"Order Credit Memos","Order Credit Memos",module,Magento_Sales
+"Order Credit Memos","Kreditnotaer",module,Magento_Sales
 "Credit memo #%1 created","Kredit memo #%1 oprettet",module,Magento_Sales
 "Credit memo #%1 comment added","Kredit memo #%1 Kommentar tilføjet",module,Magento_Sales
 "Shipment #%1 created","Forsendelse #%1 oprettet",module,Magento_Sales
@@ -10413,7 +10413,7 @@
 "Order View","Ordre oversigt",module,Magento_Sales
 "Any","Alle",module,Magento_Sales
 "Specified","Angivet",module,Magento_Sales
-"Applies to Any of the Specified Order Statuses except canceled orders","Applies to Any of the Specified Order Statuses except canceled orders",module,Magento_Sales
+"Applies to Any of the Specified Order Statuses except canceled orders","Gælder for en hvilken som helst af de angivne statuser med undtagelse af annullerede ordrer",module,Magento_Sales
 "Cart Price Rule","Indkøbskurv pris regel",module,Magento_Sales
 "Yes","Ja",module,Magento_Sales
 "No","Nej",module,Magento_Sales
@@ -10433,102 +10433,102 @@
 "We found an invalid entity model.","Vi fandt en ugyldig objektmodel.",module,Magento_Sales
 "Order # %1","Ordre #%1",module,Magento_Sales
 "Back to My Orders","Tilbage til mine ordrer",module,Magento_Sales
-"View Another Order","View Another Order",module,Magento_Sales
-"About Your Refund","About Your Refund",module,Magento_Sales
+"View Another Order","Se en anden ordre",module,Magento_Sales
+"About Your Refund","Om din tilbagebetaling",module,Magento_Sales
 "My Orders","Mine ordrer",module,Magento_Sales
-"Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
-"About Your Invoice","About Your Invoice",module,Magento_Sales
-"Print Order # %1","Print Order # %1",module,Magento_Sales
+"Subscribe to Order Status","Abonner på ordrestatus",module,Magento_Sales
+"About Your Invoice","Om din faktura",module,Magento_Sales
+"Print Order # %1","Udskrive ordre # %1",module,Magento_Sales
 "Grand Total to be Charged","Faktureringstotal",module,Magento_Sales
 "Unassign","Fjern tildeling",module,Magento_Sales
 "We can't add this item to your shopping cart right now.","Vi kan ikke føje dette produkt til din indkøbskurv lige nu.",module,Magento_Sales
-"You sent the message.","You sent the message.",module,Magento_Sales
+"You sent the message.","Du sendte meddelelsen.",module,Magento_Sales
 "Sales","Salg",module,Magento_Sales
-"Invoice capturing error","Invoice capturing error",module,Magento_Sales
-"This order no longer exists.","This order no longer exists.",module,Magento_Sales
-"The comment is missing. Enter and try again.","The comment is missing. Enter and try again.",module,Magento_Sales
-"We cannot add order history.","We cannot add order history.",module,Magento_Sales
-"You updated the order address.","You updated the order address.",module,Magento_Sales
+"Invoice capturing error","Faktura genereringsfejl",module,Magento_Sales
+"This order no longer exists.","Ordren er slettet.",module,Magento_Sales
+"The comment is missing. Enter and try again.","Kommentaren er mangler. Indtast og prøv igen.",module,Magento_Sales
+"We cannot add order history.","Vi kan ikke tilføje ordrehistorik.",module,Magento_Sales
+"You updated the order address.","Du opdaterede bestillingsadressen.",module,Magento_Sales
 "We can't update the order address right now.","We can't update the order address right now.",module,Magento_Sales
-"You have not canceled the item.","You have not canceled the item.",module,Magento_Sales
-"You canceled the order.","You canceled the order.",module,Magento_Sales
-"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" coupon code was not applied. Do not apply discount is selected for item(s)",module,Magento_Sales
-"The ""%1"" coupon code isn't valid. Verify the code and try again.","The ""%1"" coupon code isn't valid. Verify the code and try again.",module,Magento_Sales
-"The coupon code has been accepted.","The coupon code has been accepted.",module,Magento_Sales
+"You have not canceled the item.","Du kan ikke annullere den vare.",module,Magento_Sales
+"You canceled the order.","Du annullerede ordren.",module,Magento_Sales
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" rabatkode blev ikke anvendt. Tildel ikke rabat for valgte vare(r)",module,Magento_Sales
+"The ""%1"" coupon code isn't valid. Verify the code and try again.","""%1"" rabatkoden er ikke gyldig. Kontrollere koden, og prøv igen.",module,Magento_Sales
+"The coupon code has been accepted.","Rabatkode er godkendt.",module,Magento_Sales
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_Sales
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_Sales
-"New Order","New Order",module,Magento_Sales
-"You created the order.","You created the order.",module,Magento_Sales
-"Order saving error: %1","Order saving error: %1",module,Magento_Sales
-"Cannot add new comment.","Cannot add new comment.",module,Magento_Sales
-"The credit memo has been canceled.","The credit memo has been canceled.",module,Magento_Sales
-"Credit memo has not been canceled.","Credit memo has not been canceled.",module,Magento_Sales
-"New Memo for #%1","New Memo for #%1",module,Magento_Sales
+"New Order","Ny ordre",module,Magento_Sales
+"You created the order.","Du har oprettet ordren.",module,Magento_Sales
+"Order saving error: %1","Bestillingsfejl: %1",module,Magento_Sales
+"Cannot add new comment.","Kan ikke tilføje nye kommentar.",module,Magento_Sales
+"The credit memo has been canceled.","Kreditnotaen er blevet annulleret.",module,Magento_Sales
+"Credit memo has not been canceled.","Kreditnotaen blev ikke annulleret.",module,Magento_Sales
+"New Memo for #%1","Nyt notat til #%1",module,Magento_Sales
 "New Memo","Nyt Memo",module,Magento_Sales
 "The credit memo's total must be positive.","The credit memo's total must be positive.",module,Magento_Sales
 "Cannot create online refund for Refund to Store Credit.","Cannot create online refund for Refund to Store Credit.",module,Magento_Sales
-"You created the credit memo.","You created the credit memo.",module,Magento_Sales
+"You created the credit memo.","Du har oprettet en kreditnota.",module,Magento_Sales
 "We can't save the credit memo right now.","We can't save the credit memo right now.",module,Magento_Sales
 "We can't update the item's quantity right now.","We can't update the item's quantity right now.",module,Magento_Sales
-"View Memo for #%1","View Memo for #%1",module,Magento_Sales
-"View Memo","View Memo",module,Magento_Sales
-"You voided the credit memo.","You voided the credit memo.",module,Magento_Sales
+"View Memo for #%1","Se notat til #%1",module,Magento_Sales
+"View Memo","Se notat",module,Magento_Sales
+"You voided the credit memo.","Du annullerede kreditnotaen.",module,Magento_Sales
 "We can't void the credit memo.","We can't void the credit memo.",module,Magento_Sales
-"The order no longer exists.","The order no longer exists.",module,Magento_Sales
+"The order no longer exists.","Ordren er slettet.",module,Magento_Sales
 "We can't create credit memo for the order.","We can't create credit memo for the order.",module,Magento_Sales
-"Edit Order","Edit Order",module,Magento_Sales
-"You sent the order email.","You sent the order email.",module,Magento_Sales
+"Edit Order","Rediger ordre",module,Magento_Sales
+"You sent the order email.","Du har sendt ordre e-mailen.",module,Magento_Sales
 "We can't send the email order right now.","We can't send the email order right now.",module,Magento_Sales
-"You have not put the order on hold.","You have not put the order on hold.",module,Magento_Sales
-"You put the order on hold.","You put the order on hold.",module,Magento_Sales
-"You canceled the invoice.","You canceled the invoice.",module,Magento_Sales
-"Invoice canceling error","Invoice canceling error",module,Magento_Sales
-"The invoice has been captured.","The invoice has been captured.",module,Magento_Sales
-"The order does not allow an invoice to be created.","The order does not allow an invoice to be created.",module,Magento_Sales
-"The invoice can't be created without products. Add products and try again.","The invoice can't be created without products. Add products and try again.",module,Magento_Sales
-"New Invoice","New Invoice",module,Magento_Sales
-"The invoice can't be saved at this time. Please try again later.","The invoice can't be saved at this time. Please try again later.",module,Magento_Sales
+"You have not put the order on hold.","Du har sat ordren på pause.",module,Magento_Sales
+"You put the order on hold.","Sæt ordren på pause.",module,Magento_Sales
+"You canceled the invoice.","Du annullerede fakturaen.",module,Magento_Sales
+"Invoice canceling error","Faktura annulleringsfejl",module,Magento_Sales
+"The invoice has been captured.","Fakturaen er oprettet.",module,Magento_Sales
+"The order does not allow an invoice to be created.","Ordren tillader ikke at en faktura oprettes.",module,Magento_Sales
+"The invoice can't be created without products. Add products and try again.","Fakturaen kan ikke oprettes uden produkter. Tilføj produkter og prøv igen.",module,Magento_Sales
+"New Invoice","Ny faktura",module,Magento_Sales
+"The invoice can't be saved at this time. Please try again later.","Fakturaen kan ikke gemmes på nuværende tidspunkt. Prøv igen senere.",module,Magento_Sales
 "You created the invoice and shipment.","Du har oprettet faktura og forsendelse.",module,Magento_Sales
 "The invoice has been created.","Fakturaen er oprettet.",module,Magento_Sales
 "We can't send the invoice email right now.","We can't send the invoice email right now.",module,Magento_Sales
 "We can't send the shipment right now.","We can't send the shipment right now.",module,Magento_Sales
 "Cannot update item quantity.","Kan ikke opdatere vareantallet.",module,Magento_Sales
 "The invoice has been voided.","Fakturaen er blevet annulleret.",module,Magento_Sales
-"Invoice voiding error","Invoice voiding error",module,Magento_Sales
-"%1 order(s) cannot be canceled.","%1 order(s) cannot be canceled.",module,Magento_Sales
-"You cannot cancel the order(s).","You cannot cancel the order(s).",module,Magento_Sales
-"We canceled %1 order(s).","We canceled %1 order(s).",module,Magento_Sales
-"%1 order(s) were not put on hold.","%1 order(s) were not put on hold.",module,Magento_Sales
-"No order(s) were put on hold.","No order(s) were put on hold.",module,Magento_Sales
-"You have put %1 order(s) on hold.","You have put %1 order(s) on hold.",module,Magento_Sales
-"%1 order(s) were not released from on hold status.","%1 order(s) were not released from on hold status.",module,Magento_Sales
-"No order(s) were released from on hold status.","No order(s) were released from on hold status.",module,Magento_Sales
-"%1 order(s) have been released from on hold status.","%1 order(s) have been released from on hold status.",module,Magento_Sales
-"There are no printable documents related to selected orders.","There are no printable documents related to selected orders.",module,Magento_Sales
-"The payment has been accepted.","The payment has been accepted.",module,Magento_Sales
-"The payment has been denied.","The payment has been denied.",module,Magento_Sales
-"Transaction has been approved.","Transaction has been approved.",module,Magento_Sales
-"Transaction has been voided/declined.","Transaction has been voided/declined.",module,Magento_Sales
-"There is no update for the transaction.","There is no update for the transaction.",module,Magento_Sales
+"Invoice voiding error","Faktura annulleringsfejl",module,Magento_Sales
+"%1 order(s) cannot be canceled.","%1 ordre(r) kan ikke annulleres.",module,Magento_Sales
+"You cannot cancel the order(s).","Du kan ikke annullere ordre(ne).",module,Magento_Sales
+"We canceled %1 order(s).","Vi annullerede %1 ordre(r).",module,Magento_Sales
+"%1 order(s) were not put on hold.","%1 ordre(r) blev ikke sat på pause.",module,Magento_Sales
+"No order(s) were put on hold.","Ingen ordre(r) blev sat på pause.",module,Magento_Sales
+"You have put %1 order(s) on hold.","Du har sat %1 ordre(r) på pause.",module,Magento_Sales
+"%1 order(s) were not released from on hold status.","%1 ordre(r) blev ikke frigivet fra pause-status.",module,Magento_Sales
+"No order(s) were released from on hold status.","Ingen ordre(r) blev frigivet fra pause-status.",module,Magento_Sales
+"%1 order(s) have been released from on hold status.","%1 ordre(r) er blevet frigivet fra pause-status.",module,Magento_Sales
+"There are no printable documents related to selected orders.","Der er ingen dokumenter til udskrivning på de markerede ordre.",module,Magento_Sales
+"The payment has been accepted.","Betaling er blevet accepteret.",module,Magento_Sales
+"The payment has been denied.","Betalingen er blevet afvist.",module,Magento_Sales
+"Transaction has been approved.","Transaktionen er blevet godkendt.",module,Magento_Sales
+"Transaction has been voided/declined.","Transaktionen er blevet afvist.",module,Magento_Sales
+"There is no update for the transaction.","Der er ingen opdatering for transaktionen.",module,Magento_Sales
 "We can't update the payment right now.","We can't update the payment right now.",module,Magento_Sales
-"You assigned the order status.","You assigned the order status.",module,Magento_Sales
-"Something went wrong while assigning the order status.","Something went wrong while assigning the order status.",module,Magento_Sales
+"You assigned the order status.","Du tilføjede ordrestatus.",module,Magento_Sales
+"Something went wrong while assigning the order status.","Noget gik galt under opdatering af orderstatus.",module,Magento_Sales
 "We can't find this order status.","We can't find this order status.",module,Magento_Sales
-"Create New Order Status","Create New Order Status",module,Magento_Sales
-"We found another order status with the same order status code.","We found another order status with the same order status code.",module,Magento_Sales
-"You saved the order status.","You saved the order status.",module,Magento_Sales
+"Create New Order Status","Opret ny ordrestatus",module,Magento_Sales
+"We found another order status with the same order status code.","Vi har fundet en anden ordre den den samme ordrestatus.",module,Magento_Sales
+"You saved the order status.","Du har gemt ordrestatussen.",module,Magento_Sales
 "We can't add the order status right now.","We can't add the order status right now.",module,Magento_Sales
-"You have unassigned the order status.","You have unassigned the order status.",module,Magento_Sales
-"Something went wrong while unassigning the order.","Something went wrong while unassigning the order.",module,Magento_Sales
+"You have unassigned the order status.","Du har fjernet ordrestatussen.",module,Magento_Sales
+"Something went wrong while unassigning the order.","Noget gik galt under opdatering af orderstatus.",module,Magento_Sales
 "Can't unhold order.","Can't unhold order.",module,Magento_Sales
-"You released the order from holding status.","You released the order from holding status.",module,Magento_Sales
-"The order was not on hold.","The order was not on hold.",module,Magento_Sales
+"You released the order from holding status.","Du har frigivet ordre fra pause status.",module,Magento_Sales
+"The order was not on hold.","Ordren var ikke pauset.",module,Magento_Sales
 "Exception occurred during order load","Exception occurred during order load",module,Magento_Sales
-"Something went wrong while saving the gift message.","Something went wrong while saving the gift message.",module,Magento_Sales
-"You saved the gift card message.","You saved the gift card message.",module,Magento_Sales
-"The payment has been voided.","The payment has been voided.",module,Magento_Sales
+"Something went wrong while saving the gift message.","Noget gik galt, da gavebeskeden skulle gemmes.",module,Magento_Sales
+"You saved the gift card message.","Du har gemt gavebeskeden.",module,Magento_Sales
+"The payment has been voided.","Betalingen er afvist.",module,Magento_Sales
 "We can't void the payment right now.","We can't void the payment right now.",module,Magento_Sales
-"Please correct the transaction ID and try again.","Please correct the transaction ID and try again.",module,Magento_Sales
+"Please correct the transaction ID and try again.","Angiv korrekt transaktions ID og prøv igen.",module,Magento_Sales
 "The transaction details have been updated.","The transaction details have been updated.",module,Magento_Sales
 "We can't update the transaction details.","We can't update the transaction details.",module,Magento_Sales
 "Orders and Returns","Ordrer og returneringer",module,Magento_Sales
@@ -10650,7 +10650,7 @@
 "Number","Nummer",module,Magento_Sales
 "We found an invalid renderer model.","We found an invalid renderer model.",module,Magento_Sales
 "Please define the PDF object before using.","Please define the PDF object before using.",module,Magento_Sales
-"We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array.",module,Magento_Sales
+"We don't recognize the draw line data. Please define the ""lines"" array.","Vi genkende ikke trækningslinj data. Definér venligst matrixen ""linjer"".",module,Magento_Sales
 "Products","Produkter",module,Magento_Sales
 "Total (ex)","Total (ex)",module,Magento_Sales
 "Qty","Antal",module,Magento_Sales
@@ -10700,7 +10700,7 @@
 "City","By",module,Magento_Sales
 "Company","Firma",module,Magento_Sales
 "Country","Land",module,Magento_Sales
-"Email","E-mail",module,Magento_Sales
+"Email","e-mail",module,Magento_Sales
 "First Name","Fornavn",module,Magento_Sales
 "Last Name","Efternavn",module,Magento_Sales
 "State/Province","Stat/provins",module,Magento_Sales
@@ -11628,7 +11628,7 @@
 "Remove Recipent","Remove Recipent",module,Magento_SendFriend
 "Remove","Fjern",module,Magento_SendFriend
 "Name","Navn",module,Magento_SendFriend
-"Email","E-mail",module,Magento_SendFriend
+"Email","e-mail",module,Magento_SendFriend
 "* Required Fields","* Påkrævede felter",module,Magento_SendFriend
 "Sender","Afsender",module,Magento_SendFriend
 "Message","Besked",module,Magento_SendFriend
@@ -11641,7 +11641,7 @@
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
 "Message from %sender_name:","Besked fra %sender_name:",module,Magento_SendFriend
-"Email to a Friend","E-mail til en ven",module,Magento_SendFriend
+"Email to a Friend","Mail til en ven",module,Magento_SendFriend
 "Email Templates","Email skabeloner",module,Magento_SendFriend
 "Enabled","Aktiveret",module,Magento_SendFriend
 "Select Email Template","Vælg E-mail-skabelon",module,Magento_SendFriend
@@ -12968,7 +12968,7 @@
 "Email:","E-mail:",module,Magento_Theme
 "Password:","Password:",module,Magento_Theme
 "Password you set when creating account","Password you set when creating account",module,Magento_Theme
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Theme
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Har du glemt din adgangskode? Klik <a href=""%reset_url""> her</a> til at nulstille den.",module,Magento_Theme
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Theme
 "Proceed through checkout faster","Proceed through checkout faster",module,Magento_Theme
 "Check the status of orders","Check the status of orders",module,Magento_Theme
@@ -13167,7 +13167,7 @@
 "The date is not within the specified range.","The date is not within the specified range.",module,Magento_Ui
 "Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.","Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.",module,Magento_Ui
 "This link is not allowed.","This link is not allowed.",module,Magento_Ui
-"Attention","Attention",module,Magento_Ui
+"Attention","Vigtigt",module,Magento_Ui
 "OK","OK",module,Magento_Ui
 "Close","Luk",module,Magento_Ui
 "Ok","Okay",module,Magento_Ui
@@ -13486,10 +13486,10 @@
 "Your password has expired; please contact your administrator.","Your password has expired; please contact your administrator.",module,Magento_User
 "Password Help","Password Help",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Indtast din email adresse. Du vil modtage en e-mail med et link til at nulstille din adgangskode.",module,Magento_User
-"Email address","Email address",module,Magento_User
+"Email address","E-mailadresse",module,Magento_User
 "Retrieve Password","Retrieve Password",module,Magento_User
 "Back to Sign in","Back to Sign in",module,Magento_User
-"Forgot your password?","Forgot your password?",module,Magento_User
+"Forgot your password?","Glemt din adgangskode?",module,Magento_User
 "Reset a Password","Reset a Password",module,Magento_User
 "Confirm New Password","Confirm New Password",module,Magento_User
 "Reset Password","Nulstil adgangskode",module,Magento_User
@@ -13908,7 +13908,7 @@
 "Yes","Ja",module,Magento_VisualMerchandiser
 "No","Nej",module,Magento_VisualMerchandiser
 "Add Products","Add Products",module,Magento_VisualMerchandiser
-"Save and Close","Save and Close",module,Magento_VisualMerchandiser
+"Save and Close","Gem og luk",module,Magento_VisualMerchandiser
 "On","Til",module,Magento_VisualMerchandiser
 "Off","Fra",module,Magento_VisualMerchandiser
 "Visual Merchandiser Options","Visual Merchandiser Options",module,Magento_VisualMerchandiser
@@ -14165,7 +14165,7 @@
 "Sharing Information","Sharing Information",module,Magento_Wishlist
 "Email addresses, separated by commas","Email addresses, separated by commas",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
-"Last Added Items","Last Added Items",module,Magento_Wishlist
+"Last Added Items","Sidste tilføjet elementer",module,Magento_Wishlist
 "Remove This Item","Fjerne dette produkt",module,Magento_Wishlist
 "Go to Wish List","Go to Wish List",module,Magento_Wishlist
 "You have no items in your wish list.","Du har ingen varer i din ønskeliste.",module,Magento_Wishlist
@@ -14278,7 +14278,7 @@
 "Proceed through checkout faster","Kom gennem betalingsprocessen hurtigere",theme,frontend/Magento/luma
 "Order Status","Ordrestatus",theme,frontend/Magento/luma
 "Check the status of orders","Kontrollere status for ordrer",theme,frontend/Magento/luma
-"Manage Addresses","Administrere adresser",theme,frontend/Magento/luma
+"Manage Addresses","Administrer adresser",theme,frontend/Magento/luma
 "Store alternative addresses","Gem alternative adresser",theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","For forsendelse til flere familiemedlemmer og venner",theme,frontend/Magento/luma
 "Order History","Ordreoversigten",theme,frontend/Magento/luma
