@@ -33,7 +33,7 @@ Notifications,Meddelelser,module,Magento_AdminNotification
 "Please select messages.","Vælg beskeder.",module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","%1 besked(er) er nu markeret som læst.",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","%1 besked(er) er blevet slettet.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","Vi kunne ikke slette på grund af en fejl.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","Vi kunne ikke slette bedskederne på grund af en fejl.",module,Magento_AdminNotification
 "The message has been removed.","Beskeden er blevet slettet.",module,Magento_AdminNotification
 "1 Hour","1 time",module,Magento_AdminNotification
 "2 Hours","2 timer",module,Magento_AdminNotification
@@ -62,7 +62,7 @@ unread),ulæst),module,Magento_AdminNotification
 "Show Toolbar","Vis værktøjslinje",module,Magento_AdminNotification
 "Show List","Vis liste",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Brug HTTPS for at hente et feed",module,Magento_AdminNotification
-"Update Frequency","Opdatere frekvens",module,Magento_AdminNotification
+"Update Frequency","Opdater frekvens",module,Magento_AdminNotification
 "Last Update","Sidst opdateret",module,Magento_AdminNotification
 Severity,Alvorlighed,module,Magento_AdminNotification
 "Date Added","Dato tilføjet",module,Magento_AdminNotification
@@ -87,7 +87,7 @@ Quantity,Mængde,module,Magento_AdvancedCheckout
 "Last ordered items (%1)","Sidste bestilte varer (%1)",module,Magento_AdvancedCheckout
 Products,Produkter,module,Magento_AdvancedCheckout
 ID,ID,module,Magento_AdvancedCheckout
-SKU,SKU,module,Magento_AdvancedCheckout
+SKU,Varenummer,module,Magento_AdvancedCheckout
 "Recently Compared Products (%1)","Nyligt sammenlignede produkter (%1)",module,Magento_AdvancedCheckout
 "Recently Viewed Products (%1)","Nyligt viste produkter (%1)",module,Magento_AdvancedCheckout
 "Add to Shopping Cart by SKU","Tilføj til indkøbskurv ved SKU",module,Magento_AdvancedCheckout
@@ -104,7 +104,7 @@ Configure,Konfigurer,module,Magento_AdvancedCheckout
 "You can buy up to %1 of these per purchase.","Du kan købe til %1 af disse pr. køb.",module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","Du skal købe mindst %1 af disse pr. køb.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Angiv produktets muligheder.",module,Magento_AdvancedCheckout
-"Alert me when this item is available.","Giv mig besked, når dette varen er tilgængeligt.",module,Magento_AdvancedCheckout
+"Alert me when this item is available.","Giv mig besked, når varen er tilgængelig.",module,Magento_AdvancedCheckout
 "We can't find this customer.","Vi kan ikke finde denne kunde.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Shopping cart management er deaktiveret for denne kunde.",module,Magento_AdvancedCheckout
 "We can't find this store.","Vi kan ikke finde denne butik.",module,Magento_AdvancedCheckout
@@ -138,7 +138,7 @@ Customers,Kunder,module,Magento_AdvancedCheckout
 "The file is empty.","Filen er tom.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Du har ikke angivet et produkt SKU. Venligst <a href=""%1""> Klik her</a> for at tilføje produkt(er) i SKU.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","Du har ikke angivet et produkt SKU.",module,Magento_AdvancedCheckout
-"We can't add a product to cart by id ""%1"".","Vi kan ikke tilføje produkt til indkøbsvognen med id ""%1"".",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","Vi kan ikke tilføje produktet til indkøbsvognen med id ""%1"".",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Noget gik galt under genbestilling af dette produkt.",module,Magento_AdvancedCheckout
 "We can't find this wish list.","Vi kan ikke finde denne ønskeseddel.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","Du har tilføjet %1 vare til indkøbsvognen.",module,Magento_AdvancedCheckout
@@ -168,9 +168,9 @@ Subtotal:,Subtotal:,module,Magento_AdvancedCheckout
 "Move to Wish List","Flyt til ønskeseddel",module,Magento_AdvancedCheckout
 "No item specified.","Ingen vare angivet.",module,Magento_AdvancedCheckout
 "Are you sure you want to remove this item?","Er du sikker på at du vil fjerne denne vare?",module,Magento_AdvancedCheckout
-"SKU number","SKU nummer",module,Magento_AdvancedCheckout
+"SKU number",Varenummer,module,Magento_AdvancedCheckout
 "Upload File","Upload fil",module,Magento_AdvancedCheckout
-"Your csv file must include ""sku"" and ""qty"" columns.","Csv-filen skal indeholde kolonnerne ""sku"" og ""antal"".",module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","Din CSV-fil skal indeholde kolonnerne ""sku"" og ""antal"".",module,Magento_AdvancedCheckout
 Reset,Nulstil,module,Magento_AdvancedCheckout
 SKU:,SKU:,module,Magento_AdvancedCheckout
 "Only <span id=""%1_max_allowed"">%2</span> in stock","Kun <span id=""%1_max_allowed"">%2</span> på lager",module,Magento_AdvancedCheckout
@@ -183,16 +183,16 @@ Item,Vare,module,Magento_AdvancedCheckout
 Edit,Rediger,module,Magento_AdvancedCheckout
 "Remove item","Fjern vare",module,Magento_AdvancedCheckout
 "Products Requiring Attention","Produkter, der kræver opmærksomhed",module,Magento_AdvancedCheckout
-"Add to Cart","Læg i vogn",module,Magento_AdvancedCheckout
-Sku,SKU,module,Magento_AdvancedCheckout
+"Add to Cart","Føj til kurv",module,Magento_AdvancedCheckout
+Sku,Varenummer,module,Magento_AdvancedCheckout
 File,Fil,module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","Filtyper der er tilladt: .csv",module,Magento_AdvancedCheckout
 "Add Row","Tilføj række",module,Magento_AdvancedCheckout
 "Remove Row","Fjern række",module,Magento_AdvancedCheckout
 "Add Products By SKU","Tilføj produkter med SKU",module,Magento_AdvancedCheckout
 "Shopping Cart Management","Indkøbsvogn styring",module,Magento_AdvancedCheckout
-"View Shopping Cart","Se indkøbsvogn",module,Magento_AdvancedCheckout
-"View and modify Shopping Cart","Få vist og Rediger indkøbsvogn",module,Magento_AdvancedCheckout
+"View Shopping Cart","Se indkøbskurv",module,Magento_AdvancedCheckout
+"View and modify Shopping Cart","Få vist og Rediger indkøbskurv",module,Magento_AdvancedCheckout
 "Order by SKU Settings","Bestil efter SKU indstillinger",module,Magento_AdvancedCheckout
 "Enable Order by SKU on My Account in Storefront","Aktiver SKU ordre på min konto på shoppens forside",module,Magento_AdvancedCheckout
 "Customer Groups",Kundegrupper,module,Magento_AdvancedCheckout
@@ -373,7 +373,7 @@ successful.,gennemført.,module,Magento_Authorizenet
 authorize,authoriser,module,Magento_Authorizenet
 "authorize and capture","tillade og fasthold",module,Magento_Authorizenet
 capture,indfang,module,Magento_Authorizenet
-refund,"betal tilbage",module,Magento_Authorizenet
+refund,refunder,module,Magento_Authorizenet
 void,ugyldig,module,Magento_Authorizenet
 "Gateway error: %1","Gateway fejl: %1",module,Magento_Authorizenet
 "Something went wrong in the payment gateway.","Noget gik galt i betalingsgatewayen.",module,Magento_Authorizenet
@@ -544,7 +544,7 @@ Code,Kode,module,Magento_Backend
 "Store View Information","Butiksvisnings Information",module,Magento_Backend
 Status,Status,module,Magento_Backend
 Disabled,Deaktiveret,module,Magento_Backend
-Enabled,"Slå til",module,Magento_Backend
+Enabled,Aktiveret,module,Magento_Backend
 "Sort Order",Sorteringsorden,module,Magento_Backend
 "Web Site Information","Web Site Information",module,Magento_Backend
 "Default Store","Standard Butik",module,Magento_Backend
@@ -758,7 +758,7 @@ Communications,Kommunikation,module,Magento_Backend
 Services,Tjenester,module,Magento_Backend
 Advanced,Avanceret,module,Magento_Backend
 "Disable Modules Output","Slå Modul Output fra",module,Magento_Backend
-"Store Email Addresses","Butiks Email adresser",module,Magento_Backend
+"Store Email Addresses","Butiks e-mailadresser",module,Magento_Backend
 "Custom Email 1","Custom Email 1",module,Magento_Backend
 "Sender Email","Afsender E-mail",module,Magento_Backend
 "Sender Name","Afsender navn",module,Magento_Backend
@@ -1234,7 +1234,7 @@ Currency,Valuta,module,Magento_Braintree
 "Cannot submit for settlement unless status is authorized.","Cannot submit for settlement unless status is authorized.",module,Magento_Braintree
 "Customer does not have any credit cards.","Customer does not have any credit cards.",module,Magento_Braintree
 "Transaction has already been completely refunded.","Transaktionen har allerede blevet helt refunderet.",module,Magento_Braintree
-"Payment instrument type is not accepted by this merchant account.","Betalingstypen er ikke accepteret af denne bruger / konto.",module,Magento_Braintree
+"Payment instrument type is not accepted by this merchant account.","Betalingstypen er ikke accepteret af denne butiks konto.",module,Magento_Braintree
 "Processor authorization code cannot be set unless for a voice authorization.","Processor authorization code cannot be set unless for a voice authorization.",module,Magento_Braintree
 "Refund amount is too large.","Refusionsbeløbet er for stor.",module,Magento_Braintree
 "Settlement amount is too large.","Afregningsbeløbet er for stor.",module,Magento_Braintree
@@ -1494,7 +1494,7 @@ Forms,Formular,module,Magento_Captcha
 "Number of Symbols","Antal af symboler",module,Magento_Captcha
 "Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Angiv maksimalt 8 symboler. Rækker tilladt (f.eks. 3-5)",module,Magento_Captcha
 "Symbols Used in CAPTCHA","Symboler, anvendt i CAPTCHA",module,Magento_Captcha
-"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.",module,Magento_Captcha
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Benyt kun bogstaver (a-z eller A-Z) og tal (0-9) i dette felt. Ingen mellemrum eller andre tegn tillades. < br / > lignende udseende tegn (f.eks. ""i"", ""l"", ""1"") mindske chancen for korrekte anerkendelse af kunden.",module,Magento_Captcha
 "Case Sensitive","Store og små bogstaver",module,Magento_Captcha
 "Enable CAPTCHA on Storefront","Aktiver CAPTCHA på butiks forside",module,Magento_Captcha
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Opret bruger"" og ""Glemt kodeord"" formularer er altid aktiveret, hvis valgt.",module,Magento_Captcha
@@ -1513,11 +1513,11 @@ Position,Placering,module,Magento_Catalog
 Day,Dag,module,Magento_Catalog
 Month,Måned,module,Magento_Catalog
 Year,År,module,Magento_Catalog
-from,from,module,Magento_Catalog
-to,to,module,Magento_Catalog
+from,fra,module,Magento_Catalog
+to,til,module,Magento_Catalog
 [GLOBAL],[GLOBAL],module,Magento_Catalog
 [WEBSITE],[WEBSITE],module,Magento_Catalog
-"[STORE VIEW]","[BUTIK Visning]",module,Magento_Catalog
+"[STORE VIEW]","[BUTIK VISNING]",module,Magento_Catalog
 "WYSIWYG Editor","WYSIWYG Editor",module,Magento_Catalog
 "Add Product","Tilføj produkt",module,Magento_Catalog
 label,etikette,module,Magento_Catalog
@@ -1530,7 +1530,7 @@ Cancel,Annuller,module,Magento_Catalog
 "Save and Continue Edit","Gem og fortsæt redigering",module,Magento_Catalog
 "Delete Attribute","Slet attributten",module,Magento_Catalog
 "Edit Product Attribute ""%1""","Rediger produkt attributten ""%1""",module,Magento_Catalog
-"New Product Attribute","Nyt produkt attribut",module,Magento_Catalog
+"New Product Attribute","Ny produkt attribut",module,Magento_Catalog
 "Advanced Attribute Properties","Egenskaber for avancerede attributter",module,Magento_Catalog
 "Attribute Code","Attribut kode",module,Magento_Catalog
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Dette bruges internt. Kontroller, at du ikke bruger mellemrum eller mere end %1 symboler.",module,Magento_Catalog
@@ -1768,7 +1768,7 @@ frontend_label,frontend_label,module,Magento_Catalog
 "Could not move category","Kunne ikke flytte kategori",module,Magento_Catalog
 "Could not save category: %1","Kunne ikke gemme kategori: %1",module,Magento_Catalog
 "Cannot delete category with id %1","Kan ikke slette kategori med id %1",module,Magento_Catalog
-"-- Please Select a Category --","-Vælg en kategori--",module,Magento_Catalog
+"-- Please Select a Category --","--Vælg en kategori--",module,Magento_Catalog
 "Grid Only","Kun gitter",module,Magento_Catalog
 "List Only","Kun liste",module,Magento_Catalog
 "Grid (default) / List","Gitter (standard) / liste",module,Magento_Catalog
@@ -2850,7 +2850,7 @@ items,varer,module,Magento_Checkout
 "The customer address is not valid.","Kundeadressen er ikke gyldig.",module,Magento_Checkout
 "Invalid shipping method","Ugyldig leveringsmetode",module,Magento_Checkout
 "There are more than one shipping addresses.","Der er mere end en leveringsadresse.",module,Magento_Checkout
-"Sorry, guest checkout is not available.","Desværre, er checkout-gæst ikke tilgængelig.",module,Magento_Checkout
+"Sorry, guest checkout is not available.","Desværre, er gæste checkout ikke tilgængelig.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Du skal bekræfte din konto. Tjek venligst din e-mail for bekræftelse link eller <a href=""%1""> Klik her</a> for et nyt link.",module,Magento_Checkout
 "Load customer quote error","Indlæs kundetilbudsfejl",module,Magento_Checkout
 "Error message!",Fejlmeddelelse!,module,Magento_Checkout
@@ -2889,7 +2889,7 @@ Loading...,Indlæser...,module,Magento_Checkout
 "Your order number is: %1.","Dit ordrenummer er: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Din ordre # er: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Vi sender dig en ordrebekræftelse med detaljer og tracking information.",module,Magento_Checkout
-"Payment Transaction Failed Reminder","Transaktionen mislykkedes påmindelse",module,Magento_Checkout
+"Payment Transaction Failed Reminder","Påmindelse om at transaktionen mislykkedes",module,Magento_Checkout
 "Payment Transaction Failed","Transaktionen mislykkedes",module,Magento_Checkout
 Reason,Årsag,module,Magento_Checkout
 "Checkout Type","Checkout type",module,Magento_Checkout
@@ -2972,7 +2972,7 @@ Payment,Betaling,module,Magento_Checkout
 "We received your order!","Vi har modtaget din bestilling!",module,Magento_Checkout
 "Thank you for your purchase!","Tak for dit køb!",module,Magento_Checkout
 Password,Adgangskode,module,Magento_Checkout
-"Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
+"Something went wrong while saving the page. Please refresh the page and try again.","Noget gik galt da vi prøvede at gemme siden. Prøv af genindlæse den og prøv igen.",module,Magento_Checkout
 "Item in Cart","Vare i indkøbskurv",module,Magento_Checkout
 "Items in Cart","varer i indkøbskurv",module,Magento_Checkout
 Close,Luk,module,Magento_Checkout
@@ -4016,10 +4016,10 @@ Searchable,Søgbar,module,Magento_ConfigurableProductStaging
 Comparable,Sammenlignelige,module,Magento_ConfigurableProductStaging
 "Page not found.","Siden blev ikke fundet.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
-"An error occurred while processing your form. Please try again later.","An error occurred while processing your form. Please try again later.",module,Magento_Contact
+"An error occurred while processing your form. Please try again later.","Der opstod en fejl da vi behandlede din formular. Prøv igen senere.",module,Magento_Contact
 "Name is missing","Name is missing",module,Magento_Contact
 "Comment is missing","Comment is missing",module,Magento_Contact
-"Invalid email address","Invalid email address",module,Magento_Contact
+"Invalid email address","Ugyldig e-mailadresse",module,Magento_Contact
 "* Required Fields","* Påkrævede felter",module,Magento_Contact
 "Write Us","Kontakt os",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Skriv til os og vi vil vende tilbage hurtigst muligt.",module,Magento_Contact
@@ -4311,7 +4311,7 @@ Customers,Kunder,module,Magento_Customer
 "Please enter a password with at least %1 characters.","Indtast en adgangskode med minimum %1 tegn.",module,Magento_Customer
 "The password can't begin or end with a space.","The password can't begin or end with a space.",module,Magento_Customer
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum af forskellige klasser af tegn i adgangskoden er %1. Klasser af tegn: små bogstaver, store bogstaver, cifre og specialtegn.",module,Magento_Customer
-"Password cannot be the same as email address.","Adgangskoden kan ikke være den samme som e-mail-adresse.",module,Magento_Customer
+"Password cannot be the same as email address.","Adgangskoden kan ikke være den samme som e-mailadressen.",module,Magento_Customer
 "This customer already exists in this store.","This customer already exists in this store.",module,Magento_Customer
 "A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website.",module,Magento_Customer
 "%fieldName is a required field.","%fieldName is a required field.",module,Magento_Customer
@@ -4340,7 +4340,7 @@ Admin,Admin,module,Magento_Customer
 """%1"" is an empty string.","""%1"" is an empty string.",module,Magento_Customer
 """%1"" contains non-numeric characters.","""%1"" contains non-numeric characters.",module,Magento_Customer
 """%1"" contains non-alphabetic characters.","""%1"" indeholder ikke-alfabetiske tegn.",module,Magento_Customer
-"""%1"" is not a valid email address.","""%1"" er ikke en gyldig e-mail-adresse.",module,Magento_Customer
+"""%1"" is not a valid email address.","""%1"" er ikke en gyldig e-mailadresse.",module,Magento_Customer
 """%1"" is not a valid hostname.","""%1"" er ikke et gyldigt værtsnavn.",module,Magento_Customer
 """%1"" uses too many characters.","""%1"" bruger alt for mange tegn.",module,Magento_Customer
 "'%value%' looks like an IP address, which is not an acceptable format.","'%value%' ligner en IP-adresse ikke er en acceptabel format.",module,Magento_Customer
@@ -4516,7 +4516,7 @@ Password:,Kodeord:,module,Magento_Customer
 "Your %store_name email has been changed","Din %store_name e-mail er blevet ændret",module,Magento_Customer
 "Hello,","Hej,",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","Vi har modtaget en anmodning om at ændre de følgende oplysninger i forbindelse med din konto på %store_name: e-mail.",module,Magento_Customer
-"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Hvis du ikke har godkendt denne handling bedes du kontakte os straks på <a href=""mailto:%store_email""> %store_email</a>",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Hvis du ikke har godkendt denne handling, skal du kontakte os straks på <a href=""mailto:%store_email""> %store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","eller ring til os på <a href=""tel:%store_phone""> %store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","Tak,<br>%store_name",module,Magento_Customer
 "Your %store_name email and password has been changed","Din %store_name e-mail og adgangskode er blevet ændret",module,Magento_Customer
@@ -4533,7 +4533,7 @@ Password:,Kodeord:,module,Magento_Customer
 "Track order history","Følg dine ordrer",module,Magento_Customer
 "Check out faster","Bestil hurtigere",module,Magento_Customer
 "Checkout using your account","Logind og bestil",module,Magento_Customer
-"Email Address","Email Address",module,Magento_Customer
+"Email Address","E-mail adresse",module,Magento_Customer
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Customer
 "Are you sure you want to delete this address?","Er du sikker på, at du vil slette denne adresse?",module,Magento_Customer
 Weak,Svag,module,Magento_Customer
@@ -4582,7 +4582,7 @@ Strong,Stærk,module,Magento_Customer
 "Recovery Link Expiration Period (hours)","Genskabelseslink udløbsperiode (timer)",module,Magento_Customer
 "Please enter a number 1 or greater in this field.","Indtast nummer 1 eller større i dette felt.",module,Magento_Customer
 "Number of Required Character Classes","Antallet af nødvendige karakter klasser",module,Magento_Customer
-"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Antallet af forskellige karakter klasser kræves adgangskode: små bogstaver, store bogstaver, cifre og specialtegn.",module,Magento_Customer
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Antallet af forskellige karakter klasser krævet i adgangskoden: små bogstaver, store bogstaver, cifre og specialtegn.",module,Magento_Customer
 "Minimum Password Length","Minimumlængde for adgangskode",module,Magento_Customer
 "Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_Customer
 "Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
@@ -4758,7 +4758,7 @@ Yes,Ja,module,Magento_CustomerCustomAttributes
 "New Form Type","New Form Type",module,Magento_CustomerCustomAttributes
 "Edit Form Type ""%1""","Edit Form Type ""%1""",module,Magento_CustomerCustomAttributes
 "General Information","Generel Information",module,Magento_CustomerCustomAttributes
-"-- Please Select --","-- Please Select --",module,Magento_CustomerCustomAttributes
+"-- Please Select --","-- Vælg venligst --",module,Magento_CustomerCustomAttributes
 "Based On","Baseret på",module,Magento_CustomerCustomAttributes
 "Form Label","Form Label",module,Magento_CustomerCustomAttributes
 "All Themes","All Themes",module,Magento_CustomerCustomAttributes
@@ -4824,7 +4824,7 @@ Address,Adresse,module,Magento_CustomerCustomAttributes
 "VAT Number",CVR-nummer,module,Magento_CustomerCustomAttributes
 City,By,module,Magento_CustomerCustomAttributes
 State/Province,Stat/region,module,Magento_CustomerCustomAttributes
-"Please select a region, state or province.","Vælg region, stat eller provins.",module,Magento_CustomerCustomAttributes
+"Please select a region, state or province.","Vælg venligst region, stat eller provins.",module,Magento_CustomerCustomAttributes
 "Zip/Postal Code",Postnummer,module,Magento_CustomerCustomAttributes
 Country,Land,module,Magento_CustomerCustomAttributes
 "This is your default billing address.","Dette er din standard faktureringsadresse.",module,Magento_CustomerCustomAttributes
@@ -5713,7 +5713,7 @@ Debug,Fejlsøgning,module,Magento_Eway
 "1 Day Freight","1 Day Freight",module,Magento_Fedex
 "2 Day Freight","2 Day Freight",module,Magento_Fedex
 "2 Day","2 dage",module,Magento_Fedex
-"2 Day AM","2 Dage AM",module,Magento_Fedex
+"2 Day AM","2 dage AM",module,Magento_Fedex
 "3 Day Freight","3 Day Freight",module,Magento_Fedex
 "Express Saver","Express Saver",module,Magento_Fedex
 Ground,Jord,module,Magento_Fedex
@@ -6129,10 +6129,10 @@ None,Ingen,module,Magento_GiftRegistry
 "Create Gift Registry","Create Gift Registry",module,Magento_GiftRegistry
 State/Province,Stat/region,module,Magento_GiftRegistry
 "Please select a region, state or province","Please select a region, state or province",module,Magento_GiftRegistry
-"Please Select","Please Select",module,Magento_GiftRegistry
+"Please Select","Vælg venligst",module,Magento_GiftRegistry
 "View Gift Registry %1","View Gift Registry %1",module,Magento_GiftRegistry
 "Share '%1' Gift Registry","Share '%1' Gift Registry",module,Magento_GiftRegistry
-"-- Please select --","-- Please select --",module,Magento_GiftRegistry
+"-- Please select --","-- Vælg venligst --",module,Magento_GiftRegistry
 From,Fra,module,Magento_GiftRegistry
 To,Til,module,Magento_GiftRegistry
 "Gift Registry Search","Gift Registry Search",module,Magento_GiftRegistry
@@ -6634,7 +6634,7 @@ Status,Status,module,Magento_ImportExport
 "ImportExport: Import Data validation - Validation strategy not found","ImportExport: Import Data validation - Validation strategy not found",module,Magento_ImportExport
 "Cannot get autoincrement value","Cannot get autoincrement value",module,Magento_ImportExport
 "Error in data structure: %1 values are mixed","Error in data structure: %1 values are mixed",module,Magento_ImportExport
-"-- Please Select --","-- Please Select --",module,Magento_ImportExport
+"-- Please Select --","-- Vælg venligst --",module,Magento_ImportExport
 label,etikette,module,Magento_ImportExport
 Add/Update,Add/Update,module,Magento_ImportExport
 Replace,Erstat,module,Magento_ImportExport
@@ -6927,7 +6927,7 @@ Link,Forbind,module,Magento_Invitation
 "Inviter Information","Inviter Information",module,Magento_Invitation
 Admin,Admin,module,Magento_Invitation
 "* Required Fields","* Required Fields",module,Magento_Invitation
-"Invite your friends by entering their email addresses","Inviter dine venner ved at indtaste deres E-mail adresser",module,Magento_Invitation
+"Invite your friends by entering their email addresses","Inviter dine venner ved at indtaste deres e-mailadresser",module,Magento_Invitation
 "Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_Invitation
 Add,Tilføj,module,Magento_Invitation
 "Back to Invitations","Back to Invitations",module,Magento_Invitation
@@ -7024,7 +7024,7 @@ label,etikette,module,Magento_Logging
 "You need more permissions to access this.","You need more permissions to access this.",module,Magento_Logging
 Success,Gennemført,module,Magento_Logging
 Failure,Fejlede,module,Magento_Logging
-Daily,Dagligt,module,Magento_Logging
+Daily,Daglig,module,Magento_Logging
 Weekly,Ugentlig,module,Magento_Logging
 Monthly,Månedlig,module,Magento_Logging
 "This user is locked","This user is locked",module,Magento_Logging
@@ -7432,7 +7432,7 @@ Items,Varer,module,Magento_Multishipping
 "Your order number is:","Dit ordrenummer er:",module,Magento_Multishipping
 "Continue Shopping","Fortsæt med at shoppe",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","Vi kan ikke fuldføre bestillingen, fordi du ikke har en betalingsmetode, der er oprettet.",module,Magento_Multishipping
-"Please choose a payment method.","Vælg venligst betalingsmetode.",module,Magento_Multishipping
+"Please choose a payment method.","Vælg venligst en betalingsmetode.",module,Magento_Multishipping
 "Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
 "Multishipping Settings","Multishipping Settings",module,Magento_Multishipping
 Options,Valgmuligheder,module,Magento_Multishipping
@@ -7502,7 +7502,7 @@ Discount,Rabat,module,Magento_NegotiableQuote
 "Grand Total to Be Charged","Grand Total to Be Charged",module,Magento_NegotiableQuote
 "Requested quote was not found","Requested quote was not found",module,Magento_NegotiableQuote
 Sales,Salg,module,Magento_NegotiableQuote
-Quotes,Citater,module,Magento_NegotiableQuote
+Quotes,Tilbud,module,Magento_NegotiableQuote
 "Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_NegotiableQuote
 "Something went wrong","Something went wrong",module,Magento_NegotiableQuote
 "Something went wrong during quote declining","Something went wrong during quote declining",module,Magento_NegotiableQuote
@@ -7535,7 +7535,7 @@ Quotes,Citater,module,Magento_NegotiableQuote
 "We can't update the items right now.","We can't update the items right now.",module,Magento_NegotiableQuote
 "We can't order the quote right now because of an error: %1.","We can't order the quote right now because of an error: %1.",module,Magento_NegotiableQuote
 "We can't order the quote right now.","We can't order the quote right now.",module,Magento_NegotiableQuote
-Quote,Citat,module,Magento_NegotiableQuote
+Quote,Tilbud,module,Magento_NegotiableQuote
 "This quote will be charged in %1. The prices are given in %2 as reference only.","This quote will be charged in %1. The prices are given in %2 as reference only.",module,Magento_NegotiableQuote
 "We can't send the quote right now because of an error: %1.","We can't send the quote right now because of an error: %1.",module,Magento_NegotiableQuote
 "We can't send the quote right now.","We can't send the quote right now.",module,Magento_NegotiableQuote
@@ -7756,7 +7756,7 @@ Price,Pris,module,Magento_NegotiableQuote
 "Quote Items","Quote Items",module,Magento_NegotiableQuote
 Update,Opdater,module,Magento_NegotiableQuote
 "No shipping information available.","No shipping information available.",module,Magento_NegotiableQuote
-"Contact Us","Contact Us",module,Magento_NegotiableQuote
+"Contact Us","Kontakt os",module,Magento_NegotiableQuote
 "Your quote number is: %1.","Your quote number is: %1.",module,Magento_NegotiableQuote
 "The quote has been sent to the merchant.","The quote has been sent to the merchant.",module,Magento_NegotiableQuote
 "Continue Shopping","Fortsæt med at handle",module,Magento_NegotiableQuote
@@ -7784,7 +7784,7 @@ Update,Opdater,module,Magento_NegotiableQuote
 "Expiration date for the Quote %quoteName has been reset so you can keep working on the quote.
     You can set a new expiration date if you wish.","Expiration date for the Quote %quoteName has been reset so you can keep working on the quote.
     You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
-Quote,Kvote,module,Magento_NegotiableQuote
+Quote,Tilbud,module,Magento_NegotiableQuote
 "updated by buyer","updated by buyer",module,Magento_NegotiableQuote
 "The seller responded to your quote","The seller responded to your quote",module,Magento_NegotiableQuote
 "The Quote expires after","The Quote expires after",module,Magento_NegotiableQuote
@@ -7975,7 +7975,7 @@ Subscribers,Abonnenter,module,Magento_Newsletter
 "This email address is already assigned to another user.","This email address is already assigned to another user.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.",module,Magento_Newsletter
 "Please enter a valid email address.","Angiv venligst en gyldig E-mail adresse.",module,Magento_Newsletter
-"This email address is already subscribed.","Denne e-mail adresse er allerede tilmeldt.",module,Magento_Newsletter
+"This email address is already subscribed.","Denne e-mailadresse er allerede tilmeldt.",module,Magento_Newsletter
 "The confirmation request has been sent.","The confirmation request has been sent.",module,Magento_Newsletter
 "Thank you for your subscription.","Tak for dit tilmelding.",module,Magento_Newsletter
 "There was a problem with the subscription: %1","There was a problem with the subscription: %1",module,Magento_Newsletter
@@ -8130,7 +8130,7 @@ Export,Eksport,module,Magento_OfflineShipping
 Import,Import,module,Magento_OfflineShipping
 "Free Shipping","Fri fragt",module,Magento_OfflineShipping
 "Minimum Order Amount","Minimum ordre mængde",module,Magento_OfflineShipping
-"-- Please Select --",--Vælg--,module,Magento_OfflineShipping
+"-- Please Select --","-- Vælg venligst --",module,Magento_OfflineShipping
 "Export VCL for Varnish %1","Export VCL for Varnish %1",module,Magento_PageCache
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.",module,Magento_PageCache
 "Built-in Cache","Built-in Cache",module,Magento_PageCache
@@ -8198,7 +8198,7 @@ No,Nej,module,Magento_Payment
 "is not available. You still can process offline actions.","is not available. You still can process offline actions.",module,Magento_Payment
 "Please Select","Vælg venligst",module,Magento_Payment
 "We'll ask for your payment details before you place an order.","Vi vil bede om dine betalingsoplysninger, før du afgiver en ordre.",module,Magento_Payment
-"--Please Select--","--Vælg venligst--",module,Magento_Payment
+"--Please Select--","-- Vælg venligst --",module,Magento_Payment
 "Card Verification Number Visual Reference","Card Verification Number Visual Reference",module,Magento_Payment
 "What is this?","Hvad er dette?",module,Magento_Payment
 "Credit Card Information",Kreditkortoplysninger,module,Magento_Payment
@@ -8463,7 +8463,7 @@ Event,Begivenhed,module,Magento_Paypal
 "Fee Debit or Credit","Fee Debit or Credit",module,Magento_Paypal
 "Fee Amount","Fee Amount",module,Magento_Paypal
 Custom,Brugerdefineret,module,Magento_Paypal
-"Order ID",Ordre-ID,module,Magento_Paypal
+"Order ID","Ordre ID",module,Magento_Paypal
 "Preapproved Payment ID","Preapproved Payment ID",module,Magento_Paypal
 "Subscription ID","Subscription ID",module,Magento_Paypal
 Credit,Kredit,module,Magento_Paypal
@@ -8551,8 +8551,8 @@ Void,Ugyldig,module,Magento_Paypal
 "Header (center)","Header (center)",module,Magento_Paypal
 "Sidebar (right)","Sidebar (right)",module,Magento_Paypal
 "Near PayPal Credit checkout button","Near PayPal Credit checkout button",module,Magento_Paypal
-"--Please Select--","--Please Select--",module,Magento_Paypal
-Daily,Dagligt,module,Magento_Paypal
+"--Please Select--","-- Vælg venligst --",module,Magento_Paypal
+Daily,Daglig,module,Magento_Paypal
 "Every 3 days","Every 3 days",module,Magento_Paypal
 "Every 7 days","Every 7 days",module,Magento_Paypal
 "Every 10 days","Every 10 days",module,Magento_Paypal
@@ -8568,7 +8568,7 @@ Daily,Dagligt,module,Magento_Paypal
 "PayPal Canceled Reversal","PayPal Canceled Reversal",module,Magento_Paypal
 Error,Fejl,module,Magento_Paypal
 "Billing Agreement",Faktureringsaftale,module,Magento_Paypal
-"Please Select","Please Select",module,Magento_Paypal
+"Please Select","Vælg venligst",module,Magento_Paypal
 Customer,Kunde,module,Magento_Paypal
 "Created At","Created At",module,Magento_Paypal
 "Updated At","Updated At",module,Magento_Paypal
@@ -8604,7 +8604,7 @@ View,Vis,module,Magento_Paypal
 "There are no billing agreements yet.","Der er endnu ikke oprettet faktureringsaftale.",module,Magento_Paypal
 "New Billing Agreement","New Billing Agreement",module,Magento_Paypal
 "You will be redirected to the payment system website.","You will be redirected to the payment system website.",module,Magento_Paypal
-"-- Please Select --",--Vælg--,module,Magento_Paypal
+"-- Please Select --","-- Vælg venligst --",module,Magento_Paypal
 Create...,Opret...,module,Magento_Paypal
 "Your credit card will be charged for","Dit kreditkort vil blive opkrævet for",module,Magento_Paypal
 "Your billing agreement # is:","Your billing agreement # is:",module,Magento_Paypal
@@ -8631,7 +8631,7 @@ or,eller,module,Magento_Paypal
 "You will be required to enter your payment details after you place an order.","You will be required to enter your payment details after you place an order.",module,Magento_Paypal
 Continue,Fortsæt,module,Magento_Paypal
 "Additional Options","Additional Options",module,Magento_Paypal
-"-- Please Select Billing Agreement--","-- Vælg faktureringsaftale --",module,Magento_Paypal
+"-- Please Select Billing Agreement--","-- Vælg en faktureringsaftale --",module,Magento_Paypal
 "Acceptance Mark","Acceptance Mark",module,Magento_Paypal
 "What is PayPal?","What is PayPal?",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
@@ -9040,7 +9040,7 @@ Subtotal,Subtotal,module,Magento_Quote
 "Some addresses cannot be used due to country-specific configurations.","Some addresses cannot be used due to country-specific configurations.",module,Magento_Quote
 "Please specify a shipping method.","Angiv en leveringsmetode.",module,Magento_Quote
 "Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
-"Please select a valid payment method.","Please select a valid payment method.",module,Magento_Quote
+"Please select a valid payment method.","Vælg en gyldig betalingsmetode.",module,Magento_Quote
 "Store Credit","Store Credit",module,Magento_Quote
 Discount,Rabat,module,Magento_Quote
 Tax,Moms,module,Magento_Quote
@@ -9300,7 +9300,7 @@ Uses,Anvendelser,module,Magento_Reports
 "Sales Total","Sales Total",module,Magento_Reports
 Discount,Rabat,module,Magento_Reports
 "Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report",module,Magento_Reports
-Orders,Ordre,module,Magento_Reports
+Orders,Ordrer,module,Magento_Reports
 "Invoiced Orders","Invoiced Orders",module,Magento_Reports
 "Total Invoiced","Total Invoiced",module,Magento_Reports
 "Paid Invoices","Paid Invoices",module,Magento_Reports
@@ -9513,7 +9513,7 @@ Rename,Omdøb,module,Magento_RequisitionList
 items,varer,module,Magento_RequisitionList
 item,vare,module,Magento_RequisitionList
 "in requisition list","in requisition list",module,Magento_RequisitionList
-"Contact Us","Contact Us",module,Magento_RequisitionList
+"Contact Us","Kontakt os",module,Magento_RequisitionList
 "Add to Cart","Add to Cart",module,Magento_RequisitionList
 "Update List","Update List",module,Magento_RequisitionList
 "Delete Requisition List","Delete Requisition List",module,Magento_RequisitionList
@@ -10099,9 +10099,9 @@ Message,Besked,module,Magento_Rma
 "Request Details","Request Details",module,Magento_Rma
 ID,ID,module,Magento_Rma
 #,#,module,Magento_Rma
-"Order ID",Ordre-ID,module,Magento_Rma
+"Order ID","Ordre ID",module,Magento_Rma
 "Customer Name","Customer Name",module,Magento_Rma
-"Email Address","Email Address",module,Magento_Rma
+"Email Address","E-mail adresse",module,Magento_Rma
 "RMA History","RMA History",module,Magento_Rma
 "Comment Text","Comment Text",module,Magento_Rma
 "Notify Customer by Email","Notify Customer by Email",module,Magento_Rma
@@ -10312,7 +10312,7 @@ Message,Besked,module,Magento_Sales
 Configure,Konfigurer,module,Magento_Sales
 "This product does not have any configurable options","Dette produkt har ikke nogen konfigurerbare indstillinger",module,Magento_Sales
 "Newsletter Subscription","Nyhedsbrev abonnement",module,Magento_Sales
-"Please select products","Vælg produkter",module,Magento_Sales
+"Please select products","Vælg venligst produkter",module,Magento_Sales
 "Add Selected Product(s) to Order","Tilføj valgte produkt(er) til ordre",module,Magento_Sales
 ID,ID,module,Magento_Sales
 Product,Produkt,module,Magento_Sales
@@ -10794,7 +10794,7 @@ Subtotal:,Subtotal:,module,Magento_Sales
 "Click to change shipping method","Click to change shipping method",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Desværre, ingen produkter er tilgængelige for denne ordre.",module,Magento_Sales
 "Get shipping methods and rates","Get shipping methods and rates",module,Magento_Sales
-"You don't need to select a shipping method.","You don't need to select a shipping method.",module,Magento_Sales
+"You don't need to select a shipping method.","Du behøver ikke at angive en leveringsmetode.",module,Magento_Sales
 "Customer's Activities","Customer's Activities",module,Magento_Sales
 Refresh,Opdatér,module,Magento_Sales
 Item,Vare,module,Magento_Sales
@@ -11078,7 +11078,7 @@ Invoices,Fakturaer,module,Magento_SalesArchive
 "We archived %1 order(s).","We archived %1 order(s).",module,Magento_SalesArchive
 "We can't archive the selected order(s).","We can't archive the selected order(s).",module,Magento_SalesArchive
 "We removed %1 order(s) from the archive.","We removed %1 order(s) from the archive.",module,Magento_SalesArchive
-Orders,Ordre,module,Magento_SalesArchive
+Orders,Ordrer,module,Magento_SalesArchive
 "We have removed the order from the archive.","We have removed the order from the archive.",module,Magento_SalesArchive
 "Please specify the order ID to be removed from archive.","Please specify the order ID to be removed from archive.",module,Magento_SalesArchive
 Shipments,Shipments,module,Magento_SalesArchive
@@ -11230,7 +11230,7 @@ Subtotal,Subtotal,module,Magento_SalesRule
 "Shipping Method",Leveringsmetode,module,Magento_SalesRule
 "Shipping Postcode","Shipping Postcode",module,Magento_SalesRule
 "Shipping Region","Shipping Region",module,Magento_SalesRule
-"Shipping State/Province","Shipping State/Province",module,Magento_SalesRule
+"Shipping State/Province","Leverings stat/provins",module,Magento_SalesRule
 "Shipping Country","Shipping Country",module,Magento_SalesRule
 "Product attribute combination","Product attribute combination",module,Magento_SalesRule
 "Products subselection","Products subselection",module,Magento_SalesRule
@@ -11638,7 +11638,7 @@ Exception.,Exception.,module,Magento_SendFriend
 "Remove Recipent","Remove Recipent",module,Magento_SendFriend
 Remove,Fjern,module,Magento_SendFriend
 Name,Navn,module,Magento_SendFriend
-Email,e-mail,module,Magento_SendFriend
+Email,E-mail,module,Magento_SendFriend
 "* Required Fields","* Påkrævede felter",module,Magento_SendFriend
 Sender,Afsender,module,Magento_SendFriend
 Message,Besked,module,Magento_SendFriend
@@ -12026,7 +12026,7 @@ UNSET,FRAVÆLG,module,Magento_Signifyd
 NULL,NUL,module,Magento_Signifyd
 APPROVED,GODKENDT,module,Magento_Signifyd
 DECLINED,AFVIST,module,Magento_Signifyd
-PENDING,VENTENDE,module,Magento_Signifyd
+PENDING,AFVENTER,module,Magento_Signifyd
 CANCELED,ANNULLERET,module,Magento_Signifyd
 IN_REVIEW,IN_REVIEW,module,Magento_Signifyd
 Approved,Godkendt,module,Magento_Signifyd
@@ -12238,7 +12238,7 @@ Description,Beskrivelse,module,Magento_Staging
 "Store is inactive","Store is inactive",module,Magento_Store
 "Default store is inactive","Default store is inactive",module,Magento_Store
 "All Store Views","All Store Views",module,Magento_Store
-"-- Please Select --","-- Please Select --",module,Magento_Store
+"-- Please Select --","-- Vælg venligst --",module,Magento_Store
 Admin,Admin,module,Magento_Store
 "Default website is not defined","Default website is not defined",module,Magento_Store
 "More than one default website is defined","More than one default website is defined",module,Magento_Store
@@ -12597,7 +12597,7 @@ less,mindre,module,Magento_TargetRule
 "Please define a product data object.","Please define a product data object.",module,Magento_TargetRule
 "We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_TargetRule
 "Could not rebuild index for empty products array","Could not rebuild index for empty products array",module,Magento_TargetRule
-"-- Please Select --","-- Please Select --",module,Magento_TargetRule
+"-- Please Select --","-- Vælg venligst --",module,Magento_TargetRule
 "Related Products","Related Products",module,Magento_TargetRule
 Up-sells,Op-sælge,module,Magento_TargetRule
 Cross-sells,Cross-sells,module,Magento_TargetRule
@@ -13442,8 +13442,8 @@ Role,Rolle,module,Magento_User
 "Your password reset link has expired.","Dit link til nulstilling af adgangskode er udløbet.",module,Magento_User
 "We're unable to send the password reset email.","Vi kan ikke sende password reset e-mail.",module,Magento_User
 "We'll email you a link to reset your password.","We'll email you a link to reset your password.",module,Magento_User
-"Please correct this email address:","Ret venligst denne e-mail-adresse:",module,Magento_User
-"Please enter an email address.","Indtast en mailadresse.",module,Magento_User
+"Please correct this email address:","Ret venligst denne e-mailadresse:",module,Magento_User
+"Please enter an email address.","Indtast en e-mailadresse.",module,Magento_User
 "You updated your password.","Du har opdateret din adgangskode.",module,Magento_User
 "Locked Users","Locked Users",module,Magento_User
 "Unlocked %1 user(s).","Unlocked %1 user(s).",module,Magento_User
@@ -13999,7 +13999,7 @@ Close,Luk,module,Magento_Widget
 "Not Selected","Not Selected",module,Magento_Widget
 Widget,Widget,module,Magento_Widget
 "Widget Type","Widget Type",module,Magento_Widget
-"-- Please Select --","-- Please Select --",module,Magento_Widget
+"-- Please Select --","-- Vælg venligst --",module,Magento_Widget
 "Manage Widget Instances","Manage Widget Instances",module,Magento_Widget
 "Add Widget","Add Widget",module,Magento_Widget
 "Save and Continue Edit","Save and Continue Edit",module,Magento_Widget
@@ -14082,7 +14082,7 @@ Conditions,Conditions,module,Magento_Widget
 "We can't delete the item from Wish List right now because of an error: %1.","We can't delete the item from Wish List right now because of an error: %1.",module,Magento_Wishlist
 "We can't delete the item from the Wish List right now.","We can't delete the item from the Wish List right now.",module,Magento_Wishlist
 "Message length must not exceed %1 symbols","Besked længde må ikke overstige %1 tegn",module,Magento_Wishlist
-"Please enter an email address.","Indtast en mailadresse.",module,Magento_Wishlist
+"Please enter an email address.","Indtast en e-mailadresse.",module,Magento_Wishlist
 "This wish list can be shared %1 more times.","Denne ønskeliste kan være delt %1 flere gange.",module,Magento_Wishlist
 "Please enter a valid email address.","Angiv venligst en gyldig e-mail adresse.",module,Magento_Wishlist
 "Your wish list has been shared.","Din ønskeliste er blevet delt.",module,Magento_Wishlist
@@ -14138,7 +14138,7 @@ Edit,Rediger,module,Magento_Wishlist
 "Add to Compare","Tilføj for at sammenligne",module,Magento_Wishlist
 "This Wish List has no Items","Denne ønskeliste indeholder ingen elementer",module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
-"Click <a href=""%1"">here</a> to continue shopping.","Klik <a href=""%1""> her</a> for at fortsætte med shopping.",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Klik <a href=""%1""> her</a> for at fortsætte med at handle.",module,Magento_Wishlist
 "See Details","See Details",module,Magento_Wishlist
 "Options Details","Options Details",module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS link to %1's wishlist",module,Magento_Wishlist
@@ -14238,7 +14238,7 @@ Debug,Fejlsøgning,module,Magento_Worldpay
 "Your payment has been successfully processed by our shop system.","Your payment has been successfully processed by our shop system.",module,Magento_Worldpay
 Summary,Resumé,theme,frontend/Magento/blank
 "Account Information","Konto Information",theme,frontend/Magento/blank
-"Address Book",Adresser,theme,frontend/Magento/blank
+"Address Book",Adressebog,theme,frontend/Magento/blank
 Menu,Menu,theme,frontend/Magento/blank
 Account,Konto,theme,frontend/Magento/blank
 Settings,Indstillinger,theme,frontend/Magento/blank
@@ -14279,7 +14279,7 @@ Footer,Sidefod,theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Din kredit Memo #%creditmemo_id for ordre #%order_id",theme,frontend/Magento/luma
 "Billing Info","Fakturering Info",theme,frontend/Magento/luma
 "Shipping Info","Fragt information",theme,frontend/Magento/luma
-"Payment Method",Betalingsmåde,theme,frontend/Magento/luma
+"Payment Method",Betalingsmetode,theme,frontend/Magento/luma
 "Shipping Method",Forsendelsesmetode,theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Opdaterer til din %store_name kreditnota",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Din ordre #%increment_id er blevet opdateret med en status for <strong>%order_status</strong>.",theme,frontend/Magento/luma
