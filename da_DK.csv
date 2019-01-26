@@ -279,10 +279,10 @@ Configuration,Konfiguration,module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.",module,Magento_Analytics
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.","Denne service giver en dynamisk suite af rapporter med omfattende indsigt om din virksomhed.
+                dine rapporter kan tilgås sikkert på et personligt dashboard uden for admin panel ved at klikke på linket
+                ""Gå til avanceret rapportering"". </br> for mere information, se vores <a href=""https://magento.com/legal/terms/privacy"">
+                forretningsbetingelser</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Avanceret rapport service",module,Magento_Analytics
 Industry,Industri,module,Magento_Analytics
 "Time of day to send data","Tidspunkt på dagen at sende data",module,Magento_Analytics
@@ -759,10 +759,10 @@ Services,Tjenester,module,Magento_Backend
 Advanced,Avanceret,module,Magento_Backend
 "Disable Modules Output","Slå Modul Output fra",module,Magento_Backend
 "Store Email Addresses","Butiks e-mailadresser",module,Magento_Backend
-"Custom Email 1","Custom Email 1",module,Magento_Backend
+"Custom Email 1","Brugedefineret E-mail 1",module,Magento_Backend
 "Sender Email","Afsender E-mail",module,Magento_Backend
 "Sender Name","Afsender navn",module,Magento_Backend
-"Custom Email 2","Custom Email 2",module,Magento_Backend
+"Custom Email 2","Brugerdefineret E-mail 2",module,Magento_Backend
 "General Contact","Hoved kontakt",module,Magento_Backend
 "Sales Representative",Sælger,module,Magento_Backend
 "Customer Support",Kundeservice,module,Magento_Backend
@@ -2076,7 +2076,7 @@ Role,Rolle,module,Magento_Catalog
 "Special Price","Special pris",module,Magento_Catalog
 "Regular Price",Normalpris,module,Magento_Catalog
 "Buy %1 for:","Køb %1 til:",module,Magento_Catalog
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Køb %1 for %2 per styk og <strong class=""benefit"">spar<span class=""percent tier-%3"">&nbsp;%4%</span></strong>",module,Magento_Catalog
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Køb %1 for %2 pr styk og <strong class=""benefit"">spar<span class=""percent tier-%3"">&nbsp;%4%</span></strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Købe %1 til %2 hver",module,Magento_Catalog
 "Shop By",Filtre,module,Magento_Catalog
 "Shopping Options","Filtrér efter",module,Magento_Catalog
@@ -2914,7 +2914,7 @@ Cancel,Annullér,module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Du har allerede en konto hos os. Log ind eller fortsæt som gæst.",module,Magento_Checkout
 Login,"Log ind",module,Magento_Checkout
 "See Details","Se detaljer",module,Magento_Checkout
-"Options Details","Detaljer for optioner",module,Magento_Checkout
+"Options Details","Detaljer for valgmuligheder",module,Magento_Checkout
 Remove,Fjern,module,Magento_Checkout
 "Cart Subtotal","Kurv subtotal",module,Magento_Checkout
 "Payment Information",Betalingsoplysninger,module,Magento_Checkout
@@ -2943,7 +2943,7 @@ Shipping,Levering,module,Magento_Checkout
 "Please specify a shipping method.","Angiv en leveringsmetode.",module,Magento_Checkout
 "Checkout Options","Checkout valg",module,Magento_Checkout
 "Enable Onepage Checkout","Aktiver one-page checkout",module,Magento_Checkout
-"Allow Guest Checkout","Tillad Checkout-gæst",module,Magento_Checkout
+"Allow Guest Checkout","Tillad gæste checkout",module,Magento_Checkout
 "Display Billing Address On","Vis faktureringsadresse på",module,Magento_Checkout
 "Maximum Number of Items to Display in Order Summary","Maksimalt antal af produkter som vises på ordre opsummeringen",module,Magento_Checkout
 "Quote Lifetime (days)","Tilbudets levetid (dage)",module,Magento_Checkout
@@ -3029,11 +3029,11 @@ Reset,Nulstil,module,Magento_Cms
 "Save Block","Gem blok",module,Magento_Cms
 ID,ID,module,Magento_Cms
 Title,Titel,module,Magento_Cms
-Identifier,Identifier,module,Magento_Cms
+Identifier,Identifikator,module,Magento_Cms
 Status,Status,module,Magento_Cms
 Disabled,Deaktiveret,module,Magento_Cms
 Enabled,Aktiveret,module,Magento_Cms
-"Manage Pages","Administrere sider",module,Magento_Cms
+"Manage Pages","Administrer sider",module,Magento_Cms
 "Add New Page","Tilføj ny side",module,Magento_Cms
 "Delete Page","Slet side",module,Magento_Cms
 "Save Page","Gem siden",module,Magento_Cms
@@ -3060,11 +3060,11 @@ CMS,CMS,module,Magento_Cms
 "You deleted the block.","Du slettede blokken.",module,Magento_Cms
 "We can't find a block to delete.","We can't find a block to delete.",module,Magento_Cms
 "This block no longer exists.","Denne blok eksisterer ikke længere.",module,Magento_Cms
-"Edit Block","Redigere blok",module,Magento_Cms
+"Edit Block","Rediger blok",module,Magento_Cms
 "New Block","Ny blok",module,Magento_Cms
 Blocks,Blokke,module,Magento_Cms
-"Please correct the data sent.","Venligst korrigere de data der sendes.",module,Magento_Cms
-"A total of %1 record(s) have been deleted.","Ialt %1 post(er) er blevet slettet.",module,Magento_Cms
+"Please correct the data sent.","Ret venligst dataen der sendes.",module,Magento_Cms
+"A total of %1 record(s) have been deleted.","I alt %1 post(er) er blevet slettet.",module,Magento_Cms
 "You saved the block.","Du gemte blokken.",module,Magento_Cms
 "Something went wrong while saving the block.","Noget gik galt da blokken skulle gemmes.",module,Magento_Cms
 "The page has been deleted.","Siden er blevet slettet.",module,Magento_Cms
@@ -3078,13 +3078,13 @@ Pages,Sider,module,Magento_Cms
 "A total of %1 record(s) have been enabled.","Ialt %1 post(er) er blevet aktiveret.",module,Magento_Cms
 "Page Title",Sidetitel,module,Magento_Cms
 "To apply changes you should fill in hidden required ""%1"" field","For at anvende ændringer bør du udfylde skjult og krævet ""%1"" felt",module,Magento_Cms
-"You saved the page.","Du har gemt siden.",module,Magento_Cms
+"You saved the page.","Du gemte siden.",module,Magento_Cms
 "The directory %1 is not writable by server.","Mappen %1 er ikke skrivbar for serveren.",module,Magento_Cms
-"Make sure that static block content does not reference the block itself.","Sørg for, at statisk blok indhold ikke refererer til sig selv.",module,Magento_Cms
+"Make sure that static block content does not reference the block itself.","Sørg for, at den statiske blok indhold ikke refererer til sig selv.",module,Magento_Cms
 "CMS Block with id ""%1"" does not exist.","CMS blok med id ""%1"" findes ikke.",module,Magento_Cms
 "Enabled by Default","Aktiveret som standard",module,Magento_Cms
 "Disabled by Default","Deaktiveret som standard",module,Magento_Cms
-"Disabled Completely","Komplet deaktiveret",module,Magento_Cms
+"Disabled Completely","Helt deaktiveret",module,Magento_Cms
 "This identifier is reserved for ""CMS No Route Page"" in configuration.","Dette id er reserveret til ""CMS No Route Page"" i konfiguration.",module,Magento_Cms
 "This identifier is reserved for ""CMS Home Page"" in configuration.","Dette identifier er reserveret til ""CMS hjemmeside"" i konfiguration.",module,Magento_Cms
 "This identifier is reserved for ""CMS No Cookies Page"" in configuration.","Dette id er reserveret til ""CMS No Cookies Page"" i konfiguration.",module,Magento_Cms
@@ -3145,23 +3145,23 @@ Template,Skabelon,module,Magento_Cms
 Block,Blok,module,Magento_Cms
 "Select Block...","Vælg blok...",module,Magento_Cms
 "CMS Static Block Default Template","CMS statisk blok standardskabelon",module,Magento_Cms
-"General Information","Generelle informationer",module,Magento_Cms
-"Enable Block","Aktivere blok",module,Magento_Cms
+"General Information","Generel informationer",module,Magento_Cms
+"Enable Block","Aktiver blok",module,Magento_Cms
 "Block Title","Blok titel",module,Magento_Cms
 "Are you sure you want to delete selected items?","Er du sikker på at du vil slette de(t) valgte element(er)?",module,Magento_Cms
 "Delete items","Slet elementer",module,Magento_Cms
 "Page Information",Sideinformation,module,Magento_Cms
-"Enable Page","Aktivere side",module,Magento_Cms
+"Enable Page","Aktiver side",module,Magento_Cms
 Content,Indhold,module,Magento_Cms
 "Content Heading","Indholds overskrift",module,Magento_Cms
 "Search Engine Optimization","Search Engine Optimization",module,Magento_Cms
 "Meta Title",Metatitel,module,Magento_Cms
-"Meta Keywords","Meta Nøgleord",module,Magento_Cms
+"Meta Keywords",Metanøgleord,module,Magento_Cms
 "Meta Description",Metabeskrivelse,module,Magento_Cms
 "Page in Websites","Sider på websider",module,Magento_Cms
 Design,Design,module,Magento_Cms
-"Layout Update XML","Layoutopdatering XML",module,Magento_Cms
-"Custom Design Update","Brugerdefinerede design opdatering",module,Magento_Cms
+"Layout Update XML","XML Layoutopdatering",module,Magento_Cms
+"Custom Design Update","Brugerdefinerede designopdatering",module,Magento_Cms
 From,Fra,module,Magento_Cms
 To,Til,module,Magento_Cms
 "New Theme","Nyt tema",module,Magento_Cms
@@ -4127,7 +4127,7 @@ Email,E-mail,module,Magento_CustomAttributeManagement
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.",module,Magento_CustomAttributeManagement
 "Sign Out","Log ud",module,Magento_Customer
 "Sign In","Log ind",module,Magento_Customer
-"You are subscribed to our newsletter.","Du er nu tilmeldt vores nyhedsbrev.",module,Magento_Customer
+"You are subscribed to our newsletter.","Du er tilmeldt vores nyhedsbrev.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","Du er ikke tilmeldt vores nyhedsbrev.",module,Magento_Customer
 "You have not set a default shipping address.","Du har ikke angivet en standard forsendelsesadresse.",module,Magento_Customer
 "You have not set a default billing address.","Du har ikke angivet en standard faktureringsadresse.",module,Magento_Customer
@@ -4157,27 +4157,27 @@ Configure,Konfigurer,module,Magento_Customer
 Delete,Slet,module,Magento_Customer
 "Shopping Cart from %1","Indkøbskurv fra %1",module,Magento_Customer
 Newsletter,Nyhedsbrev,module,Magento_Customer
-"Newsletter Information","Nyhedsbrev oplysninger",module,Magento_Customer
+"Newsletter Information","Oplysnigner om nyhedsbrevet",module,Magento_Customer
 "Subscribed to Newsletter","Tilmeldt nyhedsbrev",module,Magento_Customer
 "Last Date Subscribed","Last Date Subscribed",module,Magento_Customer
 "Last Date Unsubscribed","Last Date Unsubscribed",module,Magento_Customer
-"No Newsletter Found","Ingen nyhedsbrev fundet",module,Magento_Customer
+"No Newsletter Found","Intet nyhedsbrev fundet",module,Magento_Customer
 "Start date",Startdato,module,Magento_Customer
 "End Date",Slutdato,module,Magento_Customer
-"Receive Date","Modtaget dato",module,Magento_Customer
+"Receive Date","Modtag dato",module,Magento_Customer
 Subject,Emne,module,Magento_Customer
 Status,Status,module,Magento_Customer
 Sent,Sendt,module,Magento_Customer
-Cancel,Annullér,module,Magento_Customer
+Cancel,Annuller,module,Magento_Customer
 "Not Sent","Ikke sendt",module,Magento_Customer
 Sending,Sender,module,Magento_Customer
 Paused,"På pause",module,Magento_Customer
-View,Vis,module,Magento_Customer
+View,Visning,module,Magento_Customer
 Unknown,Ukendt,module,Magento_Customer
 Order,Ordre,module,Magento_Customer
 Purchased,Købt,module,Magento_Customer
-"Bill-to Name","Faktura navn",module,Magento_Customer
-"Ship-to Name","Leverings navn",module,Magento_Customer
+"Bill-to Name",Fakturanavn,module,Magento_Customer
+"Ship-to Name",Leveringsnavn,module,Magento_Customer
 "Order Total",Ordretotal,module,Magento_Customer
 "Purchase Point","Purchase Point",module,Magento_Customer
 "Customer View","Customer View",module,Magento_Customer
@@ -4213,12 +4213,12 @@ Download,Download,module,Magento_Customer
 "Edit Customer Group ""%1""","Rediger kundegruppe ""%1""",module,Magento_Customer
 "Group Information",Gruppeoplysninger,module,Magento_Customer
 "Group Name",Gruppenavn,module,Magento_Customer
-"Maximum length must be less then %1 characters.","Maksimumlængden skal være mindre end %1 tegn.",module,Magento_Customer
+"Maximum length must be less then %1 characters.","Maksimumlængden skal være kortere end %1 tegn.",module,Magento_Customer
 "Tax Class",Momsklasse,module,Magento_Customer
 "The customer is now assigned to Customer Group %s.","The customer is now assigned to Customer Group %s.",module,Magento_Customer
 "Would you like to change the Customer Group for this order?","Vil du gerne ændre kundegruppen for denne ordre?",module,Magento_Customer
-"The VAT ID is valid.","Moms-ID er gyldigt.",module,Magento_Customer
-"The VAT ID entered (%s) is not a valid VAT ID.","Det indtastet moms-ID (%s) er ikke et gyldigt momsnummer.",module,Magento_Customer
+"The VAT ID is valid.","CVR nummeret er gyldigt.",module,Magento_Customer
+"The VAT ID entered (%s) is not a valid VAT ID.","Det indtastet CVR nummer (%s) er ikke et gyldigt CVR nummer.",module,Magento_Customer
 "The VAT ID is valid. The current Customer Group will be used.","The VAT ID is valid. The current Customer Group will be used.",module,Magento_Customer
 "The VAT ID is valid but no Customer Group is assigned for it.","The VAT ID is valid but no Customer Group is assigned for it.",module,Magento_Customer
 "Based on the VAT ID, the customer belongs to the Customer Group %s.","Based on the VAT ID, the customer belongs to the Customer Group %s.",module,Magento_Customer
@@ -4227,13 +4227,13 @@ Download,Download,module,Magento_Customer
 "There was an error detecting Customer Group.","There was an error detecting Customer Group.",module,Magento_Customer
 "Validate VAT Number","Valider CVR-nummer",module,Magento_Customer
 "Customer Login","Kunde login",module,Magento_Customer
-"Create New Customer Account","Opret ny kunde konto",module,Magento_Customer
+"Create New Customer Account","Opret konto",module,Magento_Customer
 "Date of Birth",Fødselsdag,module,Magento_Customer
 "Bad request.","Bad request.",module,Magento_Customer
 "This confirmation key is invalid or has expired.","Denne bekræftelse nøgle er ugyldig eller er udløbet.",module,Magento_Customer
 "There was an error confirming the account","Der opstod en fejl under bekræftelsen af kontoen",module,Magento_Customer
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Hvis du er en registreret moms kunde klik <a href=""%1"">her</a> for at angive din leveringsadresse så der kan laves en korrekt momsberegning.",module,Magento_Customer
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","Hvis du er en registreret moms kunde klik <a href=""%1"">her</a> for at angive din faktureringssadresse så der kan laves en korrekt momsberegning.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Hvis du er en registreret moms kunde klik <a href=""%1"">her</a> for at angive din leveringsadresse, så der kan laves en korrekt momsberegning.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","Hvis du er en registreret moms kunde klik <a href=""%1"">her</a>, for at angive din faktureringssadresse så der kan laves en korrekt momsberegning.",module,Magento_Customer
 "Thank you for registering with %1.","Tak for din registrering med %1.",module,Magento_Customer
 "Please check your email for confirmation key.","Tjek venligst din e-mail for bekræftelse nøgle.",module,Magento_Customer
 "This email does not require confirmation.","Denne e-mail kræver ikke bekræftelse.",module,Magento_Customer
@@ -4248,7 +4248,7 @@ Download,Download,module,Magento_Customer
 "Account Information","Konto Information",module,Magento_Customer
 "You saved the account information.","Du gemte kontooplysningerne.",module,Magento_Customer
 "You did not sign in correctly or your account is temporarily disabled.","Du har ikke logget ind korrekt eller din konto er midlertidig deaktiveret.",module,Magento_Customer
-"Password confirmation doesn't match entered password.","Kodeords bekræftelsen stemmer ikke overens med det indtastede password.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","Kodeords bekræftelsen stemmer ikke overens med det indtastede kodeord.",module,Magento_Customer
 "The password doesn't match this account.","The password doesn't match this account.",module,Magento_Customer
 "Please correct the email address.","Ret venligst e-mail-adressen.",module,Magento_Customer
 "We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
@@ -4283,16 +4283,16 @@ Customers,Kunder,module,Magento_Customer
 "Customer could not be deleted.","Kunden kunne ikke slettes.",module,Magento_Customer
 "You deleted the customer.","Du har slettet kunden.",module,Magento_Customer
 "Something went wrong while editing the customer.","Noget gik galt under redigeringen af kunden.",module,Magento_Customer
-"Manage Customers","Administrere kunder",module,Magento_Customer
-"Please correct the data sent.","Venligst korrigere de data der sendes.",module,Magento_Customer
+"Manage Customers","Administrer kunder",module,Magento_Customer
+"Please correct the data sent.","Ret venligst den sendte data.",module,Magento_Customer
 "A total of %1 record(s) were updated.","Ialt %1 post(er) blev opdateret.",module,Magento_Customer
 "A total of %1 record(s) were deleted.","Ialt %1 post(er) blev slettet.",module,Magento_Customer
 "The customer will receive an email with a link to reset password.","Kunden vil modtage en e-mail med et link til nulstilling af adgangskoden.",module,Magento_Customer
-"Something went wrong while resetting customer password.","Noget gik galt under ændringen af kodeordet.",module,Magento_Customer
+"Something went wrong while resetting customer password.","Noget gik galt under nulstilling af kundens kodeord.",module,Magento_Customer
 "You saved the customer.","Du gemte kunden.",module,Magento_Customer
 "Something went wrong while saving the customer.","Something went wrong while saving the customer.",module,Magento_Customer
 "Page not found.","Siden blev ikke fundet.",module,Magento_Customer
-"Customer has been unlocked successfully.","Kunden er blevet låst op med succes.",module,Magento_Customer
+"Customer has been unlocked successfully.","Kunden er blevet låst op succesfuldt.",module,Magento_Customer
 "Online Customers","Online kunder",module,Magento_Customer
 "Customers Now Online","Kunder online nu",module,Magento_Customer
 "Please define Wish List item ID.","Please define Wish List item ID.",module,Magento_Customer
@@ -4314,7 +4314,7 @@ Customers,Kunder,module,Magento_Customer
 "Password cannot be the same as email address.","Adgangskoden kan ikke være den samme som e-mailadressen.",module,Magento_Customer
 "This customer already exists in this store.","This customer already exists in this store.",module,Magento_Customer
 "A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website.",module,Magento_Customer
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Customer
+"%fieldName is a required field.","%fieldName er et obligatorisk felt.",module,Magento_Customer
 "Reset password token mismatch.","Nulstil adgangskode grundet uoverensstemmelse.",module,Magento_Customer
 "Reset password token expired.","Nulstil adgangskode grundet forældelse.",module,Magento_Customer
 "Please correct the transactional account email type.","Please correct the transactional account email type.",module,Magento_Customer
@@ -4336,9 +4336,9 @@ Admin,Admin,module,Magento_Customer
 "Something went wrong while saving the file.","Something went wrong while saving the file.",module,Magento_Customer
 "Attribute object is undefined","Attribute object is undefined",module,Magento_Customer
 """%1"" invalid type entered.","""%1"" invalid type entered.",module,Magento_Customer
-"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" contains non-alphabetic or non-numeric characters.",module,Magento_Customer
+"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" indeholder ikke-alfabetiske eller ikke-numeriske tegn.",module,Magento_Customer
 """%1"" is an empty string.","""%1"" is an empty string.",module,Magento_Customer
-"""%1"" contains non-numeric characters.","""%1"" contains non-numeric characters.",module,Magento_Customer
+"""%1"" contains non-numeric characters.","""%1"" indeholder ikke-numeriske tegn.",module,Magento_Customer
 """%1"" contains non-alphabetic characters.","""%1"" indeholder ikke-alfabetiske tegn.",module,Magento_Customer
 """%1"" is not a valid email address.","""%1"" er ikke en gyldig e-mailadresse.",module,Magento_Customer
 """%1"" is not a valid hostname.","""%1"" er ikke et gyldigt værtsnavn.",module,Magento_Customer
@@ -4376,10 +4376,10 @@ label,etikette,module,Magento_Customer
 "PHP SOAP extension is required.","PHP SOAP udvidelse er påkrævet.",module,Magento_Customer
 "VAT Number is valid.","CVR-nummeret er gyldigt.",module,Magento_Customer
 "Please enter a valid VAT number.","Angiv et gyldigt CVR-nummer.",module,Magento_Customer
-"Your VAT ID was successfully validated.","Din moms-ID blev valideret.",module,Magento_Customer
+"Your VAT ID was successfully validated.","Dit CVR nummer er valideret succesfuldt.",module,Magento_Customer
 "You will be charged tax.","Du vil blive opkrævet moms.",module,Magento_Customer
 "You will not be charged tax.","Du vil ikke blive opkrævet moms.",module,Magento_Customer
-"The VAT ID entered (%1) is not a valid VAT ID.","Det moms-ID angivet (%1) er ikke et gyldigt momsnummer.",module,Magento_Customer
+"The VAT ID entered (%1) is not a valid VAT ID.","Det angivne CVR nummer (%1) er ikke et gyldigt CVR nummer.",module,Magento_Customer
 "Your Tax ID cannot be validated.","Din moms-ID kan ikke valideres.",module,Magento_Customer
 "If you believe this is an error, please contact us at %1","Hvis du mener dette er en fejl bedes du kontakte os på %1",module,Magento_Customer
 "No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Customer
@@ -4411,11 +4411,11 @@ Visitor,Besøgende,module,Magento_Customer
 Customer,Kunde,module,Magento_Customer
 "No item specified.","No item specified.",module,Magento_Customer
 "Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Customer
-"Personal Information","Personal Information",module,Magento_Customer
+"Personal Information","Personlig informationer",module,Magento_Customer
 "Last Logged In:","Last Logged In:",module,Magento_Customer
 "Last Logged In (%1):","Last Logged In (%1):",module,Magento_Customer
 "Account Lock:","Account Lock:",module,Magento_Customer
-"Confirmed email:","Confirmed email:",module,Magento_Customer
+"Confirmed email:","Bekræftet e-mail:",module,Magento_Customer
 "Account Created:","Konto oprettet:",module,Magento_Customer
 "Account Created on (%1):","Konto oprettet på (%1):",module,Magento_Customer
 "Account Created in:","Konto oprettet i:",module,Magento_Customer
@@ -4448,7 +4448,7 @@ or,eller,module,Magento_Customer
 Address,Adresse,module,Magento_Customer
 "Street Address",Gade/vejnavn,module,Magento_Customer
 "Street Address %1","Gade/vejnavn %1",module,Magento_Customer
-"VAT Number",CVR-nummer,module,Magento_Customer
+"VAT Number","CVR nummer",module,Magento_Customer
 City,By,module,Magento_Customer
 State/Province,Stat/Region,module,Magento_Customer
 "Please select a region, state or province.","Vælg region, stat eller provins.",module,Magento_Customer
@@ -4487,27 +4487,27 @@ Password,Kodeord,module,Magento_Customer
 "Create an Account","Opret konto",module,Magento_Customer
 "Set a New Password","Indtast nyt kodeord",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Du har logget ud og vil automatisk gå til vores hjemmeside om 5 sekunder.",module,Magento_Customer
-"New Customers","Ny kunde",module,Magento_Customer
+"New Customers","Nye kunder",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Der er mange fordele ved at oprette en konto: Hurtigere købsproces, gemme flere adresser, ordrehistorik m. m.",module,Magento_Customer
 Company,Firma,module,Magento_Customer
 Fax,Fax,module,Magento_Customer
 Gender,Køn,module,Magento_Customer
 Name,Navn,module,Magento_Customer
-"Tax/VAT number","Moms nummer",module,Magento_Customer
+"Tax/VAT number","CVR nummer",module,Magento_Customer
 "Phone Number",Telefonnummer,module,Magento_Customer
 "Welcome to %store_name","Velkommen til %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Velkommen til %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","For at logge på vores webshop, skal du bruge disse oplysninger i checkout forløbet eller på <a href=""%customer_url"">login siden</a>:",module,Magento_Customer
 Email:,E-mail:,module,Magento_Customer
-Password:,Kodeord:,module,Magento_Customer
-"Password you set when creating account","Adgangskode du angav ved oprettelse af konto",module,Magento_Customer
+Password:,Adgangskode:,module,Magento_Customer
+"Password you set when creating account","Adgangskode du angav da du oprettede kontoen",module,Magento_Customer
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Har du glemt din adgangskode? Klik <a href=""%reset_url""> her</a> til at nulstille den.",module,Magento_Customer
 "When you sign in to your account, you will be able to:","Når du logger på din konto vil du være i stand til at:",module,Magento_Customer
 "Proceed through checkout faster","Kom gennem betalingsprocessen hurtigere",module,Magento_Customer
 "Check the status of orders","Kontrollere status for ordrer",module,Magento_Customer
 "View past orders","Se tidligere ordrer",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Gemme alternative adresser (for forsendelse til flere familiemedlemmer og venner)",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Gem alternative adresser (for forsendelse til flere familiemedlemmer og venner)",module,Magento_Customer
 "Please confirm your %store_name account","Bekræft venligst din %store_name konto",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","Du skal bekræfte din %customer_email e-mail, før du kan logge på (link er kun gyldig én gang):",module,Magento_Customer
 "Confirm Your Account","Bekræft din konto",module,Magento_Customer
@@ -4521,10 +4521,10 @@ Password:,Kodeord:,module,Magento_Customer
 "Thanks,<br>%store_name","Tak,<br>%store_name",module,Magento_Customer
 "Your %store_name email and password has been changed","Din %store_name e-mail og adgangskode er blevet ændret",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Vi har modtaget en anmodning om at ændre de følgende oplysninger i forbindelse med din konto på %store_name: e-mail, adgangskode.",module,Magento_Customer
-"Reset your %store_name password","Nulstille din %store_name adgangskode",module,Magento_Customer
+"Reset your %store_name password","Nulstil din %store_name adgangskode",module,Magento_Customer
 "There was recently a request to change the password for your account.","Der var for nylig en anmodning om at ændre adgangskoden til din konto.",module,Magento_Customer
 "If you requested this change, set a new password here:","Hvis du har anmodet om denne ændring skal du angive en ny adgangskode her:",module,Magento_Customer
-"If you did not make this request, you can ignore this email and your password will remain the same.","Hvis du ikke gøre bad om denne anmodning kan du ignorere denne e-mail og adgangskode vil forblive den samme.",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","Hvis du ikke du bad om denne anmodning kan du ignorere denne e-mail og adgangskoden vil forblive den samme.",module,Magento_Customer
 "Your %store_name password has been changed","%store_name adgangskode er blevet ændret",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Vi har modtaget en anmodning om at ændre følgende oplysninger i forbindelse med din konto på %store_name: password.",module,Magento_Customer
 "Checkout as a new customer","Bestil som ny kunde",module,Magento_Customer
@@ -4574,13 +4574,13 @@ Strong,Stærk,module,Magento_Customer
                         Email template chosen based on theme fallback when ""Default"" option is selected.","This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Customer
 "Generate Human-Friendly Customer ID","Generate Human-Friendly Customer ID",module,Magento_Customer
-"Password Options","Adgangskode indstillinger",module,Magento_Customer
+"Password Options","Indstillinger for adgangskode",module,Magento_Customer
 "Forgot Email Template","Forgot Email Template",module,Magento_Customer
 "Remind Email Template","Remind Email Template",module,Magento_Customer
 "Reset Password Template","Nulstil adgangskode skabelon",module,Magento_Customer
 "Password Template Email Sender","Password Template Email Sender",module,Magento_Customer
-"Recovery Link Expiration Period (hours)","Genskabelseslink udløbsperiode (timer)",module,Magento_Customer
-"Please enter a number 1 or greater in this field.","Indtast nummer 1 eller større i dette felt.",module,Magento_Customer
+"Recovery Link Expiration Period (hours)","Udløbsperiode for genskabelseslink (timer)",module,Magento_Customer
+"Please enter a number 1 or greater in this field.","Indtast 1 eller større i dette felt.",module,Magento_Customer
 "Number of Required Character Classes","Antallet af nødvendige karakter klasser",module,Magento_Customer
 "Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Antallet af forskellige karakter klasser krævet i adgangskoden: små bogstaver, store bogstaver, cifre og specialtegn.",module,Magento_Customer
 "Minimum Password Length","Minimumlængde for adgangskode",module,Magento_Customer
@@ -4620,7 +4620,7 @@ Strong,Stærk,module,Magento_Customer
 "Customer Grid","Customer Grid",module,Magento_Customer
 "Rebuild Customer grid index","Rebuild Customer grid index",module,Magento_Customer
 Group,Gruppe,module,Magento_Customer
-"Add New Customer","Add New Customer",module,Magento_Customer
+"Add New Customer","Opret ny kunde",module,Magento_Customer
 "Are you sure to delete selected customers?","Er du sikker på, du vil slette de valgte kunder?",module,Magento_Customer
 "Delete items","Delete items",module,Magento_Customer
 "Subscribe to Newsletter","Tilmeld nyhedsbrev",module,Magento_Customer
@@ -4628,11 +4628,11 @@ Group,Gruppe,module,Magento_Customer
 "Unsubscribe from Newsletter","Afmeld nyhedsbrev",module,Magento_Customer
 "Assign a Customer Group","Assign a Customer Group",module,Magento_Customer
 Phone,Telefon,module,Magento_Customer
-ZIP,Postnr.,module,Magento_Customer
+ZIP,"Post nr.",module,Magento_Customer
 "Customer Since","Kunde siden",module,Magento_Customer
 "Confirmed email","Bekræftet e-mail",module,Magento_Customer
 "Account Created in","Konto oprettet i",module,Magento_Customer
-"Tax VAT Number",Moms-nummer,module,Magento_Customer
+"Tax VAT Number","CVR nummer",module,Magento_Customer
 "Billing Firstname",Faktureringsfornavn,module,Magento_Customer
 "Billing Lastname",Faktureringsefternavn,module,Magento_Customer
 "Account Lock","Account Lock",module,Magento_Customer
@@ -4843,7 +4843,7 @@ Email,E-mail,module,Magento_CustomerCustomAttributes
 "Password Strength","Styrken af adgangskoden",module,Magento_CustomerCustomAttributes
 "No Password","Ingen adgangskode",module,Magento_CustomerCustomAttributes
 "Confirm New Password","Bekræft ny adgangskode",module,Magento_CustomerCustomAttributes
-"Personal Information","Personal Information",module,Magento_CustomerCustomAttributes
+"Personal Information","Personlig informationer",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Tilmeld dig nyhedsbrev",module,Magento_CustomerCustomAttributes
 "Address Information","Address Information",module,Magento_CustomerCustomAttributes
 "Sign-in Information",Login-oplysninger,module,Magento_CustomerCustomAttributes
@@ -5454,8 +5454,8 @@ Dropdown,Dropdown,module,Magento_Eav
 """%1"" width exceeds allowed value of %2 px.","""%1"" width exceeds allowed value of %2 px.",module,Magento_Eav
 """%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px.",module,Magento_Eav
 """%1"" cannot contain more than %2 lines.","""%1"" cannot contain more than %2 lines.",module,Magento_Eav
-"""%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters.",module,Magento_Eav
-"""%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters.",module,Magento_Eav
+"""%1"" length must be equal or greater than %2 characters.","""%1"" længde skal være lig med eller større end %2 tegn.",module,Magento_Eav
+"""%1"" length must be equal or less than %2 characters.","""%1"" længde skal være lig eller mindre end %2 tegn.",module,Magento_Eav
 "Attribute group does not belong to provided attribute set","Attribute group does not belong to provided attribute set",module,Magento_Eav
 "Cannot save attributeGroup","Cannot save attributeGroup",module,Magento_Eav
 "Group with id ""%1"" does not exist.","Group with id ""%1"" does not exist.",module,Magento_Eav
@@ -6739,7 +6739,7 @@ Reauthorize,Reauthorize,module,Magento_Integration
 "Internal error. Check exception log for details.","Internal error. Check exception log for details.",module,Magento_Integration
 "View ""%1"" Integration","View ""%1"" Integration",module,Magento_Integration
 "Edit ""%1"" Integration","Edit ""%1"" Integration",module,Magento_Integration
-"Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information",module,Magento_Integration
+"Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Advarsel! Integrationer der ikke bruger HTTPS er usikre og udsætter potentielt privat eller personligt identificerbare oplysninger",module,Magento_Integration
 "Cannot edit integrations created via config file.","Cannot edit integrations created via config file.",module,Magento_Integration
 "The integration '%1' has been saved.","The integration '%1' has been saved.",module,Magento_Integration
 "The integration was not saved.","The integration was not saved.",module,Magento_Integration
@@ -10284,7 +10284,7 @@ Billing,Fakturering,module,Magento_Sales
 "Please correct the parent block for this block.","Ret venligst den overordnede blok for denne blok.",module,Magento_Sales
 "Submit Comment","Indsend kommentar",module,Magento_Sales
 "Submit Order","Indsend ordre",module,Magento_Sales
-"Are you sure you want to cancel this order?","Vil du annullere denne ordre?",module,Magento_Sales
+"Are you sure you want to cancel this order?","Er du sikker du vil annullere denne ordre?",module,Magento_Sales
 Cancel,Annuller,module,Magento_Sales
 "Billing Address",Faktureringsadresse,module,Magento_Sales
 "Payment Method",Betalingsmetode,module,Magento_Sales
@@ -10299,11 +10299,11 @@ Message,Besked,module,Magento_Sales
 "Edit Order #%1","Rediger ordre #%1",module,Magento_Sales
 "Create New Order for %1 in %2","Oprette nye ordre til %1 i %2",module,Magento_Sales
 "Create New Order in %1","Opret ny ordre i %1",module,Magento_Sales
-"Create New Order for %1","Oprette nye rækkefølge til %1",module,Magento_Sales
+"Create New Order for %1","Opret nye ordre for %1 i",module,Magento_Sales
 "Create New Order for New Customer","Opret ny ordre til ny kunde",module,Magento_Sales
 "Items Ordered","Varer bestilt",module,Magento_Sales
 "This product is disabled.","Dette produkt er deaktiveret.",module,Magento_Sales
-"Buy %1 for price %2","Købe %1 til prisen %2",module,Magento_Sales
+"Buy %1 for price %2","Køb %1 for %2 pris",module,Magento_Sales
 "Item ordered qty","Antal varer bestilt",module,Magento_Sales
 "%1 with %2 discount each","Køb %1 med %2 rabat på hver",module,Magento_Sales
 "%1 for %2","%1 for %2",module,Magento_Sales
@@ -10340,7 +10340,7 @@ Quantity,Antal,module,Magento_Sales
 "New Credit Memo for Order #%1","Ny kreditnota for ordre #%1",module,Magento_Sales
 "Refund Shipping (Incl. Tax)","Refundering af forsendelse (inkl. moms)",module,Magento_Sales
 "Refund Shipping (Excl. Tax)","Refundering af forsendelse (ekskl. moms)",module,Magento_Sales
-"Refund Shipping","Refunder Shipping",module,Magento_Sales
+"Refund Shipping","Refunder leveringsomkostninger",module,Magento_Sales
 "Update Qty's","Update Qty's",module,Magento_Sales
 Refund,Refundering,module,Magento_Sales
 "Refund Offline","Refunder Offline",module,Magento_Sales
@@ -10391,13 +10391,13 @@ Capture,Indfang,module,Magento_Sales
 "Total Refunded","Refunderet i alt",module,Magento_Sales
 "Total Due","Skyldig i alt",module,Magento_Sales
 Edit,Redigér,module,Magento_Sales
-"Are you sure you want to send an order email to customer?","Er du sikker på du vil ordrebekræftelse til kunden?",module,Magento_Sales
+"Are you sure you want to send an order email to customer?","Er du sikker på at du vil sende en ordrebekræftelse til kunden?",module,Magento_Sales
 "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Dette vil oprette en offline refundering. For at oprette en refundering online, så åben faktura og kreditnota. Ønsker du at fortsætte?",module,Magento_Sales
 "Are you sure you want to void the payment?","Er du sikker på at du vil annullere betalingen?",module,Magento_Sales
-Hold,Hold,module,Magento_Sales
-hold,hold,module,Magento_Sales
-Unhold,"Fjern tilbageholdelse",module,Magento_Sales
-unhold,"fjern tilbageholdelse",module,Magento_Sales
+Hold,Tilbagehold,module,Magento_Sales
+hold,tilbagehold,module,Magento_Sales
+Unhold,Frigiv,module,Magento_Sales
+unhold,frigiv,module,Magento_Sales
 "Are you sure you want to accept this payment?","Vil du acceptere denne betaling?",module,Magento_Sales
 "Accept Payment","Accepter betaling",module,Magento_Sales
 "Are you sure you want to deny this payment?","Vil du afvise denne betaling?",module,Magento_Sales
@@ -10468,7 +10468,7 @@ Sales,Salg,module,Magento_Sales
 "We cannot add order history.","Vi kan ikke tilføje ordrehistorik.",module,Magento_Sales
 "You updated the order address.","Du opdaterede bestillingsadressen.",module,Magento_Sales
 "We can't update the order address right now.","We can't update the order address right now.",module,Magento_Sales
-"You have not canceled the item.","Du kan ikke annullere den vare.",module,Magento_Sales
+"You have not canceled the item.","Du kan ikke annullere varen.",module,Magento_Sales
 "You canceled the order.","Du annullerede ordren.",module,Magento_Sales
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" rabatkode blev ikke anvendt. Tildel ikke rabat for valgte vare(r)",module,Magento_Sales
 """%1"" coupon code is not valid.","""%1"" coupon code is not valid.",module,Magento_Sales
@@ -10492,7 +10492,7 @@ Sales,Salg,module,Magento_Sales
 "View Memo","Se notat",module,Magento_Sales
 "You voided the credit memo.","Du annullerede kreditnotaen.",module,Magento_Sales
 "We can't void the credit memo.","We can't void the credit memo.",module,Magento_Sales
-"The order no longer exists.","Ordren er slettet.",module,Magento_Sales
+"The order no longer exists.","Ordren eksisterer ikke længere.",module,Magento_Sales
 "We can't create credit memo for the order.","We can't create credit memo for the order.",module,Magento_Sales
 "Edit Order","Rediger ordre",module,Magento_Sales
 "You sent the order email.","Du har sendt ordre e-mailen.",module,Magento_Sales
@@ -10582,7 +10582,7 @@ Guest,Gæst,module,Magento_Sales
 "Please enter the company.","Please enter the company.",module,Magento_Sales
 "Please enter the fax number.","Please enter the fax number.",module,Magento_Sales
 "Please enter the zip/postal code.","Angiv postnummeret.",module,Magento_Sales
-"Please enter the country.","Angiv landet.",module,Magento_Sales
+"Please enter the country.","Angiv land.",module,Magento_Sales
 "Please enter the state/province.","Angiv stat/region.",module,Magento_Sales
 "Requested entity doesn't exist","Requested entity doesn't exist",module,Magento_Sales
 "Could not delete order address","Kunne ikke slette bestillingsadresse",module,Magento_Sales
@@ -10669,7 +10669,7 @@ Number,Nummer,module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","Vi genkende ikke trækningslinj data. Definér venligst matrixen ""linjer"".",module,Magento_Sales
 Products,Produkter,module,Magento_Sales
 "Total (ex)","Total (ex)",module,Magento_Sales
-Qty,Antal,module,Magento_Sales
+Qty,Stk.,module,Magento_Sales
 Tax,Moms,module,Magento_Sales
 "Total (inc)","Total (inkl)",module,Magento_Sales
 "Credit Memo #","Kreditnota #",module,Magento_Sales
@@ -10780,7 +10780,7 @@ Remove,Fjern,module,Magento_Sales
 "Gift Message for the Entire Order","Gift Message for the Entire Order",module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_Sales
 "Row Subtotal","Række Subtotal",module,Magento_Sales
-Action,Action,module,Magento_Sales
+Action,Handling,module,Magento_Sales
 "No ordered items","Ingen bestilte varer",module,Magento_Sales
 "Update Items and Quantities","Opdater varer og antal",module,Magento_Sales
 "Total %1 product(s)","Samlede %1 produkt(er)",module,Magento_Sales
@@ -10904,7 +10904,7 @@ Actions,Handlinger,module,Magento_Sales
 "Print Invoice","Print Invoice",module,Magento_Sales
 "Qty Invoiced","Antal faktureret",module,Magento_Sales
 Close,Luk,module,Magento_Sales
-"About Your Order","About Your Order",module,Magento_Sales
+"About Your Order","Om denne bestilling",module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1",module,Magento_Sales
 "Refund #%1","Refund #%1",module,Magento_Sales
 "Shipment #%1","Shipment #%1",module,Magento_Sales
@@ -12844,7 +12844,7 @@ CSV,CSV,module,Magento_TaxImportExport
 "Import/Export Tax Rates","Import/Export Tax Rates",module,Magento_TaxImportExport
 Back,Tilbage,module,Magento_Theme
 "Save and Continue","Gem og fortsæt",module,Magento_Theme
-"Save Configuration","Gem Konfiguration",module,Magento_Theme
+"Save Configuration","Gem konfiguration",module,Magento_Theme
 %1,%1,module,Magento_Theme
 Default,Standard,module,Magento_Theme
 Themes,Temaer,module,Magento_Theme
@@ -13466,7 +13466,7 @@ Permissions,Tilladelser,module,Magento_User
 "You saved the role.","You saved the role.",module,Magento_User
 "An error occurred while saving this role.","An error occurred while saving this role.",module,Magento_User
 "You saved the user.","You saved the user.",module,Magento_User
-"A user with the same user name or email already exists.","A user with the same user name or email already exists.",module,Magento_User
+"A user with the same user name or email already exists.","Der findes allerede en bruger med dette brugernavn og/eller e-mail adresse.",module,Magento_User
 Recommended,Recommended,module,Magento_User
 Forced,Tvunget,module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Sorry, but this password has already been used. Please create another.",module,Magento_User
