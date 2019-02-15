@@ -1483,7 +1483,7 @@ Select...,Vælg...,module,Magento_Bundle
 Status,Status,module,Magento_Bundle
 Thumbnail,Miniature,module,Magento_Bundle
 Type,Type,module,Magento_Bundle
-"Special Price","Special Price",module,Magento_Bundle
+"Special Price","Special pris",module,Magento_Bundle
 """option_id"" and ""parent_id"" values should be specified","""option_id"" and ""parent_id"" values should be specified",module,Magento_BundleGraphQl
 """sku"" value should be specified","""sku"" value should be specified",module,Magento_BundleGraphQl
 "Unique constraint violation found","Unique constraint violation found",module,Magento_BundleStaging
@@ -11454,7 +11454,7 @@ Discount,Rabat,module,Magento_SalesRule
 Auto,Auto,module,Magento_SalesRule
 "Can't acquire coupon.","Kan ikke hente rabatkoden.",module,Magento_SalesRule
 "Update the Product","Update the Product",module,Magento_SalesRule
-"Special Price","Special Price",module,Magento_SalesRule
+"Special Price",Tilbudspris,module,Magento_SalesRule
 "To Fixed Value","To Fixed Value",module,Magento_SalesRule
 "To Percentage","To Percentage",module,Magento_SalesRule
 "By Fixed value","By Fixed value",module,Magento_SalesRule
@@ -14409,7 +14409,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Product Exception.","Product Exception.",module,Magento_Wishlist
 "Localized Exception.","Localized Exception.",module,Magento_Wishlist
 "Are you sure you want to remove this item?","Er du sikker på at du vil fjerne dette element?",module,Magento_Wishlist
-"Special Price","Special Price",module,Magento_Wishlist
+"Special Price",Tilbudspris,module,Magento_Wishlist
 "Regular Price","Regular Price",module,Magento_Wishlist
 "Share Wish List","Del ønskeliste",module,Magento_Wishlist
 "Add All to Cart","Tilføj alle til indkøbskurv",module,Magento_Wishlist
