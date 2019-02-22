@@ -119,8 +119,8 @@ Customers,Kunder,module,Magento_AdvancedCheckout
 "The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Der opstod en fejl. Se fejlloggen for detaljer.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","Du kan ikke konfigurere et produkt.",module,Magento_AdvancedCheckout
-"You removed the items.","Du har fjernet enhederne.",module,Magento_AdvancedCheckout
-"You removed the item.","Du har fjernet enhederne.",module,Magento_AdvancedCheckout
+"You removed the items.","Du har fjernet varene.",module,Magento_AdvancedCheckout
+"You removed the item.","Du har fjernet varen.",module,Magento_AdvancedCheckout
 "You added %1 to your shopping cart.","Du har tilføjet %1 til din indkøbskurv.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Du kan ikke tilføje et produkt.",module,Magento_AdvancedCheckout
 "Order by SKU","Rækkefølge af SKU",module,Magento_AdvancedCheckout
@@ -686,8 +686,8 @@ Magento,Magento,module,Magento_Backend
 "About the calendar","Om kalenderen",module,Magento_Backend
 Close,Luk,module,Magento_Backend
 "Go Today","Gør det idag",module,Magento_Backend
-Previous,Forrige,module,Magento_Backend
-Next,Videre,module,Magento_Backend
+Previous,Tilbage,module,Magento_Backend
+Next,Næste,module,Magento_Backend
 WK,WK,module,Magento_Backend
 Time,Tid,module,Magento_Backend
 Hour,Time,module,Magento_Backend
@@ -2116,21 +2116,21 @@ Role,Rolle,module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Køb %1 for %2 pr styk og <strong class=""benefit"">spar<span class=""percent tier-%3"">&nbsp;%4%</span></strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Købe %1 til %2 hver",module,Magento_Catalog
 "You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
-"Shop By",Filtre,module,Magento_Catalog
+"Shop By","Filtrer efter",module,Magento_Catalog
 "Shopping Options","Filtrér efter",module,Magento_Catalog
 "Compare Products","Sammenlign produkter",module,Magento_Catalog
 "Print This Page","Udskrive denne side",module,Magento_Catalog
-"Remove Product","Fjerne produktet",module,Magento_Catalog
+"Remove Product","Fjern produkt",module,Magento_Catalog
 "Add to Cart","Læg i kurv",module,Magento_Catalog
 "In stock","På lager",module,Magento_Catalog
 "Out of stock",Udsolgt,module,Magento_Catalog
 "Add to Wish List","Tilføj til ønske liste",module,Magento_Catalog
 "You have no items to compare.","Du har ingen varer at sammenligne.",module,Magento_Catalog
-"Remove This Item","Fjerne dette produkt",module,Magento_Catalog
+"Remove This Item","Fjern dette produkt",module,Magento_Catalog
 Compare,Sammenlign,module,Magento_Catalog
 "Clear All","Ryd alle",module,Magento_Catalog
-Prev,Forrige,module,Magento_Catalog
-Next,Videre,module,Magento_Catalog
+Prev,Tilbage,module,Magento_Catalog
+Next,Næste,module,Magento_Catalog
 "We can't find products matching the selection.","Der er ingen produkter, der matcher dit valg.",module,Magento_Catalog
 "Learn More","Læs mere",module,Magento_Catalog
 "Add to Compare","Tilføj for at sammenligne",module,Magento_Catalog
@@ -2347,7 +2347,7 @@ Details,Detaljer,module,Magento_Catalog
 "Recently Compared","Nyligt sammenlignet",module,Magento_Catalog
 "Add To Cart","Læg i kurv",module,Magento_Catalog
 "Add To Compare","Tilføj for at sammenligne",module,Magento_Catalog
-"Learn more","Få mere at vide",module,Magento_Catalog
+"Learn more","Læs mere",module,Magento_Catalog
 "Recently Viewed","Senest viste",module,Magento_Catalog
 "Edit Event","Rediger Begivenhed",module,Magento_CatalogEvent
 "Add Event","Tilføj begivenhed",module,Magento_CatalogEvent
@@ -2396,8 +2396,8 @@ Sec,Sekunder,module,Magento_CatalogEvent
 "Preview Sale","Forhåndsvisning af udsalg",module,Magento_CatalogEvent
 "Go To Sale","Gå til udsalg",module,Magento_CatalogEvent
 "View Sale","Se udsalg",module,Magento_CatalogEvent
-Previous,Forrige,module,Magento_CatalogEvent
-Next,Videre,module,Magento_CatalogEvent
+Previous,Tilbage,module,Magento_CatalogEvent
+Next,Næste,module,Magento_CatalogEvent
 "Catalog Events","Katalog begivenheder",module,Magento_CatalogEvent
 "Enable Catalog Events Functionality","Aktivere katalog begivenheds funktionalitet",module,Magento_CatalogEvent
 "Enable Catalog Event Widget on Storefront","Aktivere katalog begivenhed Widget på storefront",module,Magento_CatalogEvent
@@ -2488,7 +2488,7 @@ Edit,Rediger,module,Magento_CatalogEvent
 "The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist.",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","Du skal minimum købe %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Ret venligst antallet for nogle produkter.",module,Magento_CatalogInventory
-"The most you may purchase is %1.","Du kan maximum købe %1.",module,Magento_CatalogInventory
+"The most you may purchase is %1.","Du må højest købe %1.",module,Magento_CatalogInventory
 "The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Vi har ikke så mange ""%1"" som du anmodede om, men vi vil bestille de resterende %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Vi har ikke så mange ""%1"" som du anmodede om, men vi vil bestille de resterende %2.",module,Magento_CatalogInventory
@@ -4142,7 +4142,7 @@ Contacts,Kontakter,module,Magento_Contact
 "Invalid cookie path","Invalid cookie path",module,Magento_Cookie
 "We use cookies to make your experience better.","Vi opsamler cookies til at gøre oplevelsen bedre.",module,Magento_Cookie
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Når du benytter vores website, giver du samtykke til anvendelsen af cookies.",module,Magento_Cookie
-"<a href=""%1"">Learn more</a>.","<a href=""%1"">Få mere at vide</a>.",module,Magento_Cookie
+"<a href=""%1"">Learn more</a>.","<a href=""%1"">Læs mere</a>.",module,Magento_Cookie
 "Allow Cookies","Tillad cookies",module,Magento_Cookie
 "Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
 "Cookie Lifetime","Cookie Lifetime",module,Magento_Cookie
@@ -6422,7 +6422,7 @@ Invitee,Inviterede,module,Magento_GiftRegistry
 "Add Invitee","Add Invitee",module,Magento_GiftRegistry
 "Gift Registry Type","Gift Registry Type",module,Magento_GiftRegistry
 "Please select a gift registry type.","Please select a gift registry type.",module,Magento_GiftRegistry
-Next,Videre,module,Magento_GiftRegistry
+Next,Næste,module,Magento_GiftRegistry
 "Last Name",Efternavn,module,Magento_GiftRegistry
 "Registrant Information","Registrant Information",module,Magento_GiftRegistry
 "Maximum %1 registrants.","Maximum %1 registrants.",module,Magento_GiftRegistry
@@ -7151,10 +7151,10 @@ items,varer,module,Magento_LayeredNavigation
 "Now Shopping by","Aktive filtre",module,Magento_LayeredNavigation
 Previous,Forrige,module,Magento_LayeredNavigation
 Remove,Fjern,module,Magento_LayeredNavigation
-"Remove This Item","Fjerne dette produkt",module,Magento_LayeredNavigation
-"Shop By",Filtre,module,Magento_LayeredNavigation
-"Clear All","Ryd alle",module,Magento_LayeredNavigation
-"Shopping Options","Filtrér efter",module,Magento_LayeredNavigation
+"Remove This Item","Fjern dette produkt",module,Magento_LayeredNavigation
+"Shop By",Filtrer,module,Magento_LayeredNavigation
+"Clear All","Fjern alle",module,Magento_LayeredNavigation
+"Shopping Options","Filtrer efter",module,Magento_LayeredNavigation
 "Layered Navigation","Layered Navigation",module,Magento_LayeredNavigation
 "Display Product Count","Display Product Count",module,Magento_LayeredNavigation
 "Price Navigation Step Calculation","Price Navigation Step Calculation",module,Magento_LayeredNavigation
@@ -7396,8 +7396,8 @@ Fax,Fax,module,Magento_MultipleLocationInventory
 Wishlist,Ønskeliste,module,Magento_MultipleWishlist
 "Customer's Wish List Report","Customer's Wish List Report",module,Magento_MultipleWishlist
 "My Wish Lists","Mine ønskesedler",module,Magento_MultipleWishlist
-"1 item in wish list","1 item in wish list",module,Magento_MultipleWishlist
-"%1 items in wish list","%1 varer i ønskeliste",module,Magento_MultipleWishlist
+"1 item in wish list","1 vare på ønskeliste",module,Magento_MultipleWishlist
+"%1 items in wish list","%1 varer på ønskelisten",module,Magento_MultipleWishlist
 "Wish List Search","Wish List Search",module,Magento_MultipleWishlist
 "Select Search Type","Select Search Type",module,Magento_MultipleWishlist
 Reports,Rapporter,module,Magento_MultipleWishlist
@@ -8770,7 +8770,7 @@ Customer,Kunde,module,Magento_Paypal
 "Updated At","Updated At",module,Magento_Paypal
 "Not sure what PayPal payment method to use? Click","Not sure what PayPal payment method to use? Click",module,Magento_Paypal
 here,her,module,Magento_Paypal
-"to learn more.","to learn more.",module,Magento_Paypal
+"to learn more.","for at få mere at vide.",module,Magento_Paypal
 Important:,Important:,module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.",module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
@@ -9605,7 +9605,7 @@ Statistics,Statistics,module,Magento_Reports
 Bestsellers,Bestsellers,module,Magento_Reports
 "Most Viewed Products Report","Most Viewed Products Report",module,Magento_Reports
 Error,Fejl,module,Magento_Reports
-"Show By",Filtre,module,Magento_Reports
+"Show By","Vis efter",module,Magento_Reports
 "Select Date","Select Date",module,Magento_Reports
 "Customers that have Wish List: %1","Customers that have Wish List: %1",module,Magento_Reports
 "Number of Wish Lists: %1","Number of Wish Lists: %1",module,Magento_Reports
@@ -9622,7 +9622,7 @@ Error,Fejl,module,Magento_Reports
 "Add to Wish List","Add to Wish List",module,Magento_Reports
 "Add to Compare","Tilføj for at sammenligne",module,Magento_Reports
 "Recently Compared","Recently Compared",module,Magento_Reports
-"Learn More","Learn More",module,Magento_Reports
+"Learn More","Læs mere",module,Magento_Reports
 Marketing,Marketing,module,Magento_Reports
 "Products in Cart","Produkter i indkøbskurven",module,Magento_Reports
 "Abandoned Cart","Forladte indkøbskurve",module,Magento_Reports
@@ -9779,10 +9779,10 @@ Visibility,Visibility,module,Magento_Review
 Nickname,Brugernavn,module,Magento_Review
 "Summary of Review","Summary of Review",module,Magento_Review
 Review,Anmeldelse,module,Magento_Review
-Previous,Forrige,module,Magento_Review
+Previous,Tilbage,module,Magento_Review
 "Save and Previous","Save and Previous",module,Magento_Review
 "Save and Next","Save and Next",module,Magento_Review
-Next,Videre,module,Magento_Review
+Next,Næste,module,Magento_Review
 "Delete Review","Delete Review",module,Magento_Review
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Review
 "Edit Review '%1'","Edit Review '%1'",module,Magento_Review
@@ -9942,7 +9942,7 @@ Comment,Kommenter,module,Magento_Reward
 Direction,Direction,module,Magento_Reward
 Rate,Bedøm,module,Magento_Reward
 "Use your reward points; %1 are available.","Use your reward points; %1 are available.",module,Magento_Reward
-"Learn more","Learn more",module,Magento_Reward
+"Learn more","Læs mere",module,Magento_Reward
 "This applies only to registered users and may vary when a user is logged in.","This applies only to registered users and may vary when a user is logged in.",module,Magento_Reward
 "You removed the orphan points.","You removed the orphan points.",module,Magento_Reward
 Customers,Customers,module,Magento_Reward
@@ -12272,7 +12272,7 @@ Pending,Afventer,module,Magento_Signifyd
 Canceled,Annulleret,module,Magento_Signifyd
 "In Review","In Review",module,Magento_Signifyd
 Unrequested,Unrequested,module,Magento_Signifyd
-"Learn more","Learn more",module,Magento_Signifyd
+"Learn more","Læs mere",module,Magento_Signifyd
 "This order already has associated case entity","This order already has associated case entity",module,Magento_Signifyd
 "The case entity should not be empty.","The case entity should not be empty.",module,Magento_Signifyd
 "Cannot update Case entity.","Cannot update Case entity.",module,Magento_Signifyd
@@ -13214,7 +13214,7 @@ Remove,Fjern,module,Magento_Theme
 Page,Side,module,Magento_Theme
 Previous,Forrige,module,Magento_Theme
 "You're currently reading page","Du læser i øjeblikket side",module,Magento_Theme
-Next,Videre,module,Magento_Theme
+Next,Næste,module,Magento_Theme
 Show,Vis,module,Magento_Theme
 "per page","pr. side",module,Magento_Theme
 "About the calendar","About the calendar",module,Magento_Theme
@@ -14094,9 +14094,9 @@ Node,Node,module,Magento_VersionsCms
 "Website Root","Website Root",module,Magento_VersionsCms
 Page:,Side:,module,Magento_VersionsCms
 Page,Side,module,Magento_VersionsCms
-Previous,Forrige,module,Magento_VersionsCms
+Previous,Tilbage,module,Magento_VersionsCms
 "You're currently reading page","Du læser i øjeblikket side",module,Magento_VersionsCms
-Next,Videre,module,Magento_VersionsCms
+Next,Næste,module,Magento_VersionsCms
 "Delete Revision and Version","Delete Revision and Version",module,Magento_VersionsCms
 "Publish Revision","Publish Revision",module,Magento_VersionsCms
 Pages,Sider,module,Magento_VersionsCms
@@ -14442,9 +14442,9 @@ Back,Tilbage,module,Magento_Wishlist
 "Email addresses, separated by commas","Email addresses, separated by commas",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
 "Last Added Items","Sidste tilføjet elementer",module,Magento_Wishlist
-"Remove This Item","Fjerne dette produkt",module,Magento_Wishlist
+"Remove This Item","Fjern dette produkt",module,Magento_Wishlist
 "Go to Wish List","Go to Wish List",module,Magento_Wishlist
-"You have no items in your wish list.","Du har ingen varer i din ønskeliste.",module,Magento_Wishlist
+"You have no items in your wish list.","Du har ingen varer på din ønskeliste.",module,Magento_Wishlist
 "Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
 "Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
@@ -14540,9 +14540,9 @@ Menu,Menu,theme,frontend/Magento/blank
 Account,Konto,theme,frontend/Magento/blank
 Settings,Indstillinger,theme,frontend/Magento/blank
 "Now Shopping by","Aktive filtre",theme,frontend/Magento/luma
-Previous,Forrige,theme,frontend/Magento/luma
+Previous,Tilbage,theme,frontend/Magento/luma
 Remove,Fjern,theme,frontend/Magento/luma
-"Remove This Item","Fjerne dette produkt",theme,frontend/Magento/luma
+"Remove This Item","Fjern dette produkt",theme,frontend/Magento/luma
 "Shop By",Filtre,theme,frontend/Magento/luma
 "Clear All","Ryd alle",theme,frontend/Magento/luma
 "Shopping Options","Filtrér efter",theme,frontend/Magento/luma
