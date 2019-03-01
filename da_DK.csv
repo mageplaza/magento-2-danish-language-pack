@@ -520,7 +520,7 @@ Yes,Ja,module,Magento_Backend
 "Save Store","Gem butik",module,Magento_Backend
 "Save Store View","Gem butiks visning",module,Magento_Backend
 "Delete Store View","Slet Butiksvisning",module,Magento_Backend
-"Edit Web Site","Redigere Webside",module,Magento_Backend
+"Edit Web Site","Rediger Webside",module,Magento_Backend
 "New Web Site","Nyt websted",module,Magento_Backend
 "Edit Store","Rediger butik",module,Magento_Backend
 "New Store","Ny butik",module,Magento_Backend
@@ -1081,16 +1081,16 @@ Header,Sidehovede,module,Magento_Banner
 Name,Name,module,Magento_Banner
 "Status Label","Status Label",module,Magento_Banner
 "General Information","General Information",module,Magento_Banner
-Back,Back,module,Magento_Banner
+Back,Tilbage,module,Magento_Banner
 "Enable Dynamic Block","Enable Dynamic Block",module,Magento_Banner
 "Use Default Value","Use Default Value",module,Magento_Banner
 "Cart price rules allows you to setup promotions for items that are in the shopping cart.","Cart price rules allows you to setup promotions for items that are in the shopping cart.",module,Magento_Banner
 "Add Cart Price Rules","Add Cart Price Rules",module,Magento_Banner
 "Related Catalog Price Rule","Related Catalog Price Rule",module,Magento_Banner
 "Catalog price rules allows you to setup promotions for an items in catalog.","Catalog price rules allows you to setup promotions for an items in catalog.",module,Magento_Banner
-Cancel,Cancel,module,Magento_Banner
+Cancel,Annuller,module,Magento_Banner
 "Add Selected","Add Selected",module,Magento_Banner
-Remove,Remove,module,Magento_Banner
+Remove,Fjern,module,Magento_Banner
 "All Segments","Alle segmenter",module,Magento_BannerCustomerSegment
 "Customer Segment",Kundesegment,module,Magento_BannerCustomerSegment
 Country,Land,module,Magento_Braintree
@@ -1766,7 +1766,7 @@ Products,Produkter,module,Magento_Catalog
 "You removed product %1 from the comparison list.","Du fjernet produkt %1 fra sammenlignings listen.",module,Magento_Catalog
 "1 item","1 vare",module,Magento_Catalog
 "%1 items","%1 varer",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Er du sikker på, du vil fjerne dette emne fra listen sammenligne produkter?",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","Er du sikker på, du vil fjerne denne vare fra sammenligningen?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Vil du fjerne alle produkter fra listen over sammenligne produkter?",module,Magento_Catalog
 "Invalid attribute %1","Ugyldig attribut %1",module,Magento_Catalog
 Grid,Gitter,module,Magento_Catalog
@@ -2115,7 +2115,7 @@ Role,Rolle,module,Magento_Catalog
 "Buy %1 for:","Køb %1 til:",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Køb %1 for %2 pr styk og <strong class=""benefit"">spar<span class=""percent tier-%3"">&nbsp;%4%</span></strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Købe %1 til %2 hver",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Du tilføjede product %1 til <a href=""%2"">sammenligning</a>.",module,Magento_Catalog
 "Shop By","Filtrer efter",module,Magento_Catalog
 "Shopping Options","Filtrér efter",module,Magento_Catalog
 "Compare Products","Sammenlign produkter",module,Magento_Catalog
@@ -2133,7 +2133,7 @@ Prev,Tilbage,module,Magento_Catalog
 Next,Næste,module,Magento_Catalog
 "We can't find products matching the selection.","Der er ingen produkter, der matcher dit valg.",module,Magento_Catalog
 "Learn More","Læs mere",module,Magento_Catalog
-"Add to Compare","Tilføj for at sammenligne",module,Magento_Catalog
+"Add to Compare",Sammenlign,module,Magento_Catalog
 "We found other products you might like!","Vi fandt andre produkter du måske kan lide!",module,Magento_Catalog
 "More Choices:","Flere valgmuligheder:",module,Magento_Catalog
 "Check items to add to the cart or","Vælg varer som skal lægges i indkøbskurven eller",module,Magento_Catalog
@@ -2147,7 +2147,7 @@ Show,Vis,module,Magento_Catalog
 "Set Ascending Direction","Stigende orden",module,Magento_Catalog
 "Set Descending Direction","Faldende orden",module,Magento_Catalog
 "View as","Vis som",module,Magento_Catalog
-"More Information","Mere information",module,Magento_Catalog
+"More Information",Specifikationer,module,Magento_Catalog
 Loading...,Indlæser...,module,Magento_Catalog
 "Maximum %1 characters","Maximum %1 characters",module,Magento_Catalog
 "* Required Fields","* Påkrævede felter",module,Magento_Catalog
@@ -2346,7 +2346,7 @@ Overview,Oversigt,module,Magento_Catalog
 Details,Detaljer,module,Magento_Catalog
 "Recently Compared","Nyligt sammenlignet",module,Magento_Catalog
 "Add To Cart","Læg i kurv",module,Magento_Catalog
-"Add To Compare","Tilføj for at sammenligne",module,Magento_Catalog
+"Add To Compare",Sammenlign,module,Magento_Catalog
 "Learn more","Læs mere",module,Magento_Catalog
 "Recently Viewed","Senest viste",module,Magento_Catalog
 "Edit Event","Rediger Begivenhed",module,Magento_CatalogEvent
@@ -2355,7 +2355,7 @@ Events,Begivenheder,module,Magento_CatalogEvent
 "Add Catalog Event","Tilføj katalog begivenhed",module,Magento_CatalogEvent
 "Save and Continue Edit","Gem og fortsæt redigering",module,Magento_CatalogEvent
 "Back to Category","Tilbage til kategori",module,Magento_CatalogEvent
-"Edit Catalog Event","Redigere katalog begivenhed",module,Magento_CatalogEvent
+"Edit Catalog Event","Rediger katalog begivenhed",module,Magento_CatalogEvent
 "Catalog Event Information","Katalog begivenhedsinformation",module,Magento_CatalogEvent
 Category,Kategori,module,Magento_CatalogEvent
 "Start Date",Startdato,module,Magento_CatalogEvent
@@ -2841,7 +2841,7 @@ SKU,SKU,module,Magento_CatalogWidget
 "In stock","På lager",module,Magento_CatalogWidget
 "Out of stock",Udsolgt,module,Magento_CatalogWidget
 "Add to Wish List","Tilføj til ønske liste",module,Magento_CatalogWidget
-"Add to Compare","Tilføj for at sammenligne",module,Magento_CatalogWidget
+"Add to Compare",Sammenlign,module,Magento_CatalogWidget
 "Catalog Products List","Katalog produktliste",module,Magento_CatalogWidget
 "List of Products","Liste over produkter",module,Magento_CatalogWidget
 Title,Titel,module,Magento_CatalogWidget
@@ -4789,7 +4789,7 @@ Type,Type,module,Magento_Customer
 Addresses,Adresser,module,Magento_Customer
 "The customer does not have default billing address","The customer does not have default billing address",module,Magento_Customer
 "The customer does not have default shipping address","The customer does not have default shipping address",module,Magento_Customer
-"Edit Account Information","Redigere kontooplysninger",module,Magento_Customer
+"Edit Account Information","Rediger kontooplysninger",module,Magento_Customer
 "Password forgotten","Glemt adgangskode",module,Magento_Customer
 "You are signed out","Du er logget ud",module,Magento_Customer
 "Store Credit","Butikkens kredit",module,Magento_CustomerBalance
@@ -9620,7 +9620,7 @@ Error,Fejl,module,Magento_Reports
 "In stock","På lager",module,Magento_Reports
 "Out of stock","Out of stock",module,Magento_Reports
 "Add to Wish List","Add to Wish List",module,Magento_Reports
-"Add to Compare","Tilføj for at sammenligne",module,Magento_Reports
+"Add to Compare",Sammenlign,module,Magento_Reports
 "Recently Compared","Recently Compared",module,Magento_Reports
 "Learn More","Læs mere",module,Magento_Reports
 Marketing,Marketing,module,Magento_Reports
@@ -14425,7 +14425,7 @@ Availability,Tilgængelighed,module,Magento_Wishlist
 Edit,Rediger,module,Magento_Wishlist
 "Remove Item","Fjern vare",module,Magento_Wishlist
 "Remove item","Fjern vare",module,Magento_Wishlist
-"Add to Compare","Tilføj for at sammenligne",module,Magento_Wishlist
+"Add to Compare",Sammenlign,module,Magento_Wishlist
 "This Wish List has no Items","Denne ønskeliste indeholder ingen elementer",module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Klik <a href=""%1""> her</a> for at fortsætte med at handle.",module,Magento_Wishlist
