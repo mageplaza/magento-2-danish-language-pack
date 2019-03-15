@@ -3812,7 +3812,7 @@ Operation,Operation,module,Magento_CompanyCredit
 "This company has no payment methods. Please contact store administrator.","This company has no payment methods. Please contact store administrator.",module,Magento_CompanyPayment
 "Default B2B Payment Methods","Default B2B Payment Methods",module,Magento_CompanyPayment
 "Applicable Payment Methods","Applicable Payment Methods",module,Magento_CompanyPayment
-"Payment Methods","Payment Methods",module,Magento_CompanyPayment
+"Payment Methods",Betalingsmetoder,module,Magento_CompanyPayment
 "By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.",module,Magento_CompanyPayment
 "Payment Information (View)","Payment Information (View)",module,Magento_CompanyPayment
 "Use config settings","Use config settings",module,Magento_CompanyPayment
@@ -6849,7 +6849,7 @@ Updated,Opdateret,module,Magento_Indexer
 "Are you sure you want to place order and pay?","Are you sure you want to place order and pay?",module,Magento_InstantPurchase
 "Shipping Address","Shipping Address",module,Magento_InstantPurchase
 "Billing Address","Billing Address",module,Magento_InstantPurchase
-"Payment Method","Payment Method",module,Magento_InstantPurchase
+"Payment Method",Betalingsmetode,module,Magento_InstantPurchase
 "Shipping Method","Shipping Method",module,Magento_InstantPurchase
 Enabled,Aktiveret,module,Magento_InstantPurchase
 "Payment method with vault and instant purchase support should be enabled.","Payment method with vault and instant purchase support should be enabled.",module,Magento_InstantPurchase
@@ -11344,7 +11344,7 @@ Refunded,Refunderet,module,Magento_SalesArchive
 "Customer Name","Customer Name",module,Magento_SalesArchive
 Email,E-mail,module,Magento_SalesArchive
 "Customer Group","Customer Group",module,Magento_SalesArchive
-"Payment Method","Payment Method",module,Magento_SalesArchive
+"Payment Method",Betalingsmetode,module,Magento_SalesArchive
 "Shipping Information","Shipping Information",module,Magento_SalesArchive
 Subtotal,Subtotal,module,Magento_SalesArchive
 "Shipping & Handling","Levering & håndtering",module,Magento_SalesArchive
@@ -11463,7 +11463,7 @@ Auto,Auto,module,Magento_SalesRule
 Subtotal,Subtotal,module,Magento_SalesRule
 "Total Items Quantity","Total Items Quantity",module,Magento_SalesRule
 "Total Weight","Total Weight",module,Magento_SalesRule
-"Payment Method","Payment Method",module,Magento_SalesRule
+"Payment Method",Betalingsmetode,module,Magento_SalesRule
 "Shipping Method",Leveringsmetode,module,Magento_SalesRule
 "Shipping Postcode","Shipping Postcode",module,Magento_SalesRule
 "Shipping Region","Shipping Region",module,Magento_SalesRule
