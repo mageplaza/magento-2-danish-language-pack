@@ -19,7 +19,7 @@ Read more [Magento 2 Danish Language Pack](https://www.mageplaza.com/magento-2-d
 
 This is status of Danish Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/43?title=translated)
+![language pack](http://progressed.io/bar/0?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
