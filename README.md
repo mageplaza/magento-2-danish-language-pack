@@ -117,11 +117,13 @@ To download and install Danish pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/da_dk/da_DK.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/da_dk/`
 
-See this screenshot
+See this screenshot:
 
 ![Danish pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **da_dk**
 
 #### Step 2: Flush cache
 
