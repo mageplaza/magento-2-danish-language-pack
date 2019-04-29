@@ -17,19 +17,19 @@
 "You need more permissions to save this setting.","Du har ikke rettigheder til at gemme ændringen.",module,Magento_AdminGws
 "Role Scopes","Forretningsvisnings roller",module,Magento_AdminGws
 "Custom","Brugerdefineret",module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Du har ikke tilladelse til at gemme dette i anvendelsesområdet for den aktuelle butiks visning. Skift venligst til den korrekte butiks visning",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Flere rettigheder er nødvendig for at slette ""%1"".",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Enheden mangler at blive tildelt til et ""Store view"". Kontroller enheds tildelingen og prøv igen.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Ordre kan kun blive gennemført på en aktiv butik. Kontroller hjemmesiden og prøv igen.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Denne vare skal knyttes til en butiksvisning. Tildele varen og prøv igen.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Flere rettigheder er nødvendig for at gemme dette.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Flere rettigheder er nødvendig for at slette dette.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Flere rettigheder er nødvendigt for at se dette.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Mindst én hjemmeside eller butiks-gruppe skal vælges. Vælg og prøv igen.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Der er brug for flere tilladelser for at angive Alle Områder til en Rolle.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","""%1"" website ID er forkert. Kontroller website ID og prøv igen.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" butik ID er forkert. Kontroller butik ID og prøv igen.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Flere rettigheder er nødvendig for at gemme denne indstilling.",module,Magento_AdminGws
 "Read Details","Læs detaljer",module,Magento_AdminNotification
 "Mark as Read","Marker som læst",module,Magento_AdminNotification
 "Are you sure?","Er du sikker?",module,Magento_AdminNotification
@@ -185,7 +185,7 @@
 "Upload File","Upload fil",module,Magento_AdvancedCheckout
 "Your csv file must include ""sku"" and ""qty"" columns.","Din CSV-fil skal indeholde kolonnerne ""sku"" og ""antal"".",module,Magento_AdvancedCheckout
 "Reset","Nulstil",module,Magento_AdvancedCheckout
-"SKU: ","SKU: ",module,Magento_AdvancedCheckout
+"SKU: ","Varenummer: ",module,Magento_AdvancedCheckout
 "Only <span id=""%1_max_allowed"">%2</span> in stock","Kun <span id=""%1_max_allowed"">%2</span> på lager",module,Magento_AdvancedCheckout
 "Item","Vare",module,Magento_AdvancedCheckout
 "See price before order confirmation.","Se prisen før ordrebekræftelse.",module,Magento_AdvancedCheckout
@@ -219,16 +219,16 @@
 "Order by SKU Template","Rækkefølge af SKU skabelon",module,Magento_AdvancedCheckout
 "SKU not found in catalog.","SKU ikke findes i kataloget.",module,Magento_AdvancedCheckout
 "This file needs to be in .csv format.","Denne fil skal være i .csv format.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Det var ikke muligt at finde kunden. Kontroller information og prøv igen.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Butikken kunne ikke findes. Kontroller butikken og prøv igen.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Der opstod en fejl. Yderligere oplysninger finder du i log-filen.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Ordre kan kun blive gennemført på en aktiv butik. Kontroller hjemmesiden og prøv igen.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Den bestilte vare skal indlæses. Indlæs elementet, og prøv igen.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","Varens bestillings ID er ikke blevet modtaget. Sæt ID'et og prøv igen.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","Den bestilte vare skal indlæses. Indlæs elementet, og prøv igen.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","Ønskelistens vare ID skal modtages. Sæt varens ID og prøv igen.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Ønskelistens vare skal indlæses. Genindlæs varen og prøv igen.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Filen er beskadiget og kan ikke bruges.",module,Magento_AdvancedCheckout
 "Please correct the data sent.","Venligst korrigere data, der sendes.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Enhedstypemodellern skal være følgende typer\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
@@ -2618,7 +2618,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist.",module,Magento_Catalog
 "The ""%1"" product couldn't be removed.","The ""%1"" product couldn't be removed.",module,Magento_Catalog
 "Category with ID: %s doesn't exist","Category with ID: %s doesn't exist",module,Magento_Catalog
-"Product Name or SKU","Product Name or SKU",module,Magento_Catalog
+"Product Name or SKU","Produktnavn eller Varenummer",module,Magento_Catalog
 "Start typing to find products","Start typing to find products",module,Magento_Catalog
 "Product with ID: %s doesn't exist","Product with ID: %s doesn't exist",module,Magento_Catalog
 "Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped",module,Magento_Catalog
@@ -3051,7 +3051,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Advanced Search","Avanceret søgning",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 vare</strong> blev fundet ved hjælp af følgende søgekriterier",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 varer</strong> blev fundet ved hjælp af følgende søgekriterier",module,Magento_CatalogSearch
-"We can't find any items matching these search criteria.","We can't find any items matching these search criteria.",module,Magento_CatalogSearch
+"We can't find any items matching these search criteria.","Vi kan ikke finde nogen der opfylder disse søgekriterier.",module,Magento_CatalogSearch
 "Modify your search.","Ændre din søgning.",module,Magento_CatalogSearch
 "name","navn",module,Magento_CatalogSearch
 "Don't see what you're looking for?","Kan du ikke finde det, du leder efter?",module,Magento_CatalogSearch
@@ -3224,7 +3224,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "You canceled the coupon code.","Du annullerede kuponkoden.",module,Magento_Checkout
 "We cannot apply the coupon code.","Vi kan ikke tilføje kuponkoden.",module,Magento_Checkout
 "We can't remove the item.","Vi kan ikke fjerne varen.",module,Magento_Checkout
-"%1 was updated in your shopping cart.","%1 er tilføjet til din indkøbskurv.",module,Magento_Checkout
+"%1 was updated in your shopping cart.","%1 blev opdateret i din indkøbskurv.",module,Magento_Checkout
 "We can't update the item right now.","Vi kan ikke opdatere varen lige nu.",module,Magento_Checkout
 "We can't update the shopping cart.","Vi kan ikke opdatere indkøbskurven.",module,Magento_Checkout
 "One-page checkout is turned off.","One-page checkout er slået fra.",module,Magento_Checkout
@@ -3385,7 +3385,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Cart contains virtual product(s) only. Shipping address is not applicable.","Indkøbskurven indeholder kun virtuelle produkt(er). Leveringsadresse er ikke gældende.",module,Magento_Checkout
 "Wrong minimum amount.","Forkert minimumsbeløb.",module,Magento_Checkout
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print""> Udskriv kvittering</a>",module,Magento_Checkout
-"Forgot Password","Forgot Password",module,Magento_Checkout
+"Forgot Password","Glemt Adgangskode",module,Magento_Checkout
 "Close","Luk",module,Magento_Checkout
 "item","vare",module,Magento_Checkout
 "items","varer",module,Magento_Checkout
@@ -3405,21 +3405,21 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Maximum Display Recently Added Item(s)","Maksimale visningen for nylig tilføjet produk(er)",module,Magento_Checkout
 "of","af",module,Magento_Checkout
 "Something went wrong while saving the page. Please refresh the page and try again.","Noget gik galt da vi prøvede at gemme siden. Prøv af genindlæse den og prøv igen.",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
-"Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
-"The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Du har tilføjet %1 til din <a href=""%2"">indkøbskurv</a>.",module,Magento_Checkout
+"Please select at least one product to add to cart","Vælg venligst mindst ét produkt der skal lægges i indkøbskurven",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","Varen kunne ikke findes. Verificer varen og prøv igen.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Ordren blev ikke afgivet. Først, accepter vilkår og betingelser, og dernæst forsøg igen at afgive din ordre.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","Produktet blev ikke fundet. Verificer produktet og prøv igen.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","En serverfejl forhindrede din ordre fra at blive afgivet. Prøv at afgive din ordre igen.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","Leveringsadressen mangler. Angiv adressen og prøv igen.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","Leveringsoplysningerne kunne ikke gemmes. Kontroller indtastning og prøv igen.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","Leveringsmetoden kan ikke angives til en tom kurv. Læg en vare i kurven og prøv igen.",module,Magento_Checkout
 "Billing Address","Faktureringsadresse",module,Magento_Checkout
-"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"Something went wrong with your request. Please try again later.","Noget gik galt med din forespørgsel. Prøv igen senere.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Leveringsmetoden mangler. Vælg en leveringsmetode og prøv igen.",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Vis krydssalgsvarer i indkøbskurven",module,Magento_Checkout
 "Unable to place order. Please try again later.","Vi kan desværre ikke modtage din ordre. Prøv venligst igen.",module,Magento_Checkout
-"Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
+"Please specify a regionId in shipping address.","Angiv venligst en region i leveringsadresse.",module,Magento_Checkout
 "Terms and Conditions","Vilkår og betingelser",module,Magento_CheckoutAgreements
 "Add New Condition","Tilføj ny betingelse",module,Magento_CheckoutAgreements
 "Save Condition","Gem tilstand",module,Magento_CheckoutAgreements
@@ -10147,7 +10147,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Use commas or paragraph to separate SKUs.","Use commas or paragraph to separate SKUs.",module,Magento_QuickOrder
 "Add to List","Add to List",module,Magento_QuickOrder
 "Order by SKU","Rækkefølge af SKU",module,Magento_QuickOrder
-"Enter SKU or Product Name","Enter SKU or Product Name",module,Magento_QuickOrder
+"Enter SKU or Product Name","Indtast varenummer eller produktnavn",module,Magento_QuickOrder
 "Qty","Antal",module,Magento_QuickOrder
 "Add to Cart","Læg i kurv",module,Magento_QuickOrder
 "Remove Row","Fjern række",module,Magento_QuickOrder
