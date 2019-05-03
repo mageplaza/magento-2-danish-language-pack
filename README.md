@@ -4,6 +4,7 @@ Welcome to **Magento 2 Danish Language Pack**! Today, I will guide you how to ge
 
 Read more [Magento 2 Danish Language Pack](https://www.mageplaza.com/magento-2-danish-language-pack.html)
 
+![Mageplaza Danish language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
