@@ -1,6 +1,6 @@
 ## Magento 2 Danish Language Pack
 
-Welcome to **Magento 2 Danish Language Pack**! Today, I will guide you how to get Danish language package and install it on your Magento 2 stores. Please keep tracking the well-documented intructions in this post.
+Welcome to **Magento 2 Danish Language Pack**! The guide below by Mageplaza will show you how to make your own contributions to the Danish language package and install it on your Magento 2 stores.
 
 Read more [Magento 2 Danish Language Pack](https://www.mageplaza.com/magento-2-danish-language-pack.html)
 
